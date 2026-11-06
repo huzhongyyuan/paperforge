@@ -36,3 +36,7 @@ The paper-specific anti-defensive writing module retains its [upstream MIT notic
 ## Direct-writing principles
 
 The general direct-writing reference is adapted from the user-requested [huzhongyyuan/anti-defensive-writing](https://github.com/huzhongyyuan/anti-defensive-writing) at commit `5f0174fca24c34a700b10a447b276d67494a7d7f`. The source did not include an explicit license at the checked revision; inclusion does not relicense it under this repository's MIT notice. See [the adapted reference](paperforge/references/direct-writing.md) for source and scope.
+
+## Curated external projects
+
+The [upstream guide](paperforge/references/source-evaluation.md) contains original summaries, links and dated public repository metadata. This curation adds no third-party skill code or assets. Each referenced project retains its own copyright and license, including per-skill exceptions recorded in the guide.

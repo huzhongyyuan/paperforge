@@ -1,0 +1,330 @@
+{
+  "curated_by": "huzhongyuan",
+  "checked_on": "2026-11-06",
+  "timezone": "Asia/Shanghai",
+  "scope": "Selected related projects from existing research and current primary-source checks; not an exhaustive GitHub ranking. Stars are repository-level counts.",
+  "validation": "GitHub metadata, pinned README, selected SKILL/reference and license files inspected; no third-party installation or runtime benchmark.",
+  "entries": [
+    {
+      "repository": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars": 56253,
+      "checked_at": "2026-11-06T16:39:36+08:00",
+      "commit": "a25cf9ec00e2745d03f8704acf6f6919694ccd9a",
+      "pushed_at": "2026-11-02T09:23:27Z",
+      "archived": false,
+      "kind": "open-source-skills",
+      "purpose": "通用科学研究、科学写作、文献综述、引用核验、审稿、期刊模板和数据可视化。",
+      "license_note": "MIT；所选技能也声明 MIT。",
+      "notes": "按需选技能；期刊规则以具体刊物和文章类型的当前指南为准。",
+      "readme": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/README.md",
+      "github_metadata_license": "MIT",
+      "inspected_files": [
+        {
+          "path": "skills/venue-templates/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/venue-templates/SKILL.md",
+          "blob_sha": "74e9d03ff7d3cc4029cbafadf9ab93a27cb66712",
+          "sha256": "8607993327f451cc6b9d7ca7502c0e7d5f5060954fec12e2ea779d96841e78b5"
+        },
+        {
+          "path": "skills/scientific-writing/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/scientific-writing/SKILL.md",
+          "blob_sha": "446993fcd4716ae54ab74bc2a91e3bc5af5235c7",
+          "sha256": "511a2096bebecd8cf0f8212b9d262d37154ae1ba566eb385d93ac968682edbd1"
+        },
+        {
+          "path": "skills/literature-review/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/literature-review/SKILL.md",
+          "blob_sha": "5178dce6419cee412155e7b9dd523d5b2ef703f5",
+          "sha256": "16a9e85bcdcb9bb859e1646bf836e51b22900445ba2e367d8d75be05b5a5cba8"
+        },
+        {
+          "path": "LICENSE.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/LICENSE.md",
+          "blob_sha": "eb246475fd5a66b9bb56176f3a718984632dd98d",
+          "sha256": "09b02a3c9df3053c55531d503357a9c7cde275970e6c3ceaa1ddf5f0e90b40c1"
+        },
+        {
+          "path": "skills/peer-review/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/peer-review/SKILL.md",
+          "blob_sha": "d4f3c3e3b5c19fec2518d569ded7e37ac96a964b",
+          "sha256": "a042ccdc76d3399431b9a6c4cd4f98968eab964b1c14baeea4d9e73de82c7d19"
+        },
+        {
+          "path": "skills/citation-management/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/citation-management/SKILL.md",
+          "blob_sha": "b63b589d4d423969a63e032e62c2b74969147c1c",
+          "sha256": "dc79fe1e8438dcf598040615d5323360c6a7ed0b868fc3ffc82512c871a1e3ff"
+        },
+        {
+          "path": "skills/scientific-visualization/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/scientific-visualization/SKILL.md",
+          "blob_sha": "44ea38c24fb5015535254bfd9b5ae9a856195408",
+          "sha256": "8cbde7cdc10d959cf72cfd08335cc8ce996247eee6ebdb900eb64a4cb0ff34a3"
+        },
+        {
+          "path": "skills/venue-templates/references/nature_science_style.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/venue-templates/references/nature_science_style.md",
+          "blob_sha": "fa8e39ca6bf06be9f64c0997a4d74c800a28cd07",
+          "sha256": "439c2ee29f44de59c4a1d5fa4fb721e2458a5c51392db61d04f765f96b3b9d1a"
+        }
+      ]
+    },
+    {
+      "repository": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "stars": 18757,
+      "checked_at": "2026-11-06T16:39:35+08:00",
+      "commit": "2901234ad2954cd2388ced8d3aed2ed9de42803a",
+      "pushed_at": "2026-11-06T04:09:40Z",
+      "archived": false,
+      "kind": "open-source-skills",
+      "purpose": "研究到论文的流程、原始结果与论文主张核对、研究审阅。",
+      "license_note": "MIT 根许可。",
+      "notes": "多模型审阅和自动循环有独立运行环境、模型设置与调用成本；选择前匹配现有预算及模型配置。",
+      "readme": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/2901234ad2954cd2388ced8d3aed2ed9de42803a/README.md",
+      "github_metadata_license": "MIT",
+      "inspected_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/2901234ad2954cd2388ced8d3aed2ed9de42803a/LICENSE",
+          "blob_sha": "8fe03d26d87a5e5d4934ee50039ff255eb67406a",
+          "sha256": "e30cf5dd5f49b4f9b656590e23d782b4756c924a9f0ff0162b3e7b5d87006bf5"
+        },
+        {
+          "path": "skills/paper-claim-audit/SKILL.md",
+          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/2901234ad2954cd2388ced8d3aed2ed9de42803a/skills/paper-claim-audit/SKILL.md",
+          "blob_sha": "6889da5372a59d809b0fe67edaf837badb5265cb",
+          "sha256": "3cf3ecdf14899aa011c7f5baf5efcba7a67e940a65e7938170426f4af2b032ea"
+        },
+        {
+          "path": "skills/research-review/SKILL.md",
+          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/2901234ad2954cd2388ced8d3aed2ed9de42803a/skills/research-review/SKILL.md",
+          "blob_sha": "1b43f374fcfa4e21f09afac9db62a00dc3b735fc",
+          "sha256": "71982b92a7790229076204d7b7264bf5d31e9053169ec140ca0c6cca849ab7ab"
+        },
+        {
+          "path": "skills/paper-writing/SKILL.md",
+          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/2901234ad2954cd2388ced8d3aed2ed9de42803a/skills/paper-writing/SKILL.md",
+          "blob_sha": "224093a743096b6dd129728fc483bdb4e930a115",
+          "sha256": "295bd0b3852635258a60c1917dcca29256c690bb6dde5c6ac49732b905ff8743"
+        }
+      ]
+    },
+    {
+      "repository": "Orchestra-Research/AI-Research-SKILLs",
+      "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+      "stars": 14309,
+      "checked_at": "2026-11-06T16:39:35+08:00",
+      "commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+      "pushed_at": "2026-10-11T02:56:34Z",
+      "archived": false,
+      "kind": "open-source-skills",
+      "purpose": "ML/AI 论文结构、研究构思、数据图和会议报告。",
+      "license_note": "MIT；所选技能也声明 MIT。",
+      "notes": "数据图和基于 Gemini 的架构图是不同路径，后者依赖外部服务。",
+      "readme": "https://github.com/Orchestra-Research/AI-Research-SKILLs/blob/773a52944ba4747a18bd4ae9ade53fff041adcbc/README.md",
+      "github_metadata_license": "MIT",
+      "inspected_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/blob/773a52944ba4747a18bd4ae9ade53fff041adcbc/LICENSE",
+          "blob_sha": "943d5753a5f02f9ef352ff8a1706f167004d6e6d",
+          "sha256": "80b5899a9ab121a2d4aae63724f0c11defba7f23da487086932bb9abfb0f2a00"
+        },
+        {
+          "path": "20-ml-paper-writing/ml-paper-writing/SKILL.md",
+          "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/blob/773a52944ba4747a18bd4ae9ade53fff041adcbc/20-ml-paper-writing/ml-paper-writing/SKILL.md",
+          "blob_sha": "2090941c1d1e6b619e5ab32147741546c8dbdb09",
+          "sha256": "96733e6d758642d792ed15b7c08eb90548d4775099368cd72a8312127f2fe911"
+        },
+        {
+          "path": "20-ml-paper-writing/academic-plotting/SKILL.md",
+          "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/blob/773a52944ba4747a18bd4ae9ade53fff041adcbc/20-ml-paper-writing/academic-plotting/SKILL.md",
+          "blob_sha": "ee4ff26d6db646baa106c2d516dc1451e9bb1a4d",
+          "sha256": "6613653d8109dcae36596b37d7414d5ae394a18f81543365222286d04485fd83"
+        },
+        {
+          "path": "21-research-ideation/brainstorming-research-ideas/SKILL.md",
+          "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/blob/773a52944ba4747a18bd4ae9ade53fff041adcbc/21-research-ideation/brainstorming-research-ideas/SKILL.md",
+          "blob_sha": "f5427a507c009fe0a91e51e213b340987334adb4",
+          "sha256": "8422a1a6dc0a88d05f02b9fbe0f8c2ae06a77024856d18125efa13d19d855d46"
+        }
+      ]
+    },
+    {
+      "repository": "Master-cai/Research-Paper-Writing-Skills",
+      "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
+      "stars": 8131,
+      "checked_at": "2026-11-06T16:39:39+08:00",
+      "commit": "77e7c2c1ba06f7d71844873147665437a03aac1b",
+      "pushed_at": "2026-06-23T02:28:54Z",
+      "archived": false,
+      "kind": "open-source-skills",
+      "purpose": "ML/CV/NLP 逐节写作、段落衔接、主张—证据检查。",
+      "license_note": "MIT 根许可；README 保留其写作知识来源。",
+      "notes": "聚焦写作指导；不是完整实验或绘图执行环境。",
+      "readme": "https://github.com/Master-cai/Research-Paper-Writing-Skills/blob/77e7c2c1ba06f7d71844873147665437a03aac1b/README.md",
+      "github_metadata_license": "MIT",
+      "inspected_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills/blob/77e7c2c1ba06f7d71844873147665437a03aac1b/LICENSE",
+          "blob_sha": "5712ae3ac4401430c274d07e33dc735dcb5ee1f7",
+          "sha256": "35c09859b7c68b287e3943850006eea0f792a7ecb144c672146c5bbae0e6c09e"
+        },
+        {
+          "path": "research-paper-writing/SKILL.md",
+          "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills/blob/77e7c2c1ba06f7d71844873147665437a03aac1b/research-paper-writing/SKILL.md",
+          "blob_sha": "f11aecaab287883593a4b79def3f4ece15f7a4b2",
+          "sha256": "62ef11c06f2796c74e55ab24908ed31bafebfa0f1b736499d1615ac374cf7f6d"
+        }
+      ]
+    },
+    {
+      "repository": "K-Dense-AI/claude-scientific-writer",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+      "stars": 2556,
+      "checked_at": "2026-11-06T16:39:44+08:00",
+      "commit": "529b9f73ab4b48925027145800d7b49e96ccfd3c",
+      "pushed_at": "2026-10-31T03:39:24Z",
+      "archived": false,
+      "kind": "open-source-skills-and-application",
+      "purpose": "科学写作、期刊格式与文档生产；部分技能与 K-Dense 大库重叠。",
+      "license_note": "MIT 根许可及所选写作／模板技能；打包的部分文档技能另有许可。",
+      "notes": "独立写作技能有离线工具；完整应用需要 Anthropic 和检索服务配置。",
+      "readme": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/529b9f73ab4b48925027145800d7b49e96ccfd3c/README.md",
+      "github_metadata_license": "MIT",
+      "inspected_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/529b9f73ab4b48925027145800d7b49e96ccfd3c/LICENSE",
+          "blob_sha": "9c7a1477761fa1403f7e3b8860d4fe50353e46ad",
+          "sha256": "6ea149808a174cbe116b4726cd06fe251d91eb9277c2842339c7ae14c4bc8523"
+        },
+        {
+          "path": ".claude/skills/venue-templates/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/529b9f73ab4b48925027145800d7b49e96ccfd3c/.claude/skills/venue-templates/SKILL.md",
+          "blob_sha": "8bba07c8cd8416a25ebf5ff5f7885d60d3dc6e13",
+          "sha256": "0635f0b7345dfb7a5cdc4c61cc65163ed3d88fa6ef5afa25931d0cc5613d44c1"
+        },
+        {
+          "path": ".claude/skills/scientific-writing/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-writer/blob/529b9f73ab4b48925027145800d7b49e96ccfd3c/.claude/skills/scientific-writing/SKILL.md",
+          "blob_sha": "bb4741e7264302bc5cee6cc1a42e521117728b2a",
+          "sha256": "f6026e7d79cd3133e9343a7d6e6c5e06f4ad061888efb6a73fcb95e073eebf67"
+        }
+      ]
+    },
+    {
+      "repository": "dwzhu-pku/PaperBanana",
+      "url": "https://github.com/dwzhu-pku/PaperBanana",
+      "stars": 7582,
+      "checked_at": "2026-11-06T16:39:45+08:00",
+      "commit": "dafc2d41c10395c8bc37faad26836070fef0add8",
+      "pushed_at": "2026-11-03T14:30:54Z",
+      "archived": false,
+      "kind": "open-source-tool-with-skill",
+      "purpose": "根据方法文字生成学术示意图，并提供 skill 入口。",
+      "license_note": "根 Apache-2.0；skill/SKILL.md 另标 MIT-0。",
+      "notes": "生成图需核对文字和拓扑；统计图代码仍列在该版本 README TODO。",
+      "readme": "https://github.com/dwzhu-pku/PaperBanana/blob/dafc2d41c10395c8bc37faad26836070fef0add8/README.md",
+      "github_metadata_license": "Apache-2.0",
+      "inspected_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/dwzhu-pku/PaperBanana/blob/dafc2d41c10395c8bc37faad26836070fef0add8/LICENSE",
+          "blob_sha": "7a4a3ea2424c09fbe48d455aed1eaa94d9124835",
+          "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+        },
+        {
+          "path": "skill/SKILL.md",
+          "url": "https://github.com/dwzhu-pku/PaperBanana/blob/dafc2d41c10395c8bc37faad26836070fef0add8/skill/SKILL.md",
+          "blob_sha": "5eb8225a00fd59f14dc38c770df2dd63dfe48b9b",
+          "sha256": "c25c51368840d0358ab9c9727c5d53d6e4649c909d079d3ffe198a63e4495646"
+        }
+      ]
+    },
+    {
+      "repository": "ResearAI/AutoFigure-Edit",
+      "url": "https://github.com/ResearAI/AutoFigure-Edit",
+      "stars": 4416,
+      "checked_at": "2026-11-06T16:39:48+08:00",
+      "commit": "16f3749e9d512bdf7b7b55c162307bc289750b7a",
+      "pushed_at": "2026-07-25T06:48:38Z",
+      "archived": false,
+      "kind": "open-source-tool",
+      "purpose": "方法文字或已有栅格图转成可编辑 SVG，并在编辑器中修改。",
+      "license_note": "MIT 根许可。",
+      "notes": "属于独立工具；需配置模型/API，重建的标签、箭头和数据语义需复核。",
+      "readme": "https://github.com/ResearAI/AutoFigure-Edit/blob/16f3749e9d512bdf7b7b55c162307bc289750b7a/README.md",
+      "github_metadata_license": "MIT",
+      "inspected_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/ResearAI/AutoFigure-Edit/blob/16f3749e9d512bdf7b7b55c162307bc289750b7a/LICENSE",
+          "blob_sha": "971026761695b4a6e0c10e192b4a014c7667a931",
+          "sha256": "f0fe2704cb0d766b049993d4e9efe2ee3213d9d2e8591255d5efbf1954be4c9e"
+        }
+      ]
+    },
+    {
+      "repository": "OpenDCAI/Paper2Any",
+      "url": "https://github.com/OpenDCAI/Paper2Any",
+      "stars": 2824,
+      "checked_at": "2026-11-06T16:39:52+08:00",
+      "commit": "b538531e25798d9b9d41afd5fa93c9222949b5a5",
+      "pushed_at": "2026-08-31T03:48:50Z",
+      "archived": false,
+      "kind": "legacy-open-source-tool",
+      "purpose": "历史开源的论文图表、PPT 和文档转换工作台。",
+      "license_note": "公开历史代码为 Apache-2.0。",
+      "notes": "当前 Studio/Nexus 与桌面商业实现未完整开源，新产品功能不再同步到该仓库。",
+      "readme": "https://github.com/OpenDCAI/Paper2Any/blob/b538531e25798d9b9d41afd5fa93c9222949b5a5/README.md",
+      "github_metadata_license": "Apache-2.0",
+      "inspected_files": [
+        {
+          "path": "LICENSE",
+          "url": "https://github.com/OpenDCAI/Paper2Any/blob/b538531e25798d9b9d41afd5fa93c9222949b5a5/LICENSE",
+          "blob_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+          "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+        }
+      ]
+    },
+    {
+      "repository": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "stars": 187896,
+      "checked_at": "2026-11-06T16:39:42+08:00",
+      "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+      "pushed_at": "2026-10-28T19:20:39Z",
+      "archived": false,
+      "kind": "source-available-reference",
+      "purpose": "文档、PPT 与其他技能的公开参考实现。",
+      "license_note": "逐技能许可；本次核对的 PPTX/DOCX 为 Proprietary。",
+      "notes": "公开可读不等于可按 MIT 再分发，文档技能不列为可复制的开源项。",
+      "readme": "https://github.com/anthropics/skills/blob/ca45fc496a3436251f191354091d557da31c15b5/README.md",
+      "github_metadata_license": null,
+      "inspected_files": [
+        {
+          "path": "skills/pptx/LICENSE.txt",
+          "url": "https://github.com/anthropics/skills/blob/ca45fc496a3436251f191354091d557da31c15b5/skills/pptx/LICENSE.txt",
+          "blob_sha": "c55ab42224874608473643de0a85736b7fec0730",
+          "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa"
+        },
+        {
+          "path": "skills/docx/LICENSE.txt",
+          "url": "https://github.com/anthropics/skills/blob/ca45fc496a3436251f191354091d557da31c15b5/skills/docx/LICENSE.txt",
+          "blob_sha": "c55ab42224874608473643de0a85736b7fec0730",
+          "sha256": "79f6d8f5b427252fa3b1c11ecdbdb6bf610b944f7530b4de78f770f38741cfaa"
+        },
+        {
+          "path": "skills/pptx/SKILL.md",
+          "url": "https://github.com/anthropics/skills/blob/ca45fc496a3436251f191354091d557da31c15b5/skills/pptx/SKILL.md",
+          "blob_sha": "41cd2306977f269bb1d8169a9643b35053aa66bd",
+          "sha256": "a7ff03e2c85b636f55232a6b1555f5dd90216b7a1a359ab289d8364e6acbc6a0"
+        }
+      ]
+    }
+  ]
+}

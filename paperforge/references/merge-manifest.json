@@ -118,7 +118,7 @@
       "source_path": "references/source-evaluation.md",
       "source_sha256": "dc1da249bc63001594400daf0c931462b5080695df2385354b343ecc84935765",
       "destination": "references/source-evaluation.md",
-      "merged_sha256": "ea312f33dabc8600363fa28926b3248674a5fcac3bf02e8e74648adb117b9be4",
+      "merged_sha256": "dda5239d7d91b848ed586c11f5e921a8969060d952b247d2d830c8515daf0485",
       "unchanged": false
     },
     {
@@ -656,7 +656,7 @@
     },
     {
       "path": "SKILL.md",
-      "sha256": "43c5a32c96bbfc0ece8eb913211e8a4f670b743680160733877b999789a4118e"
+      "sha256": "4764a9c5a74da45586a599c9d8fe70b2dbd4f6bdd65834b6301a4af3931ca482"
     },
     {
       "path": "agents/openai.yaml",
@@ -1284,7 +1284,15 @@
     },
     {
       "path": "references/source-evaluation.md",
-      "sha256": "ea312f33dabc8600363fa28926b3248674a5fcac3bf02e8e74648adb117b9be4"
+      "sha256": "dda5239d7d91b848ed586c11f5e921a8969060d952b247d2d830c8515daf0485"
+    },
+    {
+      "path": "references/upstream-catalog.json",
+      "sha256": "23fb99fa356d4d353c0614e3ed44d6d16d7c7f0ed660d3b94537832ca07708b8"
+    },
+    {
+      "path": "references/upstream-landscape-20260804.md",
+      "sha256": "6a4600833a12670c38118a6c0159c55592c2dfa95e5977073bbc5fa877787c77"
     },
     {
       "path": "scripts/audit_project.py",
@@ -1302,5 +1310,12 @@
       "path": "scripts/render_diagram_svg.py",
       "sha256": "3b74886e818276cb32f3d104e4298e5356603b7aafe2403fb1267e0d653fea05"
     }
-  ]
+  ],
+  "curated_upstreams": {
+    "catalog": "references/upstream-catalog.json",
+    "guide": "references/source-evaluation.md",
+    "checked_on": "2026-11-06",
+    "projects": 9,
+    "execution_validation": "not performed"
+  }
 }
