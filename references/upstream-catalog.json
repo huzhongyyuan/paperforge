@@ -68,7 +68,16 @@
           "blob_sha": "fa8e39ca6bf06be9f64c0997a4d74c800a28cd07",
           "sha256": "439c2ee29f44de59c4a1d5fa4fb721e2458a5c51392db61d04f765f96b3b9d1a"
         }
-      ]
+      ],
+      "paperforge_integration": {
+        "status": "adapted-guidance",
+        "destinations": [
+          "references/journal-writing.md",
+          "references/literature-and-citations.md",
+          "references/scientific-data-figures.md"
+        ],
+        "details": "references/upstream-integration.md"
+      }
     },
     {
       "repository": "wanshuiyin/Auto-claude-code-research-in-sleep",
@@ -109,7 +118,14 @@
           "blob_sha": "224093a743096b6dd129728fc483bdb4e930a115",
           "sha256": "295bd0b3852635258a60c1917dcca29256c690bb6dde5c6ac49732b905ff8743"
         }
-      ]
+      ],
+      "paperforge_integration": {
+        "status": "adapted-guidance",
+        "destinations": [
+          "references/top-conference-writing.md"
+        ],
+        "details": "references/upstream-integration.md"
+      }
     },
     {
       "repository": "Orchestra-Research/AI-Research-SKILLs",
@@ -150,7 +166,15 @@
           "blob_sha": "f5427a507c009fe0a91e51e213b340987334adb4",
           "sha256": "8422a1a6dc0a88d05f02b9fbe0f8c2ae06a77024856d18125efa13d19d855d46"
         }
-      ]
+      ],
+      "paperforge_integration": {
+        "status": "adapted-guidance",
+        "destinations": [
+          "references/top-conference-writing.md",
+          "references/literature-and-citations.md"
+        ],
+        "details": "references/upstream-integration.md"
+      }
     },
     {
       "repository": "Master-cai/Research-Paper-Writing-Skills",
@@ -179,7 +203,14 @@
           "blob_sha": "f11aecaab287883593a4b79def3f4ece15f7a4b2",
           "sha256": "62ef11c06f2796c74e55ab24908ed31bafebfa0f1b736499d1615ac374cf7f6d"
         }
-      ]
+      ],
+      "paperforge_integration": {
+        "status": "adapted-guidance",
+        "destinations": [
+          "references/top-conference-writing.md"
+        ],
+        "details": "references/upstream-integration.md"
+      }
     },
     {
       "repository": "K-Dense-AI/claude-scientific-writer",

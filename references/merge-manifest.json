@@ -86,8 +86,8 @@
       "source_path": "references/manuscript-layout.md",
       "source_sha256": "d13df9e27e7e85f97119058204807842dd05ddb2665ab88e9e23fb23da9177e1",
       "destination": "references/manuscript-layout.md",
-      "merged_sha256": "d13df9e27e7e85f97119058204807842dd05ddb2665ab88e9e23fb23da9177e1",
-      "unchanged": true
+      "merged_sha256": "4be6c6207a3ffa3992c6570d24565a3629de28b21b637a7c6062e99cb81e80e2",
+      "unchanged": false
     },
     {
       "source_skill": "research-framework",
@@ -102,7 +102,7 @@
       "source_path": "references/review-gates.md",
       "source_sha256": "e47436db49773a97bdd446308b6e5e68a4e5b83e6c96a2571ac49a0376cb55f7",
       "destination": "references/review-gates.md",
-      "merged_sha256": "a59a795b6d8d75719e047650e2e48d82c2e20cff168077633616373211dd99c2",
+      "merged_sha256": "5d96fda4b5ca2dbdbeb7bfb8274e22fd383091c55361c0d4b2920d202cd5e1d5",
       "unchanged": false
     },
     {
@@ -118,7 +118,7 @@
       "source_path": "references/source-evaluation.md",
       "source_sha256": "dc1da249bc63001594400daf0c931462b5080695df2385354b343ecc84935765",
       "destination": "references/source-evaluation.md",
-      "merged_sha256": "dda5239d7d91b848ed586c11f5e921a8969060d952b247d2d830c8515daf0485",
+      "merged_sha256": "002f8adfd2813aee09eb68f467f8a9069d52d8719f13150e2ae0c56a83877bcf",
       "unchanged": false
     },
     {
@@ -651,16 +651,28 @@
   },
   "current_resources": [
     {
+      "path": ".gitignore",
+      "sha256": "8c94927ec6c0329453d2dafaaaf3dfdf66e38a07c0c900552b02b6e408f533a1"
+    },
+    {
       "path": "LICENSE.txt",
       "sha256": "0e909d726c9ae139225cdfc6217939652b13d104be2935d8f9b6af1c15a6058c"
     },
     {
+      "path": "README.md",
+      "sha256": "806d431c1270e2ea4177f6f41c856653a5d5835ee8b3210b709af7813f0a2f5f"
+    },
+    {
       "path": "SKILL.md",
-      "sha256": "4764a9c5a74da45586a599c9d8fe70b2dbd4f6bdd65834b6301a4af3931ca482"
+      "sha256": "bf0e5ef4afde9a96e5b3687709e8058e996d212a0eb4de2855b2e4dfdc645ebe"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "4d2b8d9a5964b33f1fededfb96cb140a554c62c7aac51c70a3570349eac377e2"
     },
     {
       "path": "agents/openai.yaml",
-      "sha256": "ea37596e8dfd12118d9fec7b7dcacd671b8271c6285ee52537b198a0a5a60530"
+      "sha256": "cc04184e35b022a91a935e6147f9010ee660b8b356947bd434a0a63831093173"
     },
     {
       "path": "assets/claims.template.csv",
@@ -1252,23 +1264,47 @@
     },
     {
       "path": "references/integrated-figures.md",
-      "sha256": "7e57252e5255780aabf8408692e61ed249d3f1729ac2ffbcfd71178235dacdc9"
+      "sha256": "bd3cd32847f2ccd296589f43bc384bad36e4149457ed24a0cd0064d5fadb67be"
     },
     {
       "path": "references/integrated-writing.md",
-      "sha256": "9563fb7cc816fe7a12effbef3c6837f8bc941bf3ead6b5cc4df8960368a0b6a9"
+      "sha256": "226bd619419a6ef0a174975a096eef8e155bae24a32b470cbe85fc7325bb3961"
+    },
+    {
+      "path": "references/journal-writing.md",
+      "sha256": "fd8e33ef8b30857c13b15e5e856a90c6f79d777a850a6c54bfc3ed22f4b939a4"
     },
     {
       "path": "references/licenses/anti-defensive-writing-MIT.txt",
       "sha256": "cc3d842a912f0ed1fc80ae8d2ca7ab6cff37756422069424bf2edec554219fc9"
     },
     {
+      "path": "references/licenses/aris-MIT.txt",
+      "sha256": "e30cf5dd5f49b4f9b656590e23d782b4756c924a9f0ff0162b3e7b5d87006bf5"
+    },
+    {
+      "path": "references/licenses/k-dense-MIT.txt",
+      "sha256": "09b02a3c9df3053c55531d503357a9c7cde275970e6c3ceaa1ddf5f0e90b40c1"
+    },
+    {
+      "path": "references/licenses/orchestra-MIT.txt",
+      "sha256": "80b5899a9ab121a2d4aae63724f0c11defba7f23da487086932bb9abfb0f2a00"
+    },
+    {
+      "path": "references/licenses/research-paper-writing-MIT.txt",
+      "sha256": "35c09859b7c68b287e3943850006eea0f792a7ecb144c672146c5bbae0e6c09e"
+    },
+    {
+      "path": "references/literature-and-citations.md",
+      "sha256": "a24efcc9aaecc9ee8f5265693261baea0f464f4e3c385e5178fb931bb6275d92"
+    },
+    {
       "path": "references/manuscript-layout.md",
-      "sha256": "d13df9e27e7e85f97119058204807842dd05ddb2665ab88e9e23fb23da9177e1"
+      "sha256": "4be6c6207a3ffa3992c6570d24565a3629de28b21b637a7c6062e99cb81e80e2"
     },
     {
       "path": "references/merged-evidence.md",
-      "sha256": "ee8e7a90b9ff8400400743f4ec2935ffff8d5ccb9d5ba52ac33d450f1b951fb8"
+      "sha256": "1694cfb4d32150c24e0fcd24654d41d71261c5690d0faa0ba8420c88f68c60cb"
     },
     {
       "path": "references/ppt-diagrams.md",
@@ -1276,7 +1312,11 @@
     },
     {
       "path": "references/review-gates.md",
-      "sha256": "a59a795b6d8d75719e047650e2e48d82c2e20cff168077633616373211dd99c2"
+      "sha256": "5d96fda4b5ca2dbdbeb7bfb8274e22fd383091c55361c0d4b2920d202cd5e1d5"
+    },
+    {
+      "path": "references/scientific-data-figures.md",
+      "sha256": "fc4873c1d84243617196118b141acfc13802c3687ff6e7c5dbe8414580a43acd"
     },
     {
       "path": "references/section-writing.md",
@@ -1284,11 +1324,23 @@
     },
     {
       "path": "references/source-evaluation.md",
-      "sha256": "dda5239d7d91b848ed586c11f5e921a8969060d952b247d2d830c8515daf0485"
+      "sha256": "002f8adfd2813aee09eb68f467f8a9069d52d8719f13150e2ae0c56a83877bcf"
+    },
+    {
+      "path": "references/top-conference-writing.md",
+      "sha256": "548701fa7d30671f987eee8c975816169855142fedb77e126008a118634b14e7"
     },
     {
       "path": "references/upstream-catalog.json",
-      "sha256": "23fb99fa356d4d353c0614e3ed44d6d16d7c7f0ed660d3b94537832ca07708b8"
+      "sha256": "72f20b71213f4c013e223676eda58d0807f09de54175f9147308f41d7252bf07"
+    },
+    {
+      "path": "references/upstream-integration.json",
+      "sha256": "ad5f6260541f0b3d602500a6c8cdc40775f255ade9491beafb56557ea06b1162"
+    },
+    {
+      "path": "references/upstream-integration.md",
+      "sha256": "cb6951ccf42beeeacd37c75e2ac8f8b2c6076c0c513fc3b7f2f632e8873cafc5"
     },
     {
       "path": "references/upstream-landscape-20260804.md",
@@ -1317,5 +1369,18 @@
     "checked_on": "2026-11-06",
     "projects": 9,
     "execution_validation": "not performed"
-  }
+  },
+  "functional_upstream_integration": {
+    "record": "references/upstream-integration.json",
+    "primary": "CCF-A",
+    "optional": "Nature/Science",
+    "sources": 4,
+    "guidance_modules": [
+      "top-conference-writing.md",
+      "journal-writing.md",
+      "literature-and-citations.md",
+      "scientific-data-figures.md"
+    ]
+  },
+  "package_layout": "Repository root is the paperforge skill; install --path . --name paperforge."
 }

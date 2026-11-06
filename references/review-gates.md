@@ -10,6 +10,8 @@ Use these as independent passes. A single reviewer should not be trusted to catc
 - concurrent work and contrary evidence were searched;
 - placeholders and citations copied only from another bibliography are unresolved failures.
 
+For literature and bibliography work, use [literature and citations](literature-and-citations.md) to distinguish publication identity from support for a specific proposition.
+
 ## Gate 2 — Claim calibration
 
 For each major claim:
@@ -43,6 +45,8 @@ Cross-check repeated facts and names:
 - numbers in abstract, text, tables, captions, appendix, and slides;
 - train versus inference behavior;
 - claimed released artifacts versus actual repository state.
+
+For the requested audit scope, use the raw-result checks in [conference writing](top-conference-writing.md): aggregation, seeds, configuration, rounding and relative deltas.
 
 ## Gate 5 — Figure and table integrity
 

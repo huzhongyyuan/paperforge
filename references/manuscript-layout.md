@@ -4,6 +4,8 @@ Treat layout as part of the scientific argument. The goal is not to make every
 page equally dense; it is to make the claim-evidence path easy to follow while
 preserving the current official template.
 
+For a specified Nature/Science or other journal manuscript, also read [journal writing](journal-writing.md) to distinguish article type and submission stage. Conference work follows the [CCF-A route](top-conference-writing.md).
+
 ## Layout contract
 
 Before changing LaTeX, record:

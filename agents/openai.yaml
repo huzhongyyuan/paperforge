@@ -1,0 +1,7 @@
+interface:
+  display_name: "PaperForge · CCF-A 研究与写作"
+  short_description: "以 CCF-A 研究写作为主线，整合文献、实验、图表和审稿，期刊写作按需补充"
+  brand_color: "#315C86"
+  default_prompt: "使用 $paperforge，按 CCF-A 流程完成研究写作、实验叙事、图表或审稿；指定期刊时应用对应指南，并核对证据与结论范围。"
+policy:
+  allow_implicit_invocation: true

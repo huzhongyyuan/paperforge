@@ -1,6 +1,6 @@
 ---
 name: paperforge
-description: Write and revise research papers, design experiments and editable figures, lay out manuscripts, and prepare scientific reviews or rebuttals. Also revise technical explanations and delivery reports for direct, evidence-preserving expression. Use for paper writing, figures, layout, review, clear writing, and bundled ML/CV corpus queries.
+description: Plan research and write, revise, illustrate and review papers with a CCF-A focus. Covers experiments, literature and citation checks, editable figures, manuscript layout and rebuttals, with optional Nature/Science journal guidance. Also supports direct technical writing and bundled ML/CV corpus queries.
 license: MIT
 ---
 
@@ -10,12 +10,17 @@ Complete the user's requested research or writing artifact through one workflow.
 
 Use the supplied draft, code, results and prior conversation before asking for missing material. Read only what the task needs. A sentence edit needs its context and a meaning check; a full-paper audit or new workspace is appropriate only when the requested scope calls for it.
 
+Default paper work to the [CCF-A research and writing route](references/top-conference-writing.md), choosing the exact venue and contribution type from the task. Read the [journal supplement](references/journal-writing.md) when Nature/Science or another journal is requested. This selection preserves the requested scope; it does not make a local edit a submission audit.
+
 ## Route by function
 
 | Requested work | Read | Produce |
 |---|---|---|
 | Research idea, module or experiment design | [Integrated writing](references/integrated-writing.md), relevant phases of [research workflow](references/end-to-end-paper-workflow.md) | Falsifiable hypothesis, mechanism, closest-work check and minimal experiment plan; ideas remain hypotheses until tested. |
-| Draft or revise a section/manuscript | Integrated writing and the matching [section playbook](modules/top-ml/references/section-playbook.md) | Actual prose or source edits, with material evidence gaps identified. |
+| Draft/revise a CCF-A or ML/CV conference paper | [Conference writing](references/top-conference-writing.md), integrated writing and the matching [section playbook](modules/top-ml/references/section-playbook.md) | Actual prose or source edits, with material evidence gaps identified. |
+| Nature/Science or other journal manuscript | [Journal writing](references/journal-writing.md) and relevant integrated-writing guidance | Prose matched to the requested journal, article type and evidence; verify current format rules when needed. |
+| Related work, literature review or citation checking | [Literature and citations](references/literature-and-citations.md) | Evidence-linked synthesis, bibliography or search record, with identity and claim support checked separately. |
+| Numerical results or statistical data figures | [Scientific data figures](references/scientific-data-figures.md) and integrated figures | Real-data plots with analysis/code, units, uncertainty definition and inspected export. |
 | Figure plan or caption | [Integrated figures](references/integrated-figures.md) | Claims, panels, real-asset requirements, placement and usable captions. |
 | Draw/edit figures, plots or diagrams | Integrated figures, then [production](references/figure-production.md), [component tools](modules/share-tools/references/guide.md) or [PPT mechanics](references/ppt-diagrams.md) | Actual editable sources and inspected exports; a prompt alone does not complete drawing. |
 | Page budget, two columns, floats or pagination | [Manuscript layout](references/manuscript-layout.md), [layout examples](modules/top-ml/references/layout-playbook.md) | Source-level layout changes; compile/render when source permits and inspect affected pages. |

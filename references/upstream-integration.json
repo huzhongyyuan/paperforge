@@ -1,0 +1,114 @@
+{
+  "integrated_on": "2026-11-06",
+  "curated_by": "huzhongyuan",
+  "primary_route": "CCF-A research and paper writing; ML/CV case evidence",
+  "optional_route": "Nature/Science journal writing",
+  "type": "adapted guidance; existing production tools retained",
+  "sources": [
+    {
+      "repository": "Orchestra-Research/AI-Research-SKILLs",
+      "commit": "773a52944ba4747a18bd4ae9ade53fff041adcbc",
+      "license_file": "references/licenses/orchestra-MIT.txt",
+      "license_sha256": "80b5899a9ab121a2d4aae63724f0c11defba7f23da487086932bb9abfb0f2a00",
+      "source_files": [
+        {
+          "path": "20-ml-paper-writing/ml-paper-writing/SKILL.md",
+          "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs/blob/773a52944ba4747a18bd4ae9ade53fff041adcbc/20-ml-paper-writing/ml-paper-writing/SKILL.md",
+          "sha256": "96733e6d758642d792ed15b7c08eb90548d4775099368cd72a8312127f2fe911"
+        }
+      ],
+      "destinations": [
+        "references/top-conference-writing.md",
+        "references/literature-and-citations.md"
+      ],
+      "adopted": "研究仓库到论点、章节组织、实验问题及书目信息核验",
+      "adaptation": "将固定句数/页码/贡献数量视为示例；不导入统一录用断言、未核实统计或外部服务安装要求。"
+    },
+    {
+      "repository": "Master-cai/Research-Paper-Writing-Skills",
+      "commit": "77e7c2c1ba06f7d71844873147665437a03aac1b",
+      "license_file": "references/licenses/research-paper-writing-MIT.txt",
+      "license_sha256": "35c09859b7c68b287e3943850006eea0f792a7ecb144c672146c5bbae0e6c09e",
+      "source_files": [
+        {
+          "path": "research-paper-writing/SKILL.md",
+          "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills/blob/77e7c2c1ba06f7d71844873147665437a03aac1b/research-paper-writing/SKILL.md",
+          "sha256": "62ef11c06f2796c74e55ab24908ed31bafebfa0f1b736499d1615ac374cf7f6d"
+        }
+      ],
+      "destinations": [
+        "references/top-conference-writing.md"
+      ],
+      "adopted": "反向提纲、段落职责、术语稳定与主张—证据一致性",
+      "adaptation": "按请求规模执行，不强制每次附整套提纲、角色标签或审稿问卷。保留其公开笔记来源归属。"
+    },
+    {
+      "repository": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "commit": "2901234ad2954cd2388ced8d3aed2ed9de42803a",
+      "license_file": "references/licenses/aris-MIT.txt",
+      "license_sha256": "e30cf5dd5f49b4f9b656590e23d782b4756c924a9f0ff0162b3e7b5d87006bf5",
+      "source_files": [
+        {
+          "path": "skills/paper-claim-audit/SKILL.md",
+          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/blob/2901234ad2954cd2388ced8d3aed2ed9de42803a/skills/paper-claim-audit/SKILL.md",
+          "sha256": "3cf3ecdf14899aa011c7f5baf5efcba7a67e940a65e7938170426f4af2b032ea"
+        }
+      ],
+      "destinations": [
+        "references/top-conference-writing.md"
+      ],
+      "adopted": "直接从原始结果核对数值、配置、聚合、舍入和主张范围",
+      "adaptation": "保留核验方法；独立审阅沿用既有授权，不移入新Agent、模型固定值、自动循环或生产调度配置。"
+    },
+    {
+      "repository": "K-Dense-AI/scientific-agent-skills",
+      "commit": "a25cf9ec00e2745d03f8704acf6f6919694ccd9a",
+      "license_file": "references/licenses/k-dense-MIT.txt",
+      "license_sha256": "09b02a3c9df3053c55531d503357a9c7cde275970e6c3ceaa1ddf5f0e90b40c1",
+      "source_files": [
+        {
+          "path": "skills/scientific-writing/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/scientific-writing/SKILL.md",
+          "sha256": "511a2096bebecd8cf0f8212b9d262d37154ae1ba566eb385d93ac968682edbd1"
+        },
+        {
+          "path": "skills/venue-templates/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/venue-templates/SKILL.md",
+          "sha256": "8607993327f451cc6b9d7ca7502c0e7d5f5060954fec12e2ea779d96841e78b5"
+        },
+        {
+          "path": "skills/venue-templates/references/nature_science_style.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/venue-templates/references/nature_science_style.md",
+          "sha256": "439c2ee29f44de59c4a1d5fa4fb721e2458a5c51392db61d04f765f96b3b9d1a"
+        },
+        {
+          "path": "skills/peer-review/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/peer-review/SKILL.md",
+          "sha256": "a042ccdc76d3399431b9a6c4cd4f98968eab964b1c14baeea4d9e73de82c7d19"
+        },
+        {
+          "path": "skills/literature-review/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/literature-review/SKILL.md",
+          "sha256": "16a9e85bcdcb9bb859e1646bf836e51b22900445ba2e367d8d75be05b5a5cba8"
+        },
+        {
+          "path": "skills/citation-management/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/citation-management/SKILL.md",
+          "sha256": "dc79fe1e8438dcf598040615d5323360c6a7ed0b868fc3ffc82512c871a1e3ff"
+        },
+        {
+          "path": "skills/scientific-visualization/SKILL.md",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills/blob/a25cf9ec00e2745d03f8704acf6f6919694ccd9a/skills/scientific-visualization/SKILL.md",
+          "sha256": "8cbde7cdc10d959cf72cfd08335cc8ce996247eee6ebdb900eb64a4cb0ff34a3"
+        }
+      ],
+      "destinations": [
+        "references/journal-writing.md",
+        "references/literature-and-citations.md",
+        "references/scientific-data-figures.md"
+      ],
+      "adopted": "期刊与文章类型核对、研究设计/统计、可追溯文献、引用支持与真实数据图",
+      "adaptation": "期刊路线按请求加载，精确规则需读当前官方文件；复用现有记录，不强加独立账本或无关操作流程。"
+    }
+  ]
+}

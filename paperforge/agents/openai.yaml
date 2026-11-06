@@ -1,7 +1,0 @@
-interface:
-  display_name: "PaperForge · 研究与写作"
-  short_description: "统一论文写作、图表、排版与科学审稿，兼顾技术说明和汇报的直接表达"
-  brand_color: "#315C86"
-  default_prompt: "使用 $paperforge，按任务完成论文写作、图表、审稿或表达修改，并核对证据、术语和结论范围。"
-policy:
-  allow_implicit_invocation: true

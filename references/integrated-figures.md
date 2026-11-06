@@ -17,6 +17,8 @@
 
 案例只在相关任务中使用。样本比例与视觉密度由实际方法、素材和版面决定；不能把模板布局解释为作者未公开的画图过程。
 
+数值、消融、效率和期刊多面板结果图同时使用 [科学数据图](scientific-data-figures.md)，核对独立统计单位、归一化、缺失值与误差线。
+
 ## 可编辑生产路线
 
 **结构化图：** 使用本技能根目录的 `scripts/render_diagram_svg.py` 校验和渲染 JSON spec；需要原生 PPTX 时使用 `scripts/render_diagram_pptx.mjs`。同一套节点／边 ID 可对应不同 paper/slides 坐标，不要强行共用长宽比。脚本细节见 [figure-production](figure-production.md) 与 [ppt-diagrams](ppt-diagrams.md)。修改 spec 再生成，避免只改派生图。

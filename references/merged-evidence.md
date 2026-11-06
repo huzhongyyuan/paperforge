@@ -11,7 +11,7 @@
 | 直接表达 | 普通回答、技术说明、交付汇报的事实保持式精简 | [direct-writing](direct-writing.md) |
 | 论文表达 | 正文、图注和 rebuttal 的语义与证据检查 | [anti-defensive-writing](anti-defensive-writing.md) |
 
-唯一公开技能入口是 `paperforge/SKILL.md`；写作、图表、审稿与表达按功能路由。各模块保留专业资料和原始来源。旧入口只在本机兼容，不作为发布包中的并列技能。历史来源集以中性标签记录于 [merge-manifest.json](merge-manifest.json)，原文件哈希用于追溯；更新后内容使用 `current_resources` 校验。文献署名、固定版本和归属记录保留真实信息。
+唯一公开技能入口是 根目录 `SKILL.md`；写作、图表、审稿与表达按功能路由。各模块保留专业资料和原始来源。旧入口只在本机兼容，不作为发布包中的并列技能。历史来源集以中性标签记录于 [merge-manifest.json](merge-manifest.json)，原文件哈希用于追溯；更新后内容使用 `current_resources` 校验。文献署名、固定版本和归属记录保留真实信息。
 
 模块内命令路径相对于对应模块根目录；从外部使用明确的绝对路径或 [corpus tools](corpus-tools.md) 的根目录命令。
 
@@ -58,3 +58,7 @@ Oral 3 / Highlight 2 / Poster 1 用于论文加权的描述性统计，未知标
 ## 通用直接表达增补 — 2026-11-06
 
 整合 [huzhongyyuan/anti-defensive-writing](https://github.com/huzhongyyuan/anti-defensive-writing) 的固定版本 `5f0174fca24c34a700b10a447b276d67494a7d7f`。通用表达使用直接表达模块，论文仍先科学审阅再精简。该整合没有新增写作效果实验，格式与链接检查不代表写作质量评测。
+
+## CCF-A 主线与开源指导整合 — 2026-11-06
+
+按用户最新偏好，以 CCF-A 研究写作为主线，Nature/Science 作为可选期刊补充。将选定开源指导接入会议论证、文献与引用、数据图和期刊写作四个功能参考；固定来源、许可和适配见 [整合记录](upstream-integration.md)。此更新增加指导内容，不增加论文精读或实验数量。资源目录的 Star 徽章自动更新，机器记录保留日期快照。
