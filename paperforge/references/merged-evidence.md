@@ -1,0 +1,60 @@
+# 来源、覆盖与维护位置
+
+原资料合并日期：2026-09-17；单入口及功能统一：2026-11-06。本次重组已有资料，并纳入用户指定的直接表达原则；未新增会议／案例论文检索或重跑科学实验。
+
+| 功能资源 | 整合内容 | 维护位置 |
+|---|---|---|
+| 研究与论文生产 | 实验、证据记录、排版、审稿、SVG/PPTX 生产 | 根目录 `references/`、`scripts/`、`assets/` |
+| 会议写作样本 | 分章节、图表、布局、元数据与检索工具 | `modules/top-ml/`、`modules/iclr2025/`、`modules/cvpr2024-2026/` |
+| 问题驱动案例 | 核心研读、合作作品概览、模块／图表分析、四张 SVG 模板 | `modules/case-library/` |
+| 分享包工具 | 共享事实、术语／形式检查、程序化框架图 | `modules/share-tools/` |
+| 直接表达 | 普通回答、技术说明、交付汇报的事实保持式精简 | [direct-writing](direct-writing.md) |
+| 论文表达 | 正文、图注和 rebuttal 的语义与证据检查 | [anti-defensive-writing](anti-defensive-writing.md) |
+
+唯一公开技能入口是 `paperforge/SKILL.md`；写作、图表、审稿与表达按功能路由。各模块保留专业资料和原始来源。旧入口只在本机兼容，不作为发布包中的并列技能。历史来源集以中性标签记录于 [merge-manifest.json](merge-manifest.json)，原文件哈希用于追溯；更新后内容使用 `current_resources` 校验。文献署名、固定版本和归属记录保留真实信息。
+
+模块内命令路径相对于对应模块根目录；从外部使用明确的绝对路径或 [corpus tools](corpus-tools.md) 的根目录命令。
+
+## 会议库：元数据与全文样本分开
+
+快照日期 **2026-08-04**：官方源收集的 **25,421 条元数据**；成功提取全文结构的分层样本 **55 篇**，另有 13 个样本访问失败。标题／展示类别统计来自元数据，章节长度与结构统计来自成功的 PDF 样本。ICML 2026 在此快照中贡献元数据，未贡献成功全文样本。
+
+会议、年份、来源状态及抽样方法见 [evidence-base](../modules/top-ml/references/evidence-base.md)，具体元数据见 [manifest](../modules/top-ml/references/corpus/manifest.json)，提取统计见 [analysis summary](../modules/top-ml/references/analysis/analysis_summary.json)。这些数字描述原始快照；后续 ICLR/CVPR 模块的实际覆盖分别见下文，不把可续跑分析器等同于已完成分析。
+
+当年尚未公开或未来的 venue 状态是快照记录，不代表合并当天或未来仍未公开。只有需要当前数据时才刷新官方源。通用流程可支持其他 CCF-A 学科，但本会议语料主要是 ML/CV，不能据此声称覆盖了所有 CCF-A 会议、学科或每篇全文。
+
+## 作者库：核心研读与结构概览分开
+
+核查截至 **2026-09-16**：**24 篇一作／共一方法论文 + 1 篇综述**进行了章节、主要模块和实验研读；**33 篇其他合作论文**为结构／模块阅读，部分协议补读；另有 **6 篇未确认同名候选、3 篇较早背景 PDF**。记录 **67 个唯一固定版本 PDF** 的来源，但发行包不包含完整 PDF。AKU 仅有框架学习，不计入核心方法数量。
+
+**53 条已确认身份记录**满足首发年或已独立核验 venue 年在 2025/26。Canvas、Emoji、Motion 另有逐段图谱；并非所有记录都逐句精读。核查采用作者主页、项目／官方来源及 arXiv 等有界检索，不能承诺全网穷尽；实验、延迟和全部视频效果未复现。
+
+详情和固定版本见 [作者账本](../modules/case-library/references/corpus-2025-2026.md)、[JSON 账本](../modules/case-library/references/corpus-2025-2026.json) 和 [source manifest](../modules/case-library/references/source-manifest.json)。不同库可能重叠，不把元数据、全文样本、作者卡片数量直接相加为“精读论文总数”。来源图摘录及原文件许可证／归属保持不变。
+
+## 验证能说明什么
+
+技能格式、内部链接、来源文件保留、语料查询及绘图工具的运行检查可验证整合和可用性；它们不验证研究结论，不证明作者个人写法，也不保证录用。对于实际论文，仍需按用户材料完成真正写作、实验解释、编译与视觉检查。
+
+
+## ICLR 2025 addition — 2026-09-18
+
+The reconciled official main-conference metadata has **3,705 unique records**, including all **3,703 proceedings entries** and two additional conference-event records without title matches in the proceedings index. Presentation labels: 213 oral, 380 spotlight, 3,112 poster. Excludes 122 BlogPosts/TMLR/JMLR event records; does not infer the publication status of the two mismatches. This set may overlap other venue datasets: do not add corpus totals without deduplication.
+
+The [ICLR coverage ledger](../modules/iclr2025/references/coverage.md) separates complete metadata, per-PDF automatic extraction, twelve scoped paper readings and seventeen specifically inspected figures across the twelve samples. For current extraction counts read its linked progress/report artifacts, not this static description. The [ICLR playbook](iclr2025-playbook.md) supplements the shared workflow with contribution-dependent argument patterns; it is not an exhaustive semantic reading of all accepted papers. No copied full-paper PDF/text archive is bundled.
+
+## CVPR 2024–2026 更新 — 2026-10-19
+
+新模块按 **CVF 主会 proceedings** 核对三年 **9,629 条**论文元数据：2024 年 2,716 条、2025 年 2,871 条、2026 年 4,042 条，排除 workshops。官方 Oral/Highlight 标签另行匹配，36 条标签未知保留未定；2026 活动目录与 proceedings 的差额不推测为主会出版论文。完整范围、标签统计、未匹配项与来源见 [CVPR 覆盖报告](../modules/cvpr2024-2026/references/coverage.md)。本库与旧会议库及作者库有重叠，不能相加为唯一论文数量。
+
+自动 PDF 特征、**18 篇定向研读**与**11 篇论文中的 15 个实际视觉检查**分别记录。阅读卡说明具体章节/页/图；定向研读不等于完整全文精读。抽取成功也不等于文本质量或科学结论验收；覆盖报告给出成功、保留失败、异常标记及对应分母。
+
+Oral 3 / Highlight 2 / Poster 1 用于论文加权的描述性统计，未知标签只进入未加权统计。权重不是质量分或录用因果，也不替代案例适用性。各章节、句段衔接、实验和图表规则是带来源与适用条件的编辑归纳，不冒充所有论文的语义共识。复用时从主入口选择相应资源，使用离线 [查询工具](corpus-tools.md)；普通写作不重新下载全库。
+
+
+## 分享包工具增补 — 2026-11-06
+
+导入用户提供的 `paper-skills-share.zip`，保留统一入口和核心案例研读。取用增量工具及事实交接，未把两套外部 SKILL 安装为额外入口。原包声称的 21 篇混合署名论文／19 张框架图是原包统计，本次未重新核验原论文；不增加核心研读或唯一论文数量。来源哈希、保留／调整内容和许可边界见 [增补来源记录](../modules/share-tools/references/source-evidence.md)，使用和验证入口见 [工具指南](../modules/share-tools/references/guide.md)。
+
+## 通用直接表达增补 — 2026-11-06
+
+整合 [huzhongyyuan/anti-defensive-writing](https://github.com/huzhongyyuan/anti-defensive-writing) 的固定版本 `5f0174fca24c34a700b10a447b276d67494a7d7f`。通用表达使用直接表达模块，论文仍先科学审阅再精简。该整合没有新增写作效果实验，格式与链接检查不代表写作质量评测。
