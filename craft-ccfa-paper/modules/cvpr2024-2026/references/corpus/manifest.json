@@ -1,0 +1,133 @@
+{
+  "retrieved_at": "2026-10-19T09:43:00.399912+00:00",
+  "scope": "CVPR 2024–2026 main-conference CVF proceedings; workshops excluded",
+  "records": 9629,
+  "years": {
+    "2024": {
+      "proceedings": 2716,
+      "accepted_rows": 2716,
+      "oral_listed": 90,
+      "highlight_icons": 324,
+      "labels": {
+        "oral": 90,
+        "highlight": 324,
+        "poster": 2301,
+        "unknown": 1
+      }
+    },
+    "2025": {
+      "proceedings": 2871,
+      "accepted_rows": 2871,
+      "oral_listed": 95,
+      "highlight_icons": 388,
+      "labels": {
+        "oral": 95,
+        "highlight": 388,
+        "poster": 2385,
+        "unknown": 3
+      }
+    },
+    "2026": {
+      "proceedings": 4042,
+      "accepted_rows": 5023,
+      "oral_listed": 141,
+      "highlight_icons": 575,
+      "labels": {
+        "oral": 141,
+        "highlight": 564,
+        "poster": 3305,
+        "unknown": 32
+      }
+    }
+  },
+  "sources": [
+    {
+      "year": 2024,
+      "kind": "accepted",
+      "url": "https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers",
+      "bytes": 4074047,
+      "sha256": "eec36648c8016ce1e8764f061d52b90592f097a00c28b64ee89bf551b0bb287b",
+      "snapshot": "2024-accepted.html.gz"
+    },
+    {
+      "year": 2024,
+      "kind": "oral",
+      "url": "https://cvpr.thecvf.com/virtual/2024/events/oral",
+      "bytes": 453449,
+      "sha256": "09547261ce06a8d73d995b81a483b52fc26ff4c2cb24c9986e96139d63bf63e3",
+      "snapshot": "2024-oral.html.gz"
+    },
+    {
+      "year": 2024,
+      "kind": "proceedings",
+      "url": "https://openaccess.thecvf.com/CVPR2024?day=all",
+      "bytes": 7471679,
+      "sha256": "720265923ad5cc65224d2ce1cd9cea868c6e4589ae51c05d1493f1f9d9aea03c",
+      "snapshot": "2024-proceedings.html.gz"
+    },
+    {
+      "year": 2025,
+      "kind": "accepted",
+      "url": "https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers",
+      "bytes": 4241261,
+      "sha256": "6f7b0b78ad5fc2e4a57799801012a205f69722ca8d364f9c6ea2a464edc4f4e5",
+      "snapshot": "2025-accepted.html.gz"
+    },
+    {
+      "year": 2025,
+      "kind": "oral",
+      "url": "https://cvpr.thecvf.com/virtual/2025/events/oral",
+      "bytes": 478624,
+      "sha256": "b1ac811616de1ea16829337e51be77472c8cbc401c074ce27ca779428528d787",
+      "snapshot": "2025-oral.html.gz"
+    },
+    {
+      "year": 2025,
+      "kind": "proceedings",
+      "url": "https://openaccess.thecvf.com/CVPR2025?day=all",
+      "bytes": 8396274,
+      "sha256": "2f08dc191b870530993ba6a5a79e8c8ae812f158b6a30b21a96f3b190af96bfa",
+      "snapshot": "2025-proceedings.html.gz"
+    },
+    {
+      "year": 2026,
+      "kind": "highlights",
+      "url": "https://cvpr.thecvf.com/virtual/2026/events/Highlights2026",
+      "bytes": 2708813,
+      "sha256": "70188107aeae7439bdb7d033584d9f460891b358a97fe62d2116cbaad341b303",
+      "snapshot": "2026-highlights.html.gz"
+    },
+    {
+      "year": 2026,
+      "kind": "oral",
+      "url": "https://cvpr.thecvf.com/virtual/2026/events/Oral",
+      "bytes": 696746,
+      "sha256": "2b378c5e4a842fc72503b2d858592e5078d82952644d419abf54aa3eae9a99dd",
+      "snapshot": "2026-oral.html.gz"
+    },
+    {
+      "year": 2026,
+      "kind": "papers",
+      "url": "https://cvpr.thecvf.com/virtual/2026/papers.html",
+      "bytes": 705899,
+      "sha256": "2e27b417c18afeea996197609737e44d565602b08461e1b0a4b3e07b993b3e31",
+      "snapshot": "2026-papers.html.gz"
+    },
+    {
+      "year": 2026,
+      "kind": "proceedings",
+      "url": "https://openaccess.thecvf.com/CVPR2026?day=all",
+      "bytes": 12117927,
+      "sha256": "31f63227934062163d5bc57838d339c3c7a7e1e6e51f71a238022bff73f1b792",
+      "snapshot": "2026-proceedings.html.gz"
+    }
+  ],
+  "title_normalization": "NFKD alphanumeric with °→deg, α→a, β→b, π→p display equivalents; no fuzzy matches",
+  "weighting": {
+    "oral": 3,
+    "highlight": 2,
+    "poster": 1,
+    "unknown": 1
+  },
+  "corpus_sha256": "b85b6ecbf01d59590a6035baba768ffd1cffbec48befcb6906a73f2033524f1c"
+}

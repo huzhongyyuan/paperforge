@@ -9,7 +9,8 @@
 - **研究与 idea：** 明确问题、机制假设、模块接口和最小对照实验。
 - **逐节写作与改稿：** 标题、摘要、引言、相关工作、方法各模块、训练／推理、实验、局限与附录。
 - **写图与画图：** 动机图、框架图、模块放大、时间轴、真实结果拼版、数值与消融图、caption。
-- **可编辑制作：** SVG 模板，以及从结构化 JSON 生成 SVG／原生 PowerPoint 形状的工具。
+- **可编辑制作：** SVG 模板、结构化 JSON→SVG／原生 PowerPoint，以及程序化组件框架图的 HTML／SVG／PDF／PNG 导出。
+- **正文与图交接：** 可复用现有记录的共享事实表、模块全名／别名检查，以及只作提醒的章节形式诊断。
 - **整篇论文：** 页数预算、双栏排版、浮动体、证据检查、rebuttal 与报告准备。
 
 ## 安装
@@ -58,7 +59,7 @@ python3 "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/inst
 
 参见 [统一图表流程](craft-ccfa-paper/references/integrated-figures.md)、[作者图表案例](craft-ccfa-paper/modules/mayue/references/figure-playbook.md) 和 [逐节写作流程](craft-ccfa-paper/references/integrated-writing.md)。
 
-Python 标准库即可生成四张原创 SVG 模板，以及运行结构化 SVG 工具。原生 PPTX 工具需要 Node.js 与 `pptxgenjs`；其他语料分析工具的依赖按对应脚本与参考说明配置。数值图需要用户的真实数据，定性图需要真实结果素材。
+Python 标准库即可生成四张原创 SVG 模板、运行结构化 SVG 工具及正文形式／术语检查。原生 PPTX 工具需要 Node.js 与 `pptxgenjs`。新增组件绘图工具需要 Pillow、Matplotlib、CairoSVG 和系统 Cairo；依赖及命令见 [共享事实与框架绘图指南](craft-ccfa-paper/modules/share-tools/references/guide.md)。HTML／主 SVG 保留文字，静态 PDF 使用字体轮廓。数值图需要真实数据，定性图需要真实结果素材。
 
 ## 覆盖与验证边界
 
@@ -66,7 +67,9 @@ Python 标准库即可生成四张原创 SVG 模板，以及运行结构化 SVG 
 
 会议库快照为 2026-08-04：25,421 条官方源元数据与 55 篇成功提取 PDF 结构特征的样本。元数据不等于精读全文；以上范围不代表全网穷尽、所有图逐张研读或实验已复现。未取得原作者的 PPTX／FIG／AI 编辑工程。
 
-本次合并检查了四个技能格式、101 个内部链接、来源文件保留、语料查询、初始化防覆盖、提交模式检查、SVG 生成与原生 PPTX 结构。未做 PowerPoint 应用内编辑测试、全量语料分析或独立写作行为评测。
+后续增补包括 [ICLR 2025](craft-ccfa-paper/modules/iclr2025/references/coverage.md) 的 3,705 条主会事件元数据、12 篇有范围的研读及 17 处图示检查；[CVPR 2024–2026](craft-ccfa-paper/modules/cvpr2024-2026/references/coverage.md) 的 9,629 条主会元数据、9,038 篇成功的自动提取、18 篇定向研读及 15 处图表检查。不同库有重叠，以上数量不相加为精读总数。
+
+2026-11-06 新增共享事实／术语检查与框架图工具；已通过 30 项交接检查、12 项集成回归，并检查 HTML 与渲染后的 PDF 示例。形式检查不替代科学审阅，样本词数和句数不作为论文验收门槛。原有合并曾检查四个技能格式、101 个内部链接、语料查询、初始化防覆盖及 SVG／原生 PPTX 结构；这些历史检查不代表本次重新进行了 PowerPoint 应用内测试或全量语料分析。
 
 详情见 [证据与维护说明](craft-ccfa-paper/references/merged-evidence.md) 和 [固定版本来源账本](craft-ccfa-paper/modules/mayue/references/source-manifest.json)。
 

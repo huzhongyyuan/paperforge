@@ -23,3 +23,12 @@ The four SVG files directly under `craft-ccfa-paper/modules/mayue/assets/` are o
 Official-source provenance, snapshot dates and retrieval status appear in the [conference manifest](craft-ccfa-paper/modules/top-ml/references/corpus/manifest.json) and [evidence base](craft-ccfa-paper/modules/top-ml/references/evidence-base.md). Metadata records and sampled structural analyses do not imply that all full papers were read or that their conclusions were verified.
 
 No full paper PDFs or author-owned editable drawing projects are included.
+
+
+## Imported paper-writing and framework toolkit
+
+The tools under `craft-ccfa-paper/modules/share-tools/` were adapted from the user-supplied `paper-skills-share.zip`; archive identity, source file hashes, and changes are recorded in its [source evidence](craft-ccfa-paper/modules/share-tools/references/source-evidence.md) and [source manifest](craft-ccfa-paper/modules/share-tools/references/source-manifest.json). The supplied archive did not include an explicit license for its Python code or reference prose. The repository MIT notice does not relicense that imported material or grant additional reuse rights.
+
+The bundled Comic Neue font is licensed under the SIL Open Font License 1.1; its [OFL notice](craft-ccfa-paper/modules/share-tools/assets/OFL.txt) is retained. The example landscape is generated placeholder artwork, not experimental evidence.
+
+The paper-specific anti-defensive writing module retains its [upstream MIT notice](craft-ccfa-paper/references/licenses/anti-defensive-writing-MIT.txt) and attribution in the reference.

@@ -1,0 +1,10 @@
+{
+  "published_at": "2026-11-06T14:36:21+08:00",
+  "source_field": "papers[].provenance.source",
+  "source_alias": "source-corpus:top-ml/full-analysis",
+  "replaced_values": 6913,
+  "reason": "Replace an absolute machine workspace path with a portable corpus source ID.",
+  "original_artifact_sha256": "acdf7cf6c6b07de2c5e8ccdd3d32d844b14f6bb8f030b61acf08c97a2bc45759",
+  "published_artifact_sha256": "a98cb459d41e0833880bd7d9805b1bdd90e68d773b0ddd66e75ba1c4a0570952",
+  "scientific_values_changed": false
+}

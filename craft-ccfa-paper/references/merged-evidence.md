@@ -2,13 +2,14 @@
 
 合并日期：2026-09-17。本次整合已存在的资料和工具，没有新增一轮会议／作者论文检索，也没有重跑科学实验。
 
-## 保留的三个来源
+## 保留的来源与增补
 
 | 原技能 | 整合内容 | 维护位置 |
 |---|---|---|
 | craft-ccfa-paper | 研究、实验、证据记录、排版、审稿、SVG/PPTX 生产 | 根目录 `references/`、`scripts/`、`assets/` |
 | write-top-ml-paper | 分章节、图表、整篇布局模式，会议元数据、全文结构样本和检索工具 | `modules/top-ml/` |
 | mayue-paper-skill | 一作／共一核心研读、合作作品概览、章节／模块／图表案例、四张 SVG 模板 | `modules/mayue/` |
+| 用户提供的 paper-skills-share.zip（2026-11-06 增补） | 共享事实表、形式／名称检查、程序化框架图组件 | `modules/share-tools/` |
 
 统一决策在主 `SKILL.md`、[integrated-writing](integrated-writing.md)、[integrated-figures](integrated-figures.md)。作者差异在 [mayue-overlay](mayue-overlay.md)，其他详细参考按需读。模块内沿用的命令路径相对于相应模块根目录；从外部执行时用明确的绝对路径或 [corpus tools](corpus-tools.md) 的根目录命令。
 
@@ -18,7 +19,7 @@
 
 快照日期 **2026-08-04**：官方源收集的 **25,421 条元数据**；成功提取全文结构的分层样本 **55 篇**，另有 13 个样本访问失败。标题／展示类别统计来自元数据，章节长度与结构统计来自成功的 PDF 样本。ICML 2026 在此快照中贡献元数据，未贡献成功全文样本。
 
-会议、年份、来源状态及抽样方法见 [evidence-base](../modules/top-ml/references/evidence-base.md)，具体元数据见 [manifest](../modules/top-ml/references/corpus/manifest.json)，提取统计见 [analysis summary](../modules/top-ml/references/analysis/analysis_summary.json)。本包未附完成的全量全文报告，不把可续跑分析器等同于已完成分析。
+会议、年份、来源状态及抽样方法见 [evidence-base](../modules/top-ml/references/evidence-base.md)，具体元数据见 [manifest](../modules/top-ml/references/corpus/manifest.json)，提取统计见 [analysis summary](../modules/top-ml/references/analysis/analysis_summary.json)。这些数字描述原始快照；后续 ICLR/CVPR 模块的实际覆盖分别见下文，不把可续跑分析器等同于已完成分析。
 
 当年尚未公开或未来的 venue 状态是快照记录，不代表合并当天或未来仍未公开。只有需要当前数据时才刷新官方源。通用流程可支持其他 CCF-A 学科，但本会议语料主要是 ML/CV，不能据此声称覆盖了所有 CCF-A 会议、学科或每篇全文。
 
@@ -33,3 +34,23 @@
 ## 验证能说明什么
 
 技能格式、内部链接、来源文件保留、语料查询及绘图工具的运行检查可验证整合和可用性；它们不验证研究结论，不证明作者个人写法，也不保证录用。对于实际论文，仍需按用户材料完成真正写作、实验解释、编译与视觉检查。
+
+
+## ICLR 2025 addition — 2026-09-18
+
+The reconciled official main-conference metadata has **3,705 unique records**, including all **3,703 proceedings entries** and two additional conference-event records without title matches in the proceedings index. Presentation labels: 213 oral, 380 spotlight, 3,112 poster. Excludes 122 BlogPosts/TMLR/JMLR event records; does not infer the publication status of the two mismatches. This set may overlap other venue datasets: do not add corpus totals without deduplication.
+
+The [ICLR coverage ledger](../modules/iclr2025/references/coverage.md) separates complete metadata, per-PDF automatic extraction, twelve scoped paper readings and seventeen specifically inspected figures across the twelve samples. For current extraction counts read its linked progress/report artifacts, not this static description. The [ICLR playbook](iclr2025-playbook.md) supplements the shared workflow with contribution-dependent argument patterns; it is not an exhaustive semantic reading of all accepted papers. No copied full-paper PDF/text archive is bundled.
+
+## CVPR 2024–2026 更新 — 2026-10-19
+
+新模块按 **CVF 主会 proceedings** 核对三年 **9,629 条**论文元数据：2024 年 2,716 条、2025 年 2,871 条、2026 年 4,042 条，排除 workshops。官方 Oral/Highlight 标签另行匹配，36 条标签未知保留未定；2026 活动目录与 proceedings 的差额不推测为主会出版论文。完整范围、标签统计、未匹配项与来源见 [CVPR 覆盖报告](../modules/cvpr2024-2026/references/coverage.md)。本库与旧会议库及作者库有重叠，不能相加为唯一论文数量。
+
+自动 PDF 特征、**18 篇定向研读**与**11 篇论文中的 15 个实际视觉检查**分别记录。阅读卡说明具体章节/页/图；定向研读不等于完整全文精读。抽取成功也不等于文本质量或科学结论验收；覆盖报告给出成功、保留失败、异常标记及对应分母。
+
+Oral 3 / Highlight 2 / Poster 1 用于论文加权的描述性统计，未知标签只进入未加权统计。权重不是质量分或录用因果，也不替代案例适用性。各章节、句段衔接、实验和图表规则是带来源与适用条件的编辑归纳，不冒充所有论文的语义共识。复用时从主入口选择相应资源，使用离线 [查询工具](corpus-tools.md)；普通写作不重新下载全库。
+
+
+## 分享包工具增补 — 2026-11-06
+
+导入用户提供的 `paper-skills-share.zip`，保留现有统一入口和 Mayue 核心研读。取用增量工具及事实交接，未把两套外部 SKILL 安装为额外入口。原包声称的 21 篇混合署名论文／19 张框架图是原包统计，本次未重新核验原论文；不增加核心研读或唯一论文数量。来源哈希、保留／调整内容和许可边界见 [增补来源记录](../modules/share-tools/references/source-evidence.md)，使用和验证入口见 [工具指南](../modules/share-tools/references/guide.md)。

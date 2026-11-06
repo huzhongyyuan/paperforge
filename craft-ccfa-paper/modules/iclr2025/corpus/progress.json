@@ -1,0 +1,12 @@
+{
+  "papers_by_status": {
+    "done": 3703,
+    "blocked": 2
+  },
+  "papers_analyzed": 3703,
+  "total": 3705,
+  "stage": "finished_attempts",
+  "updated_at": 1789721235,
+  "snapshot": "2026-09-18",
+  "meaning": "done denotes automatic PDF extraction, not semantic close reading"
+}

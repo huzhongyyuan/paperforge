@@ -1,0 +1,393 @@
+# 定向研读卡片：18 篇论文
+
+这些卡片记录实际阅读的章节/页段与 15 次局部图例检查。没有列出的页和 supplementary 不属于本轮研读范围；PDF 物理页码不一定等于印刷页码。卡片概括是本模块的归纳，不是对全文科学结论的复现或独立首创性核验。官方 presentation 只用于选读优先级，不是写法质量评分。
+
+<a id="5f99ee9084cbfb119efdf058"></a>
+## Neural Redshift: Random Networks are not Random Functions
+
+CVPR 2024 · oral · 分析/发现
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2024/html/Teney_Neural_Redshift_Random_Networks_are_not_Random_Functions_CVPR_2024_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Teney_Neural_Redshift_Random_Networks_are_not_Random_Functions_CVPR_2024_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：竞争解释 → 反例 → 用随机权重隔离架构偏置 → 可操作的复杂度测量 → 适用边界。
+
+**定位与观察**：Abstract 区分 Findings/Implications；Introduction 区分参数化偏置与学习动态；用 Fourier、多项式、压缩刻画复杂度。
+
+**可复用动作及边界**：核心发现需要区分相邻概念并给可操作测量；复杂度标量匹配不能替代对函数结构的分析。
+
+**实际看图**
+
+本轮未记录实际视觉检查；不能从 caption 检测推断图的可读性。
+
+<a id="496072b5afa6e25a53f302c6"></a>
+## FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects
+
+CVPR 2024 · highlight · 统一方法
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：按测试时可用信息（CAD 或参考图像）划分任务 → 共同下游模块 → 神经物体场连接不同输入。
+
+**定位与观察**：统一估计与跟踪；四条贡献含数据、架构、评测；Fig.1 caption 标明 RGB/RGB-D 输入差异。
+
+**可复用动作及边界**：统一框架应交代输入假设与共享接口；不能只用一个总名称掩盖不同测试信息。
+
+**实际看图**
+
+本轮未记录实际视觉检查；不能从 caption 检测推断图的可读性。
+
+<a id="f800a97293edd4ff6088e891"></a>
+## FreeU: Free Lunch in Diffusion U-Net
+
+CVPR 2024 · oral · 观察驱动方法
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2024/html/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 4, 7：p.4 method; p.7 §3.5 opening only；Backbone scaling suppresses high frequencies, skips carry high frequencies; training-convergence explanation is explicitly conjectural. Adaptive channel-average scaling starts on p.4; full p.5 formula and p.8 diagnostic continuation not read. Frequency statistics are proxies, not proof of perceptual quality.
+
+**论证路线**：频率观察 → backbone/skip 分工 → 放大 backbone → 暴露过平滑 → 再调 skip。
+
+**定位与观察**：第二设计回应第一设计的副作用；Fig.2 从 U-Net 总览落到局部操作；四条贡献。
+
+**可复用动作及边界**：模块动机可以串行产生，不必编成对称的两个问题；原文修辞强度不是可迁移证据。
+
+**实际看图**
+
+- p.2，Fig.2, upper half of p.2：Overall U-Net followed by local scaling intervention; two paths and muted colors expose the small change. One-column figure. Do not copy the architecture topology for unrelated methods.
+
+<a id="289aeef0f82b266560ab5e4c"></a>
+## DUSt3R: Geometric 3D Vision Made Easy
+
+CVPR 2024 · poster · 表征/统一方法
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：流水线误差传播与反馈缺失 → 共同 pointmap 表征 → 从表征导出多个任务 → 多视图对齐。
+
+**定位与观察**：四条贡献；pairwise prediction 与 global alignment 分别说明。
+
+**可复用动作及边界**：先解释表征携带什么信息，再解释读出任务；不能把后处理收益并入纯前向能力。
+
+**实际看图**
+
+本轮未记录实际视觉检查；不能从 caption 检测推断图的可读性。
+
+<a id="7408bccff4dcfda8985400df"></a>
+## VBench: Comprehensive Benchmark Suite for Video Generative Models
+
+CVPR 2024 · highlight · 评测体系
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2, 3：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 5, 6：p.5 §3.3 partial; p.6 §§4.1–4.2；Four models, five groups, six pairwise comparisons, random order, dimension-focused raters, pretrial/postchecks; win=1, tie=0.5. Correlation uses human/automatic win ratios per dimension. Empirical minimum/maximum and WebVid average are anchors; top-five retrieved real clips do not define a theoretical ceiling. p.5 output was partial.
+
+**论证路线**：评价不足 → 维度层级 → 各维度 prompt/evaluator → 人类偏好验证 → 模型诊断。
+
+**定位与观察**：三项性质贯穿 intro；Fig.2 雷达值有归一化说明。
+
+**可复用动作及边界**：指标有效性在模型排名之前；自动评分是被测维度的代理，不等于整体能力。
+
+**实际看图**
+
+- p.1，Fig.1 illustration, upper 56% of p.1; caption cropped：Taxonomy→prompts/videos→evaluators/human validation. Pastel regions encode roles; dense leaf labels need size checking. Caption not inspected in this crop.
+- p.7，Figs.5–6, upper 54% of p.7：Sixteen aligned correlation plots with shared axes/legend and four visible model points, followed by radar. Model-average correlation does not establish individual-video validity; radar interpretation depends on normalization.
+
+<a id="a175f954c059c77aad6dc20d"></a>
+## Point Transformer V3: Simpler Faster Stronger
+
+CVPR 2024 · oral · 效率/扩展
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：规模效益 → 注意力邻域与位置计算成为瓶颈 → KNN/RPE 耗时诊断 → 序列化与简单算子 → 扩大感受野。
+
+**定位与观察**：Intro 报 KNN 28%、RPE 26% 的前向时间；改动条目不只出现在段末。
+
+**可复用动作及边界**：先定位实际资源瓶颈，再将效率兑现为模型或数据规模；不要只报告参数量。
+
+**实际看图**
+
+- p.3，Fig.2 and Table 1, upper 60% of p.3：Latency treemap beside efficiency table locates KNN/RPE cost; caption states 54% combined. Areas communicate bottlenecks but tiny white labels and absent per-component percentages limit exact reading.
+
+<a id="41ca9fbe640d4a45cca1a3e2"></a>
+## Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives
+
+CVPR 2024 · oral · 数据/任务
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2024/html/Grauman_Ego-Exo4D_Understanding_Skilled_Human_Activity_from_First-_and_Third-Person_Perspectives_CVPR_2024_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Grauman_Ego-Exo4D_Understanding_Skilled_Human_Activity_from_First-_and_Third-Person_Perspectives_CVPR_2024_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2, 3：bounded section reading; references/whole paper not implied
+
+**论证路线**：技能场景 → ego/exo 互补 → actor/observer transfer → 同步多模态数据需求 → 四组基准。
+
+**定位与观察**：专家评论区分动作内容与执行质量；作者块占据首页，不能照搬页数。
+
+**可复用动作及边界**：数据模态应对应使用问题；区分 what 与 how well，按不同监督对象设评测。
+
+**实际看图**
+
+本轮未记录实际视觉检查；不能从 caption 检测推断图的可读性。
+
+<a id="b4fa856bef2cee9204ad8cc5"></a>
+## Video Depth Anything: Consistent Depth Estimation for Super-Long Videos
+
+CVPR 2025 · highlight · 基础模型扩展
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Video_Depth_Anything_Consistent_Depth_Estimation_for_Super-Long_Videos_CVPR_2025_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Video_Depth_Anything_Consistent_Depth_Estimation_for_Super-Long_Videos_CVPR_2025_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 3, 7：p.3 §3.1; p.7 temporal-loss/latency paragraphs；Frozen Depth Anything V2 encoder; frames flattened into batch, temporal attention in low-resolution head positions. Latency A100 518×518 with row-specific precision. Ablations use VDA-S, window 16, without image distillation unless stated; this is not the full main-model identity. Spatial accuracy and temporal stability are separate outcomes. Inference-strategy paragraph not fully read.
+
+**论证路线**：单帧能力 → 视频时序缺陷 → 替代路线代价 → 保留空间先验的时序设计 → 新能力与旧能力双向验证。
+
+**定位与观察**：temporal head、gradient loss、混合训练和长视频推理；Intro 同时报视频评测与图像能力保留。
+
+**可复用动作及边界**：扩展模型需验证新增能力及原能力保留；速度和质量用共同协议解释。
+
+**实际看图**
+
+- p.7，Fig.6 qualitative comparison, upper 52% of p.7：Filename is misleading: actual inspected content is aligned depth images and temporal strips; red boxes mark spatial errors, blue temporal errors. Only tiny table header is visible; no table inspection claimed.
+
+<a id="355aab66505b9c4483abd3b7"></a>
+## VGGT: Visual Geometry Grounded Transformer
+
+CVPR 2025 · oral · 统一方法
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：经典优化与 pairwise neural 融合成本 → 多视图共同推理 → 多个相关几何输出。
+
+**定位与观察**：训练中冗余输出有用，推理时可从其他量导出 pointmap；可选 BA 另述。
+
+**可复用动作及边界**：区分训练辅助头、实际推理输出与增强后处理；统一输出不等于每个头都应直接用于评测。
+
+**实际看图**
+
+本轮未记录实际视觉检查；不能从 caption 检测推断图的可读性。
+
+<a id="9e532d6a1fb5f3d41756fcd2"></a>
+## GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities
+
+CVPR 2025 · highlight · 数据
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2025/html/Fu_GigaHands_A_Massive_Annotated_Dataset_of_Bimanual_Hand_Activities_CVPR_2025_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_GigaHands_A_Massive_Annotated_Dataset_of_Bimanual_Hand_Activities_CVPR_2025_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 5, 6：p.5 §4.3; p.6 §4.4–§5.1；Script deviations require manual splitting/reannotation. About 13k motion sequences, 14k clips and 84k motion-text pairs are distinct units. HaMeR depth limitation motivates multiview triangulation, MANO fitting/filtering. Split 16:3:1; feature extractors separately trained per dataset/subset; ground-truth upper bounds and 20 evaluations. Diversity targets matching real distribution, not unrestricted maximization. Scores from different learned feature spaces are not automatically comparable. Page beginnings/continuations not fully read.
+
+**论证路线**：真实场景规模与工作室精度的权衡 → markerless studio 与 elicitation → instruct-to-annotate → 下游能力。
+
+**定位与观察**：三条贡献为数据、采集方案、下游；Fig.1 将动作类型、文本、视图与 mesh 对应。
+
+**可复用动作及边界**：规模单位分开报帧/序列/小时；采集流程的每个选择应回答质量或覆盖需求。
+
+**实际看图**
+
+- p.1，Partial Fig.1, upper 63% of p.1：Many hand–object sequences and enlarged language/action pairs express diversity; small crowded examples cannot quantify coverage. Figure bottom/caption cropped.
+
+<a id="71ca4dbb84e8c875682c2ccf"></a>
+## VideoGigaGAN: Towards Detail-rich Video Super-Resolution
+
+CVPR 2025 · poster · 视频方法
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_VideoGigaGAN_Towards_Detail-rich_Video_Super-Resolution_CVPR_2025_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_VideoGigaGAN_Towards_Detail-rich_Video_Super-Resolution_CVPR_2025_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：细节与一致性矛盾 → 直接时序改造仍闪烁 → propagation、anti-aliasing、HF shuttle。
+
+**定位与观察**：Fig.1 显示空间与时序切片，Fig.2 标局部失败；四条贡献。
+
+**可复用动作及边界**：静态帧不能单独证明时序稳定；因果细节须读 Method 后再归因。
+
+**实际看图**
+
+- p.4，Fig.3, upper 55% of p.4：Global model with dashed local operator insets, recurring semantic colors and section labels. High-frequency bypass is visible; useful for separating global information flow from local novelty.
+- p.5，Fig.4, upper 56% of p.5：Red sampling line explains y–t slice, aligned cumulative variants show blur/detail/coherence tradeoff. Caption uses side-effect→next-design reasoning. Not a factorial experiment.
+
+<a id="d4ca9b4dd41280af93097d5c"></a>
+## MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds
+
+CVPR 2025 · oral · 多视图方法
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_MV-DUSt3R_Single-Stage_Scene_Reconstruction_from_Sparse_Views_In_2_Seconds_CVPR_2025_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_MV-DUSt3R_Single-Stage_Scene_Reconstruction_from_Sparse_Views_In_2_Seconds_CVPR_2025_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：pairwise 歧义 → global alignment 无法修正错误匹配 → 多视图 decoder → reference 重叠不足 → cross-reference attention。
+
+**定位与观察**：Fig.2 用椅子布局错误给诊断；具体例子不是失败频率估计。
+
+**可复用动作及边界**：逐步暴露设计残留问题，再解释下一模块；区分动机案例与系统性证据。
+
+**实际看图**
+
+本轮未记录实际视觉检查；不能从 caption 检测推断图的可读性。
+
+<a id="6462ee844611f804b8e9e9f0"></a>
+## SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching
+
+CVPR 2026 · oral · 效率系统
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2026/html/Haghighi_SenCache_Accelerating_Diffusion_Model_Inference_via_Sensitivity-Aware_Caching_CVPR_2026_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Haghighi_SenCache_Accelerating_Diffusion_Model_Inference_via_Sensitivity-Aware_Caching_CVPR_2026_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 5, 8：p.5 §4.3; p.8 §§5.2–7；First-order approximation combines latent and timestep sensitivities. Cache score is relative to the cached reference and includes maximum lifetime. Ablations vary n at fixed epsilon, epsilon at fixed n, and calibration size. n>4 gives compute plateau with worse quality; drift explanation remains an interpretation. Quality–compute tradeoff is not a universal optimum; higher-order models and other modalities are future work.
+
+**论证路线**：重复去噪成本 → 固定缓存时程不能适应样本 → latent/timestep sensitivity → error proxy → tolerance policy。
+
+**定位与观察**：Fig.1 用相同计算预算比较；Intro 含理论与经验可预测性承诺。
+
+**可复用动作及边界**：效率方法要验证代理信号、策略和质量—预算曲线；提出可迁移不等于已验证迁移。
+
+**实际看图**
+
+- p.1，Partial first-page qualitative figure, upper 60%; caption cropped：Filename is misleading: this is a baseline/cache-method image grid, not a tradeoff curve. Three scenes share columns and red dashed error circles. Static examples illustrate artifacts; absent cost labels cannot establish quality–speed tradeoff.
+
+<a id="123d97c0f1c7d1b78f3fa8bb"></a>
+## PAI-Bench: A Comprehensive Benchmark For Physical AI
+
+CVPR 2026 · oral · 评测体系
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_PAI-Bench_A_Comprehensive_Benchmark_For_Physical_AI_CVPR_2026_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_PAI-Bench_A_Comprehensive_Benchmark_For_Physical_AI_CVPR_2026_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：Physical AI 大目标 → 可操作的视频 perception/prediction → 三任务轨道 → task-aligned metrics。
+
+**定位与观察**：三条贡献为 benchmark、指标、模型图景。
+
+**可复用动作及边界**：大概念先落到可测能力，不把基准分数写成全面理解物理世界。
+
+**实际看图**
+
+本轮未记录实际视觉检查；不能从 caption 检测推断图的可读性。
+
+<a id="2a6d999de916b800b3bea578"></a>
+## OLATverse: A Large-scale Real-world Object Dataset with Precise Lighting Control
+
+CVPR 2026 · oral · 数据
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2026/html/Zhou_OLATverse_A_Large-scale_Real-world_Object_Dataset_with_Precise_Lighting_Control_CVPR_2026_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_OLATverse_A_Large-scale_Real-world_Object_Dataset_with_Precise_Lighting_Control_CVPR_2026_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 5, 8：p.5 §3.2 partial; p.8 limitations/conclusion；35 cameras and 331 LEDs; small supports/black coverings reduce occlusion/reflections. Calibration continuation not fully read. Glossy/dark materials remain difficult due to view dependence and low SNR. Reconstructed normals/albedo are not exact ground truth; detailed appearance is not accuracy. Scale is not annotation reliability.
+
+**论证路线**：规模、真实感、精确光控三条件 → 既有来源缺项 → 可控实拍 → 光照线性组合 → 数据用途与评测子集。
+
+**定位与观察**：35 cameras/331 lights；数据属性分别支持重光照、材质估计等任务；四条贡献。
+
+**可复用动作及边界**：数据质量用可测采集条件表达；覆盖规模与 evaluation subset 分开。
+
+**实际看图**
+
+- p.4，Fig.2, upper 62% of p.4：Distribution pie/donut alongside grouped bars comparing six largest categories. Explicit panel split separates own coverage from relative counts. Numerous hues and tiny category labels hinder precise comparisons; sorted bars often work better. Top-six comparison is not exhaustive coverage.
+
+<a id="b28e3c265e414c05ffd2213c"></a>
+## EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing
+
+CVPR 2026 · highlight · 方法+数据
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_EffectErase_Joint_Video_Object_Removal_and_Insertion_for_High-Quality_Effect_CVPR_2026_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Fu_EffectErase_Joint_Video_Object_Removal_and_Insertion_for_High-Quality_Effect_CVPR_2026_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2, 3：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 5, 7：p.5 §3.2; p.7 table 3 and §4.2 opening；Shared VAE/DiT, removal/insertion inputs and flow-matching targets; joint task training, TARG and EC loss. Table 3 adds Real→+EC→+TARG→+Syn cumulatively: conditional improvements do not isolate independent effects or interactions. FVD is a distribution metric; do not copy the claim that it alone proves temporal smoothness. Only opening EC-loss ablation paragraph read; continuation p.8 not read.
+
+**论证路线**：任务与用途 → 可见失败例 → mask 依赖及已有改进 → 对象—效应关联缺口 → 配对数据要求 → 数据与互逆任务设计。
+
+**定位与观察**：Intro Fig.2 失败、Fig.3 removal/insertion 共用受影响区域；三项贡献组织数据、方法、benchmark。
+
+**可复用动作及边界**：方法缺口、数据缺口和 inverse-task 观察承担不同职责；不要把它压成固定四段，也不要照抄强因果措辞。
+
+**实际看图**
+
+- p.2，Figs.2–3, upper 62% of p.2：Matched frames and input/ProPainter/ROSE/ours rows show effect remnants; adjacent inverse-task schematic separates observed failure from proposed design. One selected sequence does not establish universal failure.
+- p.5，Fig.6, upper 50% of p.5：Blue removal and pink insertion recur across inputs, conditions, losses and outputs; shared DiT and local attention/loss zoom. Caption clarifies Q/KV and task switching. Many boxes/arrows add density; rounded shadows are not a general recommendation.
+- p.7，Table 2 and Fig.7, upper 64% of p.7：Dataset groups explicitly distinguish with-GT and without-GT; bold/underline and lightly tinted ours row. Qualitative rows are effect categories with common method columns and yellow evidence boxes. Quantitative scope and figure categories align; selected images alone cannot substantiate broad failure claims.
+
+<a id="fecf4b9fa84210facabbf931"></a>
+## Understanding Task Transfer in Vision-Language Models
+
+CVPR 2026 · oral · 经验分析
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2026/html/Sachdeva_Understanding_Task_Transfer_in_Vision-Language_Models_CVPR_2026_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Sachdeva_Understanding_Task_Transfer_in_Vision-Language_Models_CVPR_2026_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+
+**论证路线**：单任务微调 → 其他任务的零样本变化 → 归一化 transfer 指标 → source/target 两种属性 → 关系结构。
+
+**定位与观察**：pp.1–2：PGF 归一化不同基线与难度；transferability 是源任务影响，malleability 是目标任务易受影响程度；报告 3 个开放 VLM、13 项任务。
+
+**可复用动作及边界**：经验研究可贡献受控干预、测量与关系图，不必虚构模块；首创性声明尚未独立核验。
+
+**实际看图**
+
+- p.2，Fig.2, upper 52% of p.2：Three aligned 13×13 matrices share source-row/target-column ordering and a -1..1 diverging scale. Numbers preserve values but tiny cell text limits print readability. Red–green can be replaced with accessible diverging hues. These are Qwen-family sizes, not evidence across unrelated families.
+
+<a id="f981f123b2ada842bea1db44"></a>
+## Rethinking Dataset Distillation: Hard Truths about Soft Labels
+
+CVPR 2026 · oral · 协议诊断与方法
+
+[官方条目](https://openaccess.thecvf.com/content/CVPR2026/html/Dey_Rethinking_Dataset_Distillation_Hard_Truths_about_Soft_Labels_CVPR_2026_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Dey_Rethinking_Dataset_Distillation_Hard_Truths_about_Soft_Labels_CVPR_2026_paper.pdf)
+
+**实际阅读范围**
+
+- abstract_introduction，物理页 1, 2：bounded section reading; references/whole paper not implied
+- method_experiment_discussion，物理页 3, 8：p.3 setup; p.8 table 3 and discussion/conclusion；ImageNet1K 224/ResNet18 and TinyImageNet64/ConvNetD4 are separate settings. CAD-Prune compares equal compute with the same learning-rate schedule; an early checkpoint of a long schedule is not equivalent. Table 3 has a counterexample: IPC100 CAD-Prune 47.40 vs EL2N-Best 47.76, so broad superiority wording is not universal. Classification scope; non-optimizable objectives remain open.
+
+**论证路线**：数据质量、规模与算力混杂 → 分开标签机制 → 同预算诊断 → 有针对性的修正。
+
+**定位与观察**：pp.1–3：区分 SL+KD、固定 SL 和 HL；随机/coreset 基线与数据蒸馏在相应设置下比较。
+
+**可复用动作及边界**：先排除协议混杂，再判断创新效果；不能跨标签机制、分辨率或计算预算直接排名。
+
+**实际看图**
+
+- p.2，Fig.1, upper 48% of p.2：Aligned HL and SL+KD curves expose compute interaction; additional Pareto and label-regime panels decompose the explanation. Shared scales and reference lines aid comparison; many colors/dashes require larger print size. Caption explicitly bounds interpretation to evaluated regimes.

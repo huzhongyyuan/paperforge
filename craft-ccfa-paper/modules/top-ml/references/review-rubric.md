@@ -8,7 +8,7 @@ Before drafting, create one row per major claim:
 |---|---|---|---|---|
 | Specific, falsifiable sentence | Closest work/assumption | Table, figure, theorem, ablation | Where it may not hold | Abstract/intro/method/results |
 
-Delete, soften, or test any claim with an empty evidence or boundary cell.
+Narrow, test, or remove claims whose evidence does not support their scope. Record boundaries when they affect interpretation; do not invent a limitation merely to fill a cell or repeat every boundary in every paragraph.
 
 ## Section brief
 
@@ -66,6 +66,7 @@ When revising user text:
 5. List missing facts as explicit placeholders such as `[DATASET]`, `[METRIC]`,
    `[DELTA]`, or `[LIMITATION]`.
 6. Run the claim-evidence and paragraph tests.
+7. Apply the unified [anti-defensive pass](../../../references/anti-defensive-writing.md), then compare the revised meaning with the evidence. Remove redundant self-protection, preserve material conditions and conceptual contrasts, and reject unsupported strengthening.
 
 Never fabricate experiments, citations, baselines, novelty, acceptance status,
 or presentation labels.

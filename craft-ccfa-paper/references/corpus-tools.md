@@ -12,6 +12,31 @@ python3 modules/top-ml/scripts/query_corpus.py \
 
 Use records for discovery. Read the primary paper before citing its technical claim. Do not load the complete compressed metadata into model context.
 
+## CVPR 2024–2026: offline evidence and scoped readings
+
+Use this newer module for the CVF main-proceedings snapshot, verified presentation labels, section/caption statistics and reading scopes. It overlaps the historical library; do not add the counts. See its [coverage and feature semantics](../modules/cvpr2024-2026/references/coverage.md).
+
+```bash
+python3 modules/cvpr2024-2026/scripts/query.py search --year 2026 --presentation highlight --query EffectErase
+python3 modules/cvpr2024-2026/scripts/query.py cards --query FreeU
+python3 modules/cvpr2024-2026/scripts/query.py stats --year 2025 --presentation oral --metric section.introduction.word_count
+python3 modules/cvpr2024-2026/scripts/query.py features --query 'Video Depth Anything' --limit 1
+```
+
+`search` is literal title matching, not regex or semantic search. `cards` reports only the recorded reading scopes. `stats` supports year/presentation groups; omitting `--metric` lists available keys. `features` includes extraction status, provenance, quality flags and per-paper features. All four modes use the standard library and perform no network requests. `done` means the extraction ran, not that all extracted text or semantics passed review.
+
+`statistics.json` includes unweighted and Oral 3 / Highlight 2 / Poster 1 summaries; unknown presentation labels are excluded from weighted summaries. Missing feature categories are not measured zeros. `extraction-gaps.json` preserves inaccessible, held and failed records. Do not automatically download them during ordinary writing.
+
+To re-export an already authorized local analysis database, without fetching PDFs:
+
+```bash
+python3 modules/cvpr2024-2026/scripts/export.py \
+  --db /absolute/path/to/analysis.sqlite \
+  --output /absolute/path/to/export-directory
+```
+
+The exporter opens SQLite read-only and checks IDs, years, titles, labels and PDF URLs against the bundled metadata. It does not initialize or change the database. The separate `stream.py` is for an authorized unfinished extraction pass, not routine querying: it processes only pending rows, locks the database, caps concurrency at four, and retries only HTTP 429 at most twice. It refuses unresolved in-flight rows. Never run the legacy analyzer's database initializer against this live snapshot: initialization can reset ownership/status information. Preserve prior failures unless the user authorizes a justified retry; a status file alone is not authority to restart an unknown run.
+
 ## Refresh only the evidence needed
 
 For a requested updated metadata snapshot:

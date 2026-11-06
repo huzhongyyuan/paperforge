@@ -1,0 +1,22 @@
+Video motion transfer aims to apply the motion of a reference video to new content described by a text prompt. It lets creators reuse complex camera moves and subject dynamics without capturing new footage, which makes it useful for previsualization, advertising, and short-form content [CITE: applications of motion transfer]. A good result must keep the fine details of the motion, such as the swing of a hand, and the long-range structure of the motion, such as the path of a subject across the frame, while following the new prompt.
+
+Existing approaches can be broadly divided into two paradigms: training-free guidance and per-video tuning. Training-free methods [CITE: training-free motion transfer] extract motion representations from the attention of a pretrained model and steer sampling toward them. They are fast because they optimize no weights, but their fidelity is bounded by the motion prior of the pretrained model, since guidance can only select among motions the model can already express. Per-video tuning methods [CITE: tuning-based motion transfer] instead fit a small set of weights to each reference video. They can represent motion outside the prior, yet they update all features uniformly, so most of the optimization budget goes to bands that carry little motion, and appearance from the reference leaks into the result.
+
+However, both paradigms share a deeper limitation: they treat motion features as a single signal. Fine motion and global structure occupy different frequency bands and need different amounts of adaptation. Because a single set of weights must serve all bands at once, improving one band tends to disturb the other. This coupling explains why methods that capture long-range structure often blur fine motion, and why methods that keep fine motion often lose global structure on longer clips.
+
+In this paper, we present TideMotion, a frequency-aware framework for video motion transfer that separates motion features by band and adapts each band independently. Unlike previous tuning methods, TideMotion restricts adaptation to the parts of the model that carry the motion of the given reference, and leaves the remaining backbone frozen.
+
+Specifically, we first design a Frequency-routed Motion Prior. A lightweight router estimates the energy of the input features in each band and assigns each band to a dedicated expert, so that fine motion and global structure no longer compete for one set of weights. This prior is learned offline and provides a stable starting point for adaptation.
+
+Then, we introduce Band-wise Test-time Adaptation, which tunes only the experts relevant to the given reference video. Since the backbone and unrelated experts stay frozen, this stage needs far fewer updates than tuning the whole model, and it reduces the appearance leakage caused by updating shared features.
+
+Moreover, we propose a Spectral Alignment Loss, which constrains the generated motion to follow the reference in each band instead of in pixel space. This removes the dependence on the appearance of the reference, so that the new content can differ strongly from the source while the motion stays aligned.
+
+We evaluate TideMotion on [TODO: benchmark] against [TODO: baselines]. [TODO: one-sentence qualitative result, after the experiments are final.]
+
+In summary, our contributions are as follows:
+
+- We propose TideMotion, a frequency-aware framework that decouples fine motion and global structure for video motion transfer by adapting each frequency band separately.
+- We design a Frequency-routed Motion Prior, which assigns each band to a dedicated expert and removes the competition between bands for shared weights.
+- We introduce Band-wise Test-time Adaptation and a Spectral Alignment Loss, which adapt only the relevant experts and align motion independently of appearance.
+- Extensive experiments on [TODO: benchmark] evaluate TideMotion against [TODO: baselines] in terms of motion fidelity and temporal consistency.

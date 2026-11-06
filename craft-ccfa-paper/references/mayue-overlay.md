@@ -11,6 +11,7 @@
 - Idea：读 [idea-evidence](../modules/mayue/references/idea-evidence.md)，将假设映射到最小诊断和对照。
 - 画图：按 [统一图表流程](integrated-figures.md) 生产，使用 [figure-playbook](../modules/mayue/references/figure-playbook.md) 的案例和布局分析，或 [figure-execution](../modules/mayue/references/figure-execution.md) 的图注与执行细节。
 - 学论文：先查 [初始核心卡片](../modules/mayue/references/paper-cards.md) 和 [新增核心卡片](../modules/mayue/references/core-cards-2025-2026.md)；其他合作者作品另查 [collaborator-cards](../modules/mayue/references/collaborator-cards.md)，不据此认定为个人风格。
+- 正文与图交接／可执行工具：需要时读 [共享事实、术语检查和框架绘图](../modules/share-tools/references/guide.md)。它补充现有研读，不另建作者风格入口；外部包的混合作者语料不并入本库核心数量，风格统计只作提示。
 - 整篇练习：需要时读 [practice](../modules/mayue/references/practice.md)。
 
 ## 根据技术问题选组织方式

@@ -62,6 +62,9 @@ Cross-check repeated facts and names:
 - notation and terminology are stable;
 - novelty is distinguished from implementation detail;
 - important caveats appear where claims are made, not only in limitations;
+- redundant apologies and caveats are removed through [anti-defensive editing](anti-defensive-writing.md), while scope essential to the exact claim remains visible;
+- useful contrasts and paragraph transitions survive polishing; no word blacklist substitutes for checking their function;
+- the final wording adds no unsupported fact, causal strength, priority claim, generalization or superiority relative to the evidence;
 - the first page and Figure 1 communicate the story without hype.
 
 ## Gate 7 — Full-manuscript layout

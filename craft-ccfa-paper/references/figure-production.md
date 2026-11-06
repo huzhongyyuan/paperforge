@@ -79,6 +79,8 @@ Use `scripts/render_diagram_svg.py` for a small deterministic path. The versione
 
 The bundled renderer outputs SVG only. Export a derived PDF/PNG with a locally available tool such as Inkscape or `rsvg-convert`, then inspect the derived file; do not claim a derived format was produced if the converter is unavailable.
 
+For code-composed CV/video framework figures, the optional [shared figure toolkit](../modules/share-tools/references/guide.md) adds image stacks, state icons, network bars, layout diagnostics, and HTML/SVG/PDF/PNG export. Keep its Python source and actual image sources; its `labels.json` can be checked against the project naming registry. It is separate from the JSON renderer and does not provide native PPTX conversion.
+
 The bundled renderer is intentionally simple. For sophisticated routing, nested containers, icons, equations, or existing-image reconstruction, use draw.io/Figma/Inkscape, TikZ, AutoFigure-Edit, or another dedicated tool—while keeping a source artifact and review trace.
 
 ## AI-generated illustration route

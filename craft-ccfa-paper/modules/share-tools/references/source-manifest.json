@@ -1,0 +1,115 @@
+{
+  "imported_at": "2026-11-06T14:00:53+08:00",
+  "archive_sha256": "400323d31c45e7a7e08a2c3003351350be72842f7a4c96b3f59dc4defc67d138",
+  "files": [
+    {
+      "source": "framework-figure/scripts/figkit.py",
+      "destination": "scripts/figkit.py",
+      "source_sha256": "d7b7f727513601e071d0bbd2a7f9299c3f964adc46aa5df8ba146906e5696dc2",
+      "installed_sha256": "c584ddb0d73fd529b094c1e9fd18a729d5eca001c8504776144af09592db8a26"
+    },
+    {
+      "source": "paper-writing/scripts/check_section.py",
+      "destination": "scripts/check_section.py",
+      "source_sha256": "45625dee69bd21a89f39e836522145230e3b3b6222c62c3880c29becfe27090a",
+      "installed_sha256": "1978c22e548ab79801e1a42d7bbf818f7182473c28202989575d292133238b58"
+    },
+    {
+      "source": "paper-writing/scripts/check_terms.py",
+      "destination": "scripts/check_terms.py",
+      "source_sha256": "6791cf6e204afa511d28587e6416c7bd3690b4f4ba51be51e3e09692cd3442a2",
+      "installed_sha256": "be606c881d3f0f91a605614bab6dc96b066845531ff653869c45d008425e3694"
+    },
+    {
+      "source": "framework-figure/assets/ComicNeue-Regular.ttf",
+      "destination": "assets/ComicNeue-Regular.ttf",
+      "source_sha256": "a0ee5a37c8b27c4db0700137d928598b1e23b0089e1546a8961909176b779360",
+      "installed_sha256": "a0ee5a37c8b27c4db0700137d928598b1e23b0089e1546a8961909176b779360"
+    },
+    {
+      "source": "framework-figure/assets/OFL.txt",
+      "destination": "assets/OFL.txt",
+      "source_sha256": "7c38a22e5878e60fe423360553e63dd7be23d29f1f60336034935dbfc96e8320",
+      "installed_sha256": "dab6444770eae001bddf7501a2b3b90c93d44d47faf45369c814a5ad61b524d2",
+      "publication_change": "Removed trailing whitespace; license wording unchanged."
+    },
+    {
+      "source": "framework-figure/requirements.txt",
+      "destination": "requirements.txt",
+      "source_sha256": "00ff18731ae3ebd27c1e3f77ff1026c88952b3bf15880398fc88b15167d17194",
+      "installed_sha256": "00ff18731ae3ebd27c1e3f77ff1026c88952b3bf15880398fc88b15167d17194"
+    },
+    {
+      "source": "framework-figure/examples/minimal/build.py",
+      "destination": "examples/minimal/build.py",
+      "source_sha256": "a4d21bf9bdd63ecacf744f4a83c44b920dc269a082754c97758e27a21da3c2e2",
+      "installed_sha256": "61f68cc187818c31289cae663a8a37658f0e32f7916662eed72388f473606588"
+    },
+    {
+      "source": "paper-writing/tests/test_handoff.py",
+      "destination": "tests/test_handoff.py",
+      "source_sha256": "358ee51a5f4ff2f30d655896420184396b976bdae8e412e1e89dbafc19a286aa",
+      "installed_sha256": "856d1941345566d3ac9b8230fdbe1d461143e21e3a2fb5dbbe0eb9eb0bd0d424"
+    },
+    {
+      "source": "paper-writing/tests/bad/conclusion.txt",
+      "destination": "tests/bad/conclusion.txt",
+      "source_sha256": "2938ddec701e11d5ff2808d92d45c6246f634888f4c42eb18072e5d9700a97a1",
+      "installed_sha256": "2938ddec701e11d5ff2808d92d45c6246f634888f4c42eb18072e5d9700a97a1"
+    },
+    {
+      "source": "paper-writing/tests/bad/title.txt",
+      "destination": "tests/bad/title.txt",
+      "source_sha256": "245adab92f7dda04e83efff03f07514ffd9eaf472e811115afcc6915f23dc3a8",
+      "installed_sha256": "245adab92f7dda04e83efff03f07514ffd9eaf472e811115afcc6915f23dc3a8"
+    },
+    {
+      "source": "paper-writing/tests/bad/abstract.txt",
+      "destination": "tests/bad/abstract.txt",
+      "source_sha256": "edc03f5b1c831f208c90a2c6d223e9b7f203518d0cf665e5e81424b7c8169081",
+      "installed_sha256": "edc03f5b1c831f208c90a2c6d223e9b7f203518d0cf665e5e81424b7c8169081"
+    },
+    {
+      "source": "paper-writing/tests/bad/related.txt",
+      "destination": "tests/bad/related.txt",
+      "source_sha256": "d6148976ff509af45ef52799d77efd3df8f20a6befabb99c0776c28447f0be90",
+      "installed_sha256": "d6148976ff509af45ef52799d77efd3df8f20a6befabb99c0776c28447f0be90"
+    },
+    {
+      "source": "paper-writing/tests/fictional/intro.txt",
+      "destination": "tests/fictional/intro.txt",
+      "source_sha256": "233f9f9b2b038b1342c25e0780aa4162bdef062b29f7761a49afd48e0e45913c",
+      "installed_sha256": "233f9f9b2b038b1342c25e0780aa4162bdef062b29f7761a49afd48e0e45913c"
+    },
+    {
+      "source": "paper-writing/tests/fictional/conclusion.txt",
+      "destination": "tests/fictional/conclusion.txt",
+      "source_sha256": "32374eaa1c6162fd2e71503100526dbd265e3b2b259d9ee016db3f006e7aa715",
+      "installed_sha256": "32374eaa1c6162fd2e71503100526dbd265e3b2b259d9ee016db3f006e7aa715"
+    },
+    {
+      "source": "paper-writing/tests/fictional/title.txt",
+      "destination": "tests/fictional/title.txt",
+      "source_sha256": "2f55a2d55e6d0cf1c3cc3f8c3d1cd7561198977c2087c27894950aa65c501e8e",
+      "installed_sha256": "2f55a2d55e6d0cf1c3cc3f8c3d1cd7561198977c2087c27894950aa65c501e8e"
+    },
+    {
+      "source": "paper-writing/tests/fictional/abstract.txt",
+      "destination": "tests/fictional/abstract.txt",
+      "source_sha256": "e76b8a928268507059f394bffa409a4f68d2b7209699a5e1c4d6c1ec73dd73e1",
+      "installed_sha256": "e76b8a928268507059f394bffa409a4f68d2b7209699a5e1c4d6c1ec73dd73e1"
+    },
+    {
+      "source": "paper-writing/tests/fictional/facts.md",
+      "destination": "tests/fictional/facts.md",
+      "source_sha256": "f2c118c2df7a6b3563605bc996ab9ee9d9be6cf02898f777cae4cd08217ce99c",
+      "installed_sha256": "f2c118c2df7a6b3563605bc996ab9ee9d9be6cf02898f777cae4cd08217ce99c"
+    },
+    {
+      "source": "paper-writing/tests/fictional/related.txt",
+      "destination": "tests/fictional/related.txt",
+      "source_sha256": "b2335e29d3cd9250ad61c23f0376eb83236d833e7995794ba6061d58cffc12b0",
+      "installed_sha256": "b2335e29d3cd9250ad61c23f0376eb83236d833e7995794ba6061d58cffc12b0"
+    }
+  ]
+}

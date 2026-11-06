@@ -1,0 +1,3 @@
+In this paper we made a new model for videos. It is very good.
+- It has a module.
+- It reaches 98.7% accuracy and is 10x faster than all methods.

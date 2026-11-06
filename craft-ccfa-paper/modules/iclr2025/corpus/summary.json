@@ -1,0 +1,4201 @@
+{
+  "status": {
+    "blocked": 2,
+    "done": 3703
+  },
+  "analyzer_versions": {
+    "unprocessed": 2,
+    "2.6-iclr-appendix": 3703
+  },
+  "mixed_analyzer_versions": false,
+  "report_state": "complete",
+  "venue_year": [
+    {
+      "conference": "ICLR",
+      "year": 2025,
+      "records": 3705,
+      "done": 3703,
+      "blocked": 2,
+      "error": 0,
+      "not_found": 0,
+      "no_pdf": 0,
+      "figures": 40917,
+      "tables": 31800
+    }
+  ],
+  "papers_analyzed": 3703,
+  "priority_papers_analyzed": 593,
+  "extraction_quality": {
+    "flag_counts": {
+      "missing_method": 308,
+      "missing_experiments": 528,
+      "missing_conclusion": 425,
+      "zero_detected_figures": 50,
+      "missing_introduction": 60,
+      "oversized_main_section": 9,
+      "missing_references": 22,
+      "missing_abstract": 4,
+      "low_section_count": 2
+    },
+    "examples": [
+      {
+        "title": "Generalization and Distributed Learning of GFlowNets",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "Gaussian Differentially Private Human Faces Under a Face Radial Curve Representation",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Beyond Worst-Case Dimensionality Reduction for Sparse Vectors",
+        "flags": [
+          "missing_experiments",
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Differential Transformer",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "FairMT-Bench: Benchmarking Fairness for Multi-turn Dialogue in Conversational LLMs",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "CBMA: Improving Conformal Prediction through Bayesian Model Averaging",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words?",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "The Belief State Transformer",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "SEBRA : Debiasing through Self-Guided Bias Ranking",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Attention with Markov: A Curious Case of Single-layer Transformers",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Tracing Representation Progression: Analyzing and Enhancing Layer-Wise Similarity",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "ImDy: Human Inverse Dynamics from Imitated Observations",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Reinforcement Learning for Control of Non-Markovian Cellular Population Dynamics",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "URLOST: Unsupervised Representation Learning without Stationarity or Topology",
+        "flags": [
+          "missing_method",
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "MMSearch: Unveiling the Potential of Large Models as Multi-modal Search Engines",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "PhysPDE: Rethinking PDE Discovery and a Physical HYpothesis Selection Benchmark",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Stabilized Neural Prediction of Potential Outcomes in Continuous Time",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "How efficient is LLM-generated code? A rigorous & high-standard benchmark",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "PICASO: Permutation-Invariant Context Composition with State Space Models",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Balanced Ranking with Relative Centrality: A multi-core periphery perspective",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Graph Transformers Dream of Electric Flow",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Point Cluster: A Compact Message Unit for Communication-Efficient Collaborative Perception",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "Have the VLMs Lost Confidence? A Study of Sycophancy in VLMs",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Deconstructing What Makes a Good Optimizer for Autoregressive Language Models",
+        "flags": [
+          "missing_experiments",
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Fast Summation of Radial Kernels via QMC Slicing",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Trust or Escalate: LLM Judges with Provable Guarantees for Human Agreement",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "Improving Convergence Guarantees of Random Subspace Second-order Algorithm for Nonconvex Optimization",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Real-Time Video Generation with Pyramid Attention Broadcast",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "DRESSing Up LLM: Efficient Stylized Question-Answering via Style Subspace Editing",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "SuperCorrect: Advancing Small LLM Reasoning with Thought Template Distillation and Self-Correction",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Transformers Learn Low Sensitivity Functions: Investigations and Implications",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Generalized Behavior Learning from Diverse Demonstrations",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Number Cookbook: Number Understanding of Language Models and How to Improve It",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Asynchronous RLHF: Faster and More Efficient Off-Policy RL for Language Models",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Scaling Stick-Breaking Attention: An Efficient Implementation and In-depth Study",
+        "flags": [
+          "missing_method"
+        ]
+      },
+      {
+        "title": "Self-Improving Robust Preference Optimization",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Understanding Factual Recall in Transformers via Associative Memories",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Fugatto 1: Foundational Generative Audio Transformer Opus 1",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "Towards Bridging Generalization and Expressivity of Graph Neural Networks",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "On the Crucial Role of Initialization for Matrix Factorization",
+        "flags": [
+          "missing_conclusion"
+        ]
+      },
+      {
+        "title": "InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation",
+        "flags": [
+          "missing_experiments"
+        ]
+      },
+      {
+        "title": "Decoupling Layout from Glyph in Online Chinese Handwriting Generation",
+        "flags": [
+          "missing_conclusion"
+        ]
+      }
+    ]
+  },
+  "sections": {
+    "abstract": {
+      "poster": {
+        "sections": 3107,
+        "papers": 3107,
+        "word_count": {
+          "n": 3107,
+          "mean": 222.24,
+          "median": 199.0,
+          "p25": 170.0,
+          "p75": 230.0
+        },
+        "sentence_count": {
+          "n": 3107,
+          "mean": 9.09,
+          "median": 8.0,
+          "p25": 7.0,
+          "p75": 10.0
+        },
+        "avg_sentence_words": {
+          "n": 3107,
+          "mean": 24.5,
+          "median": 23.86,
+          "p25": 21.56,
+          "p75": 26.6
+        },
+        "citations": {
+          "n": 3107,
+          "mean": 0.12,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "figure_mentions": {
+          "n": 3107,
+          "mean": 0.09,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 3107,
+          "mean": 0.91,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      },
+      "priority": {
+        "sections": 592,
+        "papers": 592,
+        "word_count": {
+          "n": 592,
+          "mean": 222.31,
+          "median": 199.0,
+          "p25": 172.0,
+          "p75": 229.0
+        },
+        "sentence_count": {
+          "n": 592,
+          "mean": 8.9,
+          "median": 8.0,
+          "p25": 7.0,
+          "p75": 10.0
+        },
+        "avg_sentence_words": {
+          "n": 592,
+          "mean": 25.22,
+          "median": 24.53,
+          "p25": 22.0,
+          "p75": 27.62
+        },
+        "citations": {
+          "n": 592,
+          "mean": 0.1,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "figure_mentions": {
+          "n": 592,
+          "mean": 0.1,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 592,
+          "mean": 0.88,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      }
+    },
+    "introduction": {
+      "poster": {
+        "sections": 3062,
+        "papers": 3061,
+        "word_count": {
+          "n": 3062,
+          "mean": 965.23,
+          "median": 902.0,
+          "p25": 741.0,
+          "p75": 1090.0
+        },
+        "sentence_count": {
+          "n": 3062,
+          "mean": 32.77,
+          "median": 30.0,
+          "p25": 25.0,
+          "p75": 37.0
+        },
+        "avg_sentence_words": {
+          "n": 3062,
+          "mean": 30.15,
+          "median": 29.45,
+          "p25": 26.6,
+          "p75": 33.03
+        },
+        "citations": {
+          "n": 3062,
+          "mean": 4.06,
+          "median": 3.0,
+          "p25": 1.0,
+          "p75": 6.0
+        },
+        "figure_mentions": {
+          "n": 3062,
+          "mean": 1.83,
+          "median": 2.0,
+          "p25": 0.0,
+          "p75": 3.0
+        },
+        "strong_claims": {
+          "n": 3062,
+          "mean": 2.31,
+          "median": 2.0,
+          "p25": 1.0,
+          "p75": 3.0
+        }
+      },
+      "priority": {
+        "sections": 583,
+        "papers": 582,
+        "word_count": {
+          "n": 583,
+          "mean": 965.52,
+          "median": 882.0,
+          "p25": 717.5,
+          "p75": 1092.5
+        },
+        "sentence_count": {
+          "n": 583,
+          "mean": 32.51,
+          "median": 29.0,
+          "p25": 24.0,
+          "p75": 38.0
+        },
+        "avg_sentence_words": {
+          "n": 583,
+          "mean": 30.27,
+          "median": 30.04,
+          "p25": 27.24,
+          "p75": 32.95
+        },
+        "citations": {
+          "n": 583,
+          "mean": 3.79,
+          "median": 3.0,
+          "p25": 1.0,
+          "p75": 5.0
+        },
+        "figure_mentions": {
+          "n": 583,
+          "mean": 1.88,
+          "median": 2.0,
+          "p25": 0.0,
+          "p75": 3.0
+        },
+        "strong_claims": {
+          "n": 583,
+          "mean": 2.16,
+          "median": 2.0,
+          "p25": 1.0,
+          "p75": 3.0
+        }
+      }
+    },
+    "background": {
+      "poster": {
+        "sections": 1192,
+        "papers": 1183,
+        "word_count": {
+          "n": 1192,
+          "mean": 770.13,
+          "median": 671.0,
+          "p25": 476.0,
+          "p75": 959.25
+        },
+        "sentence_count": {
+          "n": 1192,
+          "mean": 25.75,
+          "median": 22.0,
+          "p25": 15.0,
+          "p75": 32.0
+        },
+        "avg_sentence_words": {
+          "n": 1192,
+          "mean": 31.19,
+          "median": 29.51,
+          "p25": 25.93,
+          "p75": 34.79
+        },
+        "citations": {
+          "n": 1192,
+          "mean": 2.32,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 3.0
+        },
+        "figure_mentions": {
+          "n": 1192,
+          "mean": 0.69,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        },
+        "strong_claims": {
+          "n": 1192,
+          "mean": 0.51,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      },
+      "priority": {
+        "sections": 226,
+        "papers": 224,
+        "word_count": {
+          "n": 226,
+          "mean": 788.3,
+          "median": 734.0,
+          "p25": 477.25,
+          "p75": 978.0
+        },
+        "sentence_count": {
+          "n": 226,
+          "mean": 26.81,
+          "median": 24.5,
+          "p25": 14.0,
+          "p75": 36.0
+        },
+        "avg_sentence_words": {
+          "n": 226,
+          "mean": 31.15,
+          "median": 28.91,
+          "p25": 24.55,
+          "p75": 36.22
+        },
+        "citations": {
+          "n": 226,
+          "mean": 2.57,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 3.0
+        },
+        "figure_mentions": {
+          "n": 226,
+          "mean": 0.81,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        },
+        "strong_claims": {
+          "n": 226,
+          "mean": 0.6,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      }
+    },
+    "experiments": {
+      "poster": {
+        "sections": 2919,
+        "papers": 2696,
+        "word_count": {
+          "n": 2919,
+          "mean": 1843.57,
+          "median": 1828.0,
+          "p25": 1343.0,
+          "p75": 2329.0
+        },
+        "sentence_count": {
+          "n": 2919,
+          "mean": 65.23,
+          "median": 64.0,
+          "p25": 47.0,
+          "p75": 83.0
+        },
+        "avg_sentence_words": {
+          "n": 2919,
+          "mean": 28.9,
+          "median": 28.03,
+          "p25": 24.79,
+          "p75": 31.8
+        },
+        "citations": {
+          "n": 2919,
+          "mean": 8.59,
+          "median": 6.0,
+          "p25": 2.0,
+          "p75": 12.0
+        },
+        "figure_mentions": {
+          "n": 2919,
+          "mean": 6.4,
+          "median": 5.0,
+          "p25": 2.0,
+          "p75": 9.0
+        },
+        "strong_claims": {
+          "n": 2919,
+          "mean": 3.52,
+          "median": 3.0,
+          "p25": 1.0,
+          "p75": 5.0
+        }
+      },
+      "priority": {
+        "sections": 516,
+        "papers": 479,
+        "word_count": {
+          "n": 516,
+          "mean": 1864.72,
+          "median": 1859.5,
+          "p25": 1388.75,
+          "p75": 2314.25
+        },
+        "sentence_count": {
+          "n": 516,
+          "mean": 65.57,
+          "median": 65.0,
+          "p25": 49.0,
+          "p75": 82.0
+        },
+        "avg_sentence_words": {
+          "n": 516,
+          "mean": 29.27,
+          "median": 27.63,
+          "p25": 24.92,
+          "p75": 31.98
+        },
+        "citations": {
+          "n": 516,
+          "mean": 8.04,
+          "median": 6.0,
+          "p25": 2.0,
+          "p75": 11.0
+        },
+        "figure_mentions": {
+          "n": 516,
+          "mean": 6.95,
+          "median": 6.0,
+          "p25": 3.0,
+          "p75": 10.0
+        },
+        "strong_claims": {
+          "n": 516,
+          "mean": 3.65,
+          "median": 3.0,
+          "p25": 1.0,
+          "p75": 5.0
+        }
+      }
+    },
+    "conclusion": {
+      "poster": {
+        "sections": 2883,
+        "papers": 2770,
+        "word_count": {
+          "n": 2883,
+          "mean": 276.42,
+          "median": 215.0,
+          "p25": 155.0,
+          "p75": 320.5
+        },
+        "sentence_count": {
+          "n": 2883,
+          "mean": 11.45,
+          "median": 8.0,
+          "p25": 6.0,
+          "p75": 13.0
+        },
+        "avg_sentence_words": {
+          "n": 2883,
+          "mean": 26.07,
+          "median": 25.09,
+          "p25": 22.11,
+          "p75": 29.0
+        },
+        "citations": {
+          "n": 2883,
+          "mean": 0.29,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "figure_mentions": {
+          "n": 2883,
+          "mean": 0.19,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 2883,
+          "mean": 0.72,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      },
+      "priority": {
+        "sections": 527,
+        "papers": 508,
+        "word_count": {
+          "n": 527,
+          "mean": 274.01,
+          "median": 221.0,
+          "p25": 162.0,
+          "p75": 319.0
+        },
+        "sentence_count": {
+          "n": 527,
+          "mean": 10.99,
+          "median": 9.0,
+          "p25": 6.0,
+          "p75": 13.5
+        },
+        "avg_sentence_words": {
+          "n": 527,
+          "mean": 25.99,
+          "median": 24.81,
+          "p25": 21.88,
+          "p75": 28.71
+        },
+        "citations": {
+          "n": 527,
+          "mean": 0.29,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "figure_mentions": {
+          "n": 527,
+          "mean": 0.16,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 527,
+          "mean": 0.67,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      }
+    },
+    "method": {
+      "poster": {
+        "sections": 4281,
+        "papers": 2857,
+        "word_count": {
+          "n": 4281,
+          "mean": 1423.71,
+          "median": 1339.0,
+          "p25": 847.0,
+          "p75": 1904.0
+        },
+        "sentence_count": {
+          "n": 4281,
+          "mean": 48.83,
+          "median": 45.0,
+          "p25": 29.0,
+          "p75": 65.0
+        },
+        "avg_sentence_words": {
+          "n": 4281,
+          "mean": 29.89,
+          "median": 29.01,
+          "p25": 25.41,
+          "p75": 33.36
+        },
+        "citations": {
+          "n": 4281,
+          "mean": 3.07,
+          "median": 2.0,
+          "p25": 0.0,
+          "p75": 4.0
+        },
+        "figure_mentions": {
+          "n": 4281,
+          "mean": 3.39,
+          "median": 2.0,
+          "p25": 0.0,
+          "p75": 5.0
+        },
+        "strong_claims": {
+          "n": 4281,
+          "mean": 1.35,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 2.0
+        }
+      },
+      "priority": {
+        "sections": 908,
+        "papers": 538,
+        "word_count": {
+          "n": 908,
+          "mean": 1377.75,
+          "median": 1302.5,
+          "p25": 795.0,
+          "p75": 1854.25
+        },
+        "sentence_count": {
+          "n": 908,
+          "mean": 47.7,
+          "median": 44.0,
+          "p25": 28.0,
+          "p75": 63.0
+        },
+        "avg_sentence_words": {
+          "n": 908,
+          "mean": 29.52,
+          "median": 28.65,
+          "p25": 25.45,
+          "p75": 32.29
+        },
+        "citations": {
+          "n": 908,
+          "mean": 3.07,
+          "median": 2.0,
+          "p25": 0.0,
+          "p75": 4.0
+        },
+        "figure_mentions": {
+          "n": 908,
+          "mean": 3.62,
+          "median": 3.0,
+          "p25": 0.0,
+          "p75": 5.0
+        },
+        "strong_claims": {
+          "n": 908,
+          "mean": 1.33,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 2.0
+        }
+      }
+    },
+    "related_work": {
+      "poster": {
+        "sections": 2311,
+        "papers": 2308,
+        "word_count": {
+          "n": 2311,
+          "mean": 611.27,
+          "median": 566.0,
+          "p25": 442.5,
+          "p75": 716.5
+        },
+        "sentence_count": {
+          "n": 2311,
+          "mean": 22.19,
+          "median": 21.0,
+          "p25": 16.0,
+          "p75": 26.0
+        },
+        "avg_sentence_words": {
+          "n": 2311,
+          "mean": 28.08,
+          "median": 27.16,
+          "p25": 24.09,
+          "p75": 31.08
+        },
+        "citations": {
+          "n": 2311,
+          "mean": 5.61,
+          "median": 5.0,
+          "p25": 2.0,
+          "p75": 8.0
+        },
+        "figure_mentions": {
+          "n": 2311,
+          "mean": 0.34,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 2311,
+          "mean": 0.83,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      },
+      "priority": {
+        "sections": 414,
+        "papers": 414,
+        "word_count": {
+          "n": 414,
+          "mean": 611.36,
+          "median": 543.0,
+          "p25": 430.25,
+          "p75": 711.0
+        },
+        "sentence_count": {
+          "n": 414,
+          "mean": 21.93,
+          "median": 20.0,
+          "p25": 15.0,
+          "p75": 26.75
+        },
+        "avg_sentence_words": {
+          "n": 414,
+          "mean": 28.51,
+          "median": 27.46,
+          "p25": 24.44,
+          "p75": 31.57
+        },
+        "citations": {
+          "n": 414,
+          "mean": 5.42,
+          "median": 4.0,
+          "p25": 2.0,
+          "p75": 8.0
+        },
+        "figure_mentions": {
+          "n": 414,
+          "mean": 0.31,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 414,
+          "mean": 0.87,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      }
+    },
+    "theory": {
+      "poster": {
+        "sections": 241,
+        "papers": 212,
+        "word_count": {
+          "n": 241,
+          "mean": 1283.97,
+          "median": 1170.0,
+          "p25": 755.0,
+          "p75": 1723.0
+        },
+        "sentence_count": {
+          "n": 241,
+          "mean": 43.78,
+          "median": 42.0,
+          "p25": 23.0,
+          "p75": 59.0
+        },
+        "avg_sentence_words": {
+          "n": 241,
+          "mean": 30.56,
+          "median": 29.3,
+          "p25": 25.0,
+          "p75": 33.21
+        },
+        "citations": {
+          "n": 241,
+          "mean": 1.15,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 2.0
+        },
+        "figure_mentions": {
+          "n": 241,
+          "mean": 1.09,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        },
+        "strong_claims": {
+          "n": 241,
+          "mean": 1.5,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 2.0
+        }
+      },
+      "priority": {
+        "sections": 33,
+        "papers": 33,
+        "word_count": {
+          "n": 33,
+          "mean": 1696.67,
+          "median": 1697.0,
+          "p25": 1092.0,
+          "p75": 2227.0
+        },
+        "sentence_count": {
+          "n": 33,
+          "mean": 58.55,
+          "median": 53.0,
+          "p25": 38.0,
+          "p75": 74.0
+        },
+        "avg_sentence_words": {
+          "n": 33,
+          "mean": 29.03,
+          "median": 29.12,
+          "p25": 24.76,
+          "p75": 32.15
+        },
+        "citations": {
+          "n": 33,
+          "mean": 3.27,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 3.0
+        },
+        "figure_mentions": {
+          "n": 33,
+          "mean": 2.24,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 3.0
+        },
+        "strong_claims": {
+          "n": 33,
+          "mean": 1.97,
+          "median": 2.0,
+          "p25": 0.0,
+          "p75": 2.0
+        }
+      }
+    },
+    "data": {
+      "priority": {
+        "sections": 50,
+        "papers": 40,
+        "word_count": {
+          "n": 50,
+          "mean": 1269.9,
+          "median": 1162.0,
+          "p25": 788.75,
+          "p75": 1738.75
+        },
+        "sentence_count": {
+          "n": 50,
+          "mean": 47.0,
+          "median": 46.5,
+          "p25": 27.5,
+          "p75": 59.5
+        },
+        "avg_sentence_words": {
+          "n": 50,
+          "mean": 27.06,
+          "median": 26.55,
+          "p25": 23.17,
+          "p75": 30.78
+        },
+        "citations": {
+          "n": 50,
+          "mean": 5.14,
+          "median": 4.0,
+          "p25": 1.0,
+          "p75": 6.0
+        },
+        "figure_mentions": {
+          "n": 50,
+          "mean": 3.54,
+          "median": 2.5,
+          "p25": 1.0,
+          "p75": 5.0
+        },
+        "strong_claims": {
+          "n": 50,
+          "mean": 1.28,
+          "median": 1.0,
+          "p25": 0.0,
+          "p75": 2.0
+        }
+      },
+      "poster": {
+        "sections": 205,
+        "papers": 186,
+        "word_count": {
+          "n": 205,
+          "mean": 1289.55,
+          "median": 1152.0,
+          "p25": 696.0,
+          "p75": 1777.0
+        },
+        "sentence_count": {
+          "n": 205,
+          "mean": 49.0,
+          "median": 44.0,
+          "p25": 26.0,
+          "p75": 66.0
+        },
+        "avg_sentence_words": {
+          "n": 205,
+          "mean": 27.06,
+          "median": 26.06,
+          "p25": 23.24,
+          "p75": 29.0
+        },
+        "citations": {
+          "n": 205,
+          "mean": 3.78,
+          "median": 2.0,
+          "p25": 0.0,
+          "p75": 6.0
+        },
+        "figure_mentions": {
+          "n": 205,
+          "mean": 3.83,
+          "median": 3.0,
+          "p25": 1.0,
+          "p75": 5.0
+        },
+        "strong_claims": {
+          "n": 205,
+          "mean": 1.08,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      }
+    },
+    "limitations": {
+      "priority": {
+        "sections": 89,
+        "papers": 86,
+        "word_count": {
+          "n": 89,
+          "mean": 326.07,
+          "median": 249.0,
+          "p25": 130.0,
+          "p75": 384.0
+        },
+        "sentence_count": {
+          "n": 89,
+          "mean": 14.17,
+          "median": 11.0,
+          "p25": 6.0,
+          "p75": 18.0
+        },
+        "avg_sentence_words": {
+          "n": 89,
+          "mean": 23.11,
+          "median": 22.59,
+          "p25": 19.0,
+          "p75": 25.0
+        },
+        "citations": {
+          "n": 89,
+          "mean": 0.53,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        },
+        "figure_mentions": {
+          "n": 89,
+          "mean": 0.2,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 89,
+          "mean": 0.94,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      },
+      "poster": {
+        "sections": 471,
+        "papers": 454,
+        "word_count": {
+          "n": 471,
+          "mean": 283.42,
+          "median": 218.0,
+          "p25": 140.5,
+          "p75": 346.0
+        },
+        "sentence_count": {
+          "n": 471,
+          "mean": 12.23,
+          "median": 9.0,
+          "p25": 6.0,
+          "p75": 15.0
+        },
+        "avg_sentence_words": {
+          "n": 471,
+          "mean": 23.93,
+          "median": 22.88,
+          "p25": 20.19,
+          "p75": 26.61
+        },
+        "citations": {
+          "n": 471,
+          "mean": 0.42,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "figure_mentions": {
+          "n": 471,
+          "mean": 0.29,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 0.0
+        },
+        "strong_claims": {
+          "n": 471,
+          "mean": 0.52,
+          "median": 0.0,
+          "p25": 0.0,
+          "p75": 1.0
+        }
+      }
+    }
+  },
+  "common_section_orders": [
+    [
+      "abstract > introduction > related_work > method > experiments > conclusion",
+      636
+    ],
+    [
+      "abstract > introduction > related_work > background > method > experiments > conclusion",
+      238
+    ],
+    [
+      "abstract > introduction > related_work > method > method > experiments > conclusion",
+      183
+    ],
+    [
+      "abstract > introduction > background > method > experiments > conclusion",
+      141
+    ],
+    [
+      "abstract > introduction > background > method > experiments > related_work > conclusion",
+      112
+    ],
+    [
+      "abstract > introduction > method > experiments > conclusion",
+      109
+    ],
+    [
+      "abstract > introduction > method > experiments > related_work > conclusion",
+      104
+    ],
+    [
+      "abstract > introduction > background > method > method > experiments > conclusion",
+      64
+    ],
+    [
+      "abstract > introduction > related_work > background > method > method > experiments > conclusion",
+      52
+    ],
+    [
+      "abstract > introduction > experiments > related_work > conclusion",
+      39
+    ],
+    [
+      "abstract > introduction > related_work > method > experiments > experiments > conclusion",
+      38
+    ],
+    [
+      "abstract > introduction > background > method > method > experiments > related_work > conclusion",
+      36
+    ],
+    [
+      "abstract > introduction > background > method > related_work > experiments > conclusion",
+      35
+    ],
+    [
+      "abstract > introduction > method > method > experiments > conclusion",
+      35
+    ],
+    [
+      "abstract > introduction > related_work > method > experiments > limitations",
+      32
+    ],
+    [
+      "abstract > introduction > related_work > background > method > experiments > limitations",
+      28
+    ],
+    [
+      "abstract > introduction > related_work > method > experiments > conclusion > limitations",
+      25
+    ],
+    [
+      "abstract > introduction > related_work > method > experiments > conclusion > conclusion",
+      25
+    ],
+    [
+      "abstract > introduction > related_work > method > method > method > conclusion",
+      25
+    ],
+    [
+      "abstract > introduction > experiments > conclusion",
+      24
+    ]
+  ],
+  "visuals": {
+    "figure": {
+      "quantitative_plot": {
+        "poster": {
+          "count": 6467,
+          "page": {
+            "n": 6467,
+            "mean": 16.73,
+            "median": 15.0,
+            "p25": 8.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 6420,
+            "mean": 0.71,
+            "median": 0.65,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 6420,
+            "mean": 24.87,
+            "median": 6.31,
+            "p25": 1.57,
+            "p75": 46.02
+          },
+          "colorfulness": {
+            "n": 6420,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "white_fraction": {
+            "n": 6420,
+            "mean": 0.79,
+            "median": 0.89,
+            "p25": 0.69,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 6420,
+            "mean": 0.06,
+            "median": 0.06,
+            "p25": 0.0,
+            "p75": 0.1
+          },
+          "caption_words": {
+            "n": 6467,
+            "mean": 48.29,
+            "median": 40.0,
+            "p25": 22.0,
+            "p75": 63.0
+          },
+          "subfigures": {
+            "n": 6467,
+            "mean": 0.3,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 24.0,
+          "comparison_pct": 21.7,
+          "protocol_pct": 42.0
+        },
+        "priority": {
+          "count": 1446,
+          "page": {
+            "n": 1446,
+            "mean": 17.19,
+            "median": 15.0,
+            "p25": 8.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 1432,
+            "mean": 0.73,
+            "median": 0.65,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 1432,
+            "mean": 27.38,
+            "median": 14.6,
+            "p25": 1.98,
+            "p75": 53.35
+          },
+          "colorfulness": {
+            "n": 1432,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "white_fraction": {
+            "n": 1432,
+            "mean": 0.81,
+            "median": 0.92,
+            "p25": 0.72,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 1432,
+            "mean": 0.06,
+            "median": 0.04,
+            "p25": 0.0,
+            "p75": 0.1
+          },
+          "caption_words": {
+            "n": 1446,
+            "mean": 52.66,
+            "median": 44.0,
+            "p25": 25.0,
+            "p75": 68.0
+          },
+          "subfigures": {
+            "n": 1446,
+            "mean": 0.4,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 25.2,
+          "comparison_pct": 22.8,
+          "protocol_pct": 40.0
+        }
+      },
+      "diagram_or_plot": {
+        "poster": {
+          "count": 3856,
+          "page": {
+            "n": 3856,
+            "mean": 17.88,
+            "median": 17.0,
+            "p25": 8.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 3856,
+            "mean": 0.62,
+            "median": 0.59,
+            "p25": 0.5,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 3856,
+            "mean": 10.0,
+            "median": 2.92,
+            "p25": 1.18,
+            "p75": 15.04
+          },
+          "colorfulness": {
+            "n": 3856,
+            "mean": 0.02,
+            "median": 0.01,
+            "p25": 0.0,
+            "p75": 0.02
+          },
+          "white_fraction": {
+            "n": 3856,
+            "mean": 0.85,
+            "median": 0.85,
+            "p25": 0.78,
+            "p75": 0.92
+          },
+          "edge_density": {
+            "n": 3856,
+            "mean": 0.08,
+            "median": 0.07,
+            "p25": 0.05,
+            "p75": 0.1
+          },
+          "caption_words": {
+            "n": 3856,
+            "mean": 28.17,
+            "median": 20.0,
+            "p25": 12.0,
+            "p75": 37.0
+          },
+          "subfigures": {
+            "n": 3856,
+            "mean": 0.15,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 9.7,
+          "comparison_pct": 13.9,
+          "protocol_pct": 7.3
+        },
+        "priority": {
+          "count": 878,
+          "page": {
+            "n": 878,
+            "mean": 20.07,
+            "median": 20.0,
+            "p25": 8.0,
+            "p75": 28.0
+          },
+          "width_page_fraction": {
+            "n": 878,
+            "mean": 0.62,
+            "median": 0.57,
+            "p25": 0.5,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 878,
+            "mean": 9.71,
+            "median": 2.95,
+            "p25": 1.14,
+            "p75": 14.43
+          },
+          "colorfulness": {
+            "n": 878,
+            "mean": 0.01,
+            "median": 0.01,
+            "p25": 0.0,
+            "p75": 0.02
+          },
+          "white_fraction": {
+            "n": 878,
+            "mean": 0.85,
+            "median": 0.85,
+            "p25": 0.79,
+            "p75": 0.92
+          },
+          "edge_density": {
+            "n": 878,
+            "mean": 0.08,
+            "median": 0.07,
+            "p25": 0.05,
+            "p75": 0.1
+          },
+          "caption_words": {
+            "n": 878,
+            "mean": 31.58,
+            "median": 24.0,
+            "p25": 12.0,
+            "p75": 42.0
+          },
+          "subfigures": {
+            "n": 878,
+            "mean": 0.18,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 10.7,
+          "comparison_pct": 12.4,
+          "protocol_pct": 8.5
+        }
+      },
+      "other": {
+        "poster": {
+          "count": 8032,
+          "page": {
+            "n": 8032,
+            "mean": 18.57,
+            "median": 18.0,
+            "p25": 8.0,
+            "p75": 25.0
+          },
+          "width_page_fraction": {
+            "n": 7968,
+            "mean": 0.66,
+            "median": 0.63,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 7968,
+            "mean": 22.65,
+            "median": 4.06,
+            "p25": 1.2,
+            "p75": 40.0
+          },
+          "colorfulness": {
+            "n": 7968,
+            "mean": 0.03,
+            "median": 0.01,
+            "p25": 0.0,
+            "p75": 0.06
+          },
+          "white_fraction": {
+            "n": 7968,
+            "mean": 0.7,
+            "median": 0.7,
+            "p25": 0.48,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 7968,
+            "mean": 0.07,
+            "median": 0.05,
+            "p25": 0.0,
+            "p75": 0.12
+          },
+          "caption_words": {
+            "n": 8032,
+            "mean": 30.44,
+            "median": 23.0,
+            "p25": 12.0,
+            "p75": 41.0
+          },
+          "subfigures": {
+            "n": 8032,
+            "mean": 0.21,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 10.2,
+          "comparison_pct": 13.9,
+          "protocol_pct": 7.7
+        },
+        "priority": {
+          "count": 1706,
+          "page": {
+            "n": 1706,
+            "mean": 20.19,
+            "median": 20.0,
+            "p25": 9.0,
+            "p75": 27.0
+          },
+          "width_page_fraction": {
+            "n": 1673,
+            "mean": 0.69,
+            "median": 0.65,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 1673,
+            "mean": 24.81,
+            "median": 5.41,
+            "p25": 1.25,
+            "p75": 48.15
+          },
+          "colorfulness": {
+            "n": 1673,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.05
+          },
+          "white_fraction": {
+            "n": 1673,
+            "mean": 0.72,
+            "median": 0.71,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 1673,
+            "mean": 0.06,
+            "median": 0.02,
+            "p25": 0.0,
+            "p75": 0.12
+          },
+          "caption_words": {
+            "n": 1706,
+            "mean": 33.74,
+            "median": 25.0,
+            "p25": 14.0,
+            "p75": 44.0
+          },
+          "subfigures": {
+            "n": 1706,
+            "mean": 0.26,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 11.6,
+          "comparison_pct": 14.3,
+          "protocol_pct": 8.3
+        }
+      },
+      "visual_examples": {
+        "poster": {
+          "count": 1812,
+          "page": {
+            "n": 1812,
+            "mean": 19.07,
+            "median": 19.0,
+            "p25": 9.0,
+            "p75": 25.0
+          },
+          "width_page_fraction": {
+            "n": 1812,
+            "mean": 0.49,
+            "median": 0.58,
+            "p25": 0.37,
+            "p75": 0.64
+          },
+          "aspect_ratio": {
+            "n": 1812,
+            "mean": 2.07,
+            "median": 1.21,
+            "p25": 0.8,
+            "p75": 2.27
+          },
+          "colorfulness": {
+            "n": 1812,
+            "mean": 0.22,
+            "median": 0.18,
+            "p25": 0.15,
+            "p75": 0.26
+          },
+          "white_fraction": {
+            "n": 1812,
+            "mean": 0.26,
+            "median": 0.23,
+            "p25": 0.08,
+            "p75": 0.41
+          },
+          "edge_density": {
+            "n": 1812,
+            "mean": 0.1,
+            "median": 0.1,
+            "p25": 0.07,
+            "p75": 0.14
+          },
+          "caption_words": {
+            "n": 1812,
+            "mean": 29.96,
+            "median": 21.5,
+            "p25": 12.0,
+            "p75": 42.0
+          },
+          "subfigures": {
+            "n": 1812,
+            "mean": 0.19,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 11.9,
+          "comparison_pct": 12.9,
+          "protocol_pct": 8.8
+        },
+        "priority": {
+          "count": 473,
+          "page": {
+            "n": 473,
+            "mean": 20.7,
+            "median": 21.0,
+            "p25": 9.0,
+            "p75": 29.0
+          },
+          "width_page_fraction": {
+            "n": 473,
+            "mean": 0.51,
+            "median": 0.59,
+            "p25": 0.45,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 473,
+            "mean": 2.03,
+            "median": 1.25,
+            "p25": 0.85,
+            "p75": 2.28
+          },
+          "colorfulness": {
+            "n": 473,
+            "mean": 0.21,
+            "median": 0.18,
+            "p25": 0.14,
+            "p75": 0.24
+          },
+          "white_fraction": {
+            "n": 473,
+            "mean": 0.25,
+            "median": 0.22,
+            "p25": 0.11,
+            "p75": 0.39
+          },
+          "edge_density": {
+            "n": 473,
+            "mean": 0.11,
+            "median": 0.11,
+            "p25": 0.08,
+            "p75": 0.15
+          },
+          "caption_words": {
+            "n": 473,
+            "mean": 31.38,
+            "median": 23.0,
+            "p25": 14.0,
+            "p75": 40.0
+          },
+          "subfigures": {
+            "n": 473,
+            "mean": 0.31,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 10.6,
+          "comparison_pct": 9.3,
+          "protocol_pct": 9.1
+        }
+      },
+      "motivation_teaser": {
+        "poster": {
+          "count": 902,
+          "page": {
+            "n": 902,
+            "mean": 9.24,
+            "median": 5.0,
+            "p25": 2.0,
+            "p75": 16.0
+          },
+          "width_page_fraction": {
+            "n": 897,
+            "mean": 0.57,
+            "median": 0.57,
+            "p25": 0.45,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 897,
+            "mean": 11.33,
+            "median": 2.54,
+            "p25": 1.5,
+            "p75": 8.76
+          },
+          "colorfulness": {
+            "n": 897,
+            "mean": 0.06,
+            "median": 0.03,
+            "p25": 0.01,
+            "p75": 0.08
+          },
+          "white_fraction": {
+            "n": 897,
+            "mean": 0.62,
+            "median": 0.66,
+            "p25": 0.39,
+            "p75": 0.88
+          },
+          "edge_density": {
+            "n": 897,
+            "mean": 0.1,
+            "median": 0.1,
+            "p25": 0.05,
+            "p75": 0.14
+          },
+          "caption_words": {
+            "n": 902,
+            "mean": 42.48,
+            "median": 36.0,
+            "p25": 16.0,
+            "p75": 59.0
+          },
+          "subfigures": {
+            "n": 902,
+            "mean": 0.34,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 10.6,
+          "comparison_pct": 7.5,
+          "protocol_pct": 8.1
+        },
+        "priority": {
+          "count": 175,
+          "page": {
+            "n": 175,
+            "mean": 11.86,
+            "median": 6.0,
+            "p25": 2.0,
+            "p75": 20.0
+          },
+          "width_page_fraction": {
+            "n": 175,
+            "mean": 0.53,
+            "median": 0.57,
+            "p25": 0.34,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 175,
+            "mean": 8.91,
+            "median": 2.37,
+            "p25": 1.2,
+            "p75": 5.29
+          },
+          "colorfulness": {
+            "n": 175,
+            "mean": 0.06,
+            "median": 0.03,
+            "p25": 0.01,
+            "p75": 0.08
+          },
+          "white_fraction": {
+            "n": 175,
+            "mean": 0.55,
+            "median": 0.62,
+            "p25": 0.26,
+            "p75": 0.82
+          },
+          "edge_density": {
+            "n": 175,
+            "mean": 0.11,
+            "median": 0.09,
+            "p25": 0.05,
+            "p75": 0.15
+          },
+          "caption_words": {
+            "n": 175,
+            "mean": 40.71,
+            "median": 39.0,
+            "p25": 18.5,
+            "p75": 56.0
+          },
+          "subfigures": {
+            "n": 175,
+            "mean": 0.39,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 8.6,
+          "comparison_pct": 7.4,
+          "protocol_pct": 8.0
+        }
+      },
+      "architecture_pipeline": {
+        "poster": {
+          "count": 2305,
+          "page": {
+            "n": 2305,
+            "mean": 7.6,
+            "median": 4.0,
+            "p25": 3.0,
+            "p75": 7.0
+          },
+          "width_page_fraction": {
+            "n": 2298,
+            "mean": 0.57,
+            "median": 0.59,
+            "p25": 0.48,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 2298,
+            "mean": 10.12,
+            "median": 2.59,
+            "p25": 1.69,
+            "p75": 4.83
+          },
+          "colorfulness": {
+            "n": 2298,
+            "mean": 0.05,
+            "median": 0.04,
+            "p25": 0.01,
+            "p75": 0.07
+          },
+          "white_fraction": {
+            "n": 2298,
+            "mean": 0.59,
+            "median": 0.61,
+            "p25": 0.42,
+            "p75": 0.77
+          },
+          "edge_density": {
+            "n": 2298,
+            "mean": 0.12,
+            "median": 0.12,
+            "p25": 0.08,
+            "p75": 0.16
+          },
+          "caption_words": {
+            "n": 2305,
+            "mean": 57.19,
+            "median": 52.0,
+            "p25": 26.0,
+            "p75": 77.0
+          },
+          "subfigures": {
+            "n": 2305,
+            "mean": 0.38,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 11.6,
+          "comparison_pct": 6.2,
+          "protocol_pct": 19.3
+        },
+        "priority": {
+          "count": 424,
+          "page": {
+            "n": 424,
+            "mean": 8.25,
+            "median": 5.0,
+            "p25": 3.0,
+            "p75": 8.25
+          },
+          "width_page_fraction": {
+            "n": 420,
+            "mean": 0.58,
+            "median": 0.6,
+            "p25": 0.47,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 420,
+            "mean": 10.09,
+            "median": 2.66,
+            "p25": 1.68,
+            "p75": 5.13
+          },
+          "colorfulness": {
+            "n": 420,
+            "mean": 0.05,
+            "median": 0.04,
+            "p25": 0.01,
+            "p75": 0.07
+          },
+          "white_fraction": {
+            "n": 420,
+            "mean": 0.6,
+            "median": 0.62,
+            "p25": 0.41,
+            "p75": 0.81
+          },
+          "edge_density": {
+            "n": 420,
+            "mean": 0.11,
+            "median": 0.11,
+            "p25": 0.07,
+            "p75": 0.16
+          },
+          "caption_words": {
+            "n": 424,
+            "mean": 56.23,
+            "median": 50.0,
+            "p25": 25.0,
+            "p75": 80.25
+          },
+          "subfigures": {
+            "n": 424,
+            "mean": 0.47,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 11.8,
+          "comparison_pct": 9.0,
+          "protocol_pct": 16.5
+        }
+      },
+      "qualitative_comparison": {
+        "poster": {
+          "count": 1604,
+          "page": {
+            "n": 1604,
+            "mean": 18.05,
+            "median": 18.0,
+            "p25": 9.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 1600,
+            "mean": 0.6,
+            "median": 0.62,
+            "p25": 0.55,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 1600,
+            "mean": 4.84,
+            "median": 1.12,
+            "p25": 0.79,
+            "p75": 2.04
+          },
+          "colorfulness": {
+            "n": 1600,
+            "mean": 0.1,
+            "median": 0.09,
+            "p25": 0.04,
+            "p75": 0.13
+          },
+          "white_fraction": {
+            "n": 1600,
+            "mean": 0.39,
+            "median": 0.33,
+            "p25": 0.15,
+            "p75": 0.61
+          },
+          "edge_density": {
+            "n": 1600,
+            "mean": 0.11,
+            "median": 0.11,
+            "p25": 0.08,
+            "p75": 0.14
+          },
+          "caption_words": {
+            "n": 1604,
+            "mean": 34.5,
+            "median": 27.0,
+            "p25": 14.0,
+            "p75": 45.25
+          },
+          "subfigures": {
+            "n": 1604,
+            "mean": 0.19,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 17.3,
+          "comparison_pct": 42.7,
+          "protocol_pct": 23.2
+        },
+        "priority": {
+          "count": 260,
+          "page": {
+            "n": 260,
+            "mean": 20.02,
+            "median": 21.0,
+            "p25": 10.0,
+            "p75": 28.0
+          },
+          "width_page_fraction": {
+            "n": 259,
+            "mean": 0.59,
+            "median": 0.63,
+            "p25": 0.55,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 259,
+            "mean": 3.89,
+            "median": 1.04,
+            "p25": 0.8,
+            "p75": 1.76
+          },
+          "colorfulness": {
+            "n": 259,
+            "mean": 0.1,
+            "median": 0.08,
+            "p25": 0.04,
+            "p75": 0.14
+          },
+          "white_fraction": {
+            "n": 259,
+            "mean": 0.34,
+            "median": 0.32,
+            "p25": 0.09,
+            "p75": 0.53
+          },
+          "edge_density": {
+            "n": 259,
+            "mean": 0.12,
+            "median": 0.12,
+            "p25": 0.09,
+            "p75": 0.16
+          },
+          "caption_words": {
+            "n": 260,
+            "mean": 36.71,
+            "median": 27.0,
+            "p25": 12.0,
+            "p75": 47.0
+          },
+          "subfigures": {
+            "n": 260,
+            "mean": 0.1,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 12.3,
+          "comparison_pct": 41.5,
+          "protocol_pct": 25.8
+        }
+      },
+      "ablation_sensitivity": {
+        "poster": {
+          "count": 1686,
+          "page": {
+            "n": 1686,
+            "mean": 16.83,
+            "median": 16.0,
+            "p25": 9.0,
+            "p75": 22.0
+          },
+          "width_page_fraction": {
+            "n": 1682,
+            "mean": 0.68,
+            "median": 0.64,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 1682,
+            "mean": 21.54,
+            "median": 4.45,
+            "p25": 1.48,
+            "p75": 38.73
+          },
+          "colorfulness": {
+            "n": 1682,
+            "mean": 0.04,
+            "median": 0.01,
+            "p25": 0.0,
+            "p75": 0.05
+          },
+          "white_fraction": {
+            "n": 1682,
+            "mean": 0.75,
+            "median": 0.84,
+            "p25": 0.6,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 1682,
+            "mean": 0.07,
+            "median": 0.06,
+            "p25": 0.0,
+            "p75": 0.11
+          },
+          "caption_words": {
+            "n": 1686,
+            "mean": 42.14,
+            "median": 32.0,
+            "p25": 15.0,
+            "p75": 56.0
+          },
+          "subfigures": {
+            "n": 1686,
+            "mean": 0.37,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 20.0,
+          "comparison_pct": 11.6,
+          "protocol_pct": 25.3
+        },
+        "priority": {
+          "count": 327,
+          "page": {
+            "n": 327,
+            "mean": 18.44,
+            "median": 19.0,
+            "p25": 9.0,
+            "p75": 26.0
+          },
+          "width_page_fraction": {
+            "n": 325,
+            "mean": 0.68,
+            "median": 0.63,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 325,
+            "mean": 23.85,
+            "median": 12.22,
+            "p25": 1.58,
+            "p75": 43.13
+          },
+          "colorfulness": {
+            "n": 325,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "white_fraction": {
+            "n": 325,
+            "mean": 0.8,
+            "median": 0.91,
+            "p25": 0.71,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 325,
+            "mean": 0.06,
+            "median": 0.05,
+            "p25": 0.0,
+            "p75": 0.1
+          },
+          "caption_words": {
+            "n": 327,
+            "mean": 45.97,
+            "median": 35.0,
+            "p25": 16.0,
+            "p75": 60.5
+          },
+          "subfigures": {
+            "n": 327,
+            "mean": 0.36,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 20.2,
+          "comparison_pct": 14.1,
+          "protocol_pct": 20.5
+        }
+      },
+      "dataset_examples": {
+        "poster": {
+          "count": 5417,
+          "page": {
+            "n": 5417,
+            "mean": 18.89,
+            "median": 19.0,
+            "p25": 8.0,
+            "p75": 26.0
+          },
+          "width_page_fraction": {
+            "n": 5396,
+            "mean": 0.63,
+            "median": 0.62,
+            "p25": 0.5,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 5396,
+            "mean": 12.4,
+            "median": 1.9,
+            "p25": 0.92,
+            "p75": 9.97
+          },
+          "colorfulness": {
+            "n": 5396,
+            "mean": 0.06,
+            "median": 0.03,
+            "p25": 0.0,
+            "p75": 0.09
+          },
+          "white_fraction": {
+            "n": 5396,
+            "mean": 0.6,
+            "median": 0.65,
+            "p25": 0.32,
+            "p75": 0.9
+          },
+          "edge_density": {
+            "n": 5396,
+            "mean": 0.09,
+            "median": 0.09,
+            "p25": 0.04,
+            "p75": 0.13
+          },
+          "caption_words": {
+            "n": 5417,
+            "mean": 39.5,
+            "median": 30.0,
+            "p25": 15.0,
+            "p75": 53.0
+          },
+          "subfigures": {
+            "n": 5417,
+            "mean": 0.27,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 13.1,
+          "comparison_pct": 9.5,
+          "protocol_pct": 43.0
+        },
+        "priority": {
+          "count": 1304,
+          "page": {
+            "n": 1304,
+            "mean": 27.64,
+            "median": 23.0,
+            "p25": 10.0,
+            "p75": 33.0
+          },
+          "width_page_fraction": {
+            "n": 1296,
+            "mean": 0.62,
+            "median": 0.61,
+            "p25": 0.5,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 1296,
+            "mean": 12.58,
+            "median": 1.7,
+            "p25": 0.88,
+            "p75": 10.87
+          },
+          "colorfulness": {
+            "n": 1296,
+            "mean": 0.06,
+            "median": 0.04,
+            "p25": 0.0,
+            "p75": 0.08
+          },
+          "white_fraction": {
+            "n": 1296,
+            "mean": 0.6,
+            "median": 0.65,
+            "p25": 0.3,
+            "p75": 0.9
+          },
+          "edge_density": {
+            "n": 1296,
+            "mean": 0.1,
+            "median": 0.1,
+            "p25": 0.04,
+            "p75": 0.14
+          },
+          "caption_words": {
+            "n": 1304,
+            "mean": 37.46,
+            "median": 28.0,
+            "p25": 15.0,
+            "p75": 51.0
+          },
+          "subfigures": {
+            "n": 1304,
+            "mean": 0.18,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 13.7,
+          "comparison_pct": 8.8,
+          "protocol_pct": 29.4
+        }
+      },
+      "representation_visualization": {
+        "priority": {
+          "count": 299,
+          "page": {
+            "n": 299,
+            "mean": 16.51,
+            "median": 17.0,
+            "p25": 6.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 294,
+            "mean": 0.61,
+            "median": 0.62,
+            "p25": 0.48,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 294,
+            "mean": 12.38,
+            "median": 2.47,
+            "p25": 1.15,
+            "p75": 7.14
+          },
+          "colorfulness": {
+            "n": 294,
+            "mean": 0.06,
+            "median": 0.03,
+            "p25": 0.0,
+            "p75": 0.09
+          },
+          "white_fraction": {
+            "n": 294,
+            "mean": 0.67,
+            "median": 0.7,
+            "p25": 0.48,
+            "p75": 0.9
+          },
+          "edge_density": {
+            "n": 294,
+            "mean": 0.09,
+            "median": 0.09,
+            "p25": 0.04,
+            "p75": 0.13
+          },
+          "caption_words": {
+            "n": 299,
+            "mean": 51.21,
+            "median": 44.0,
+            "p25": 25.0,
+            "p75": 67.0
+          },
+          "subfigures": {
+            "n": 299,
+            "mean": 0.5,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 22.1,
+          "comparison_pct": 12.7,
+          "protocol_pct": 8.4
+        },
+        "poster": {
+          "count": 1205,
+          "page": {
+            "n": 1205,
+            "mean": 15.32,
+            "median": 14.0,
+            "p25": 6.0,
+            "p75": 22.0
+          },
+          "width_page_fraction": {
+            "n": 1196,
+            "mean": 0.62,
+            "median": 0.61,
+            "p25": 0.5,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 1196,
+            "mean": 13.58,
+            "median": 2.2,
+            "p25": 1.03,
+            "p75": 11.04
+          },
+          "colorfulness": {
+            "n": 1196,
+            "mean": 0.08,
+            "median": 0.04,
+            "p25": 0.0,
+            "p75": 0.1
+          },
+          "white_fraction": {
+            "n": 1196,
+            "mean": 0.62,
+            "median": 0.65,
+            "p25": 0.38,
+            "p75": 0.89
+          },
+          "edge_density": {
+            "n": 1196,
+            "mean": 0.09,
+            "median": 0.09,
+            "p25": 0.04,
+            "p75": 0.13
+          },
+          "caption_words": {
+            "n": 1205,
+            "mean": 44.89,
+            "median": 38.0,
+            "p25": 21.0,
+            "p75": 60.0
+          },
+          "subfigures": {
+            "n": 1205,
+            "mean": 0.41,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 17.6,
+          "comparison_pct": 10.8,
+          "protocol_pct": 12.2
+        }
+      },
+      "failure_case": {
+        "poster": {
+          "count": 298,
+          "page": {
+            "n": 298,
+            "mean": 23.44,
+            "median": 20.0,
+            "p25": 10.0,
+            "p75": 30.0
+          },
+          "width_page_fraction": {
+            "n": 298,
+            "mean": 0.59,
+            "median": 0.61,
+            "p25": 0.5,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 298,
+            "mean": 8.74,
+            "median": 1.63,
+            "p25": 0.92,
+            "p75": 3.58
+          },
+          "colorfulness": {
+            "n": 298,
+            "mean": 0.08,
+            "median": 0.06,
+            "p25": 0.02,
+            "p75": 0.11
+          },
+          "white_fraction": {
+            "n": 298,
+            "mean": 0.47,
+            "median": 0.43,
+            "p25": 0.18,
+            "p75": 0.72
+          },
+          "edge_density": {
+            "n": 298,
+            "mean": 0.1,
+            "median": 0.09,
+            "p25": 0.06,
+            "p75": 0.13
+          },
+          "caption_words": {
+            "n": 298,
+            "mean": 38.63,
+            "median": 29.0,
+            "p25": 15.0,
+            "p75": 55.0
+          },
+          "subfigures": {
+            "n": 298,
+            "mean": 0.23,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 20.1,
+          "comparison_pct": 6.4,
+          "protocol_pct": 14.1
+        },
+        "priority": {
+          "count": 41,
+          "page": {
+            "n": 41,
+            "mean": 20.93,
+            "median": 21.0,
+            "p25": 17.0,
+            "p75": 29.0
+          },
+          "width_page_fraction": {
+            "n": 41,
+            "mean": 0.62,
+            "median": 0.62,
+            "p25": 0.5,
+            "p75": 0.65
+          },
+          "aspect_ratio": {
+            "n": 41,
+            "mean": 8.0,
+            "median": 2.98,
+            "p25": 1.08,
+            "p75": 10.86
+          },
+          "colorfulness": {
+            "n": 41,
+            "mean": 0.07,
+            "median": 0.05,
+            "p25": 0.02,
+            "p75": 0.09
+          },
+          "white_fraction": {
+            "n": 41,
+            "mean": 0.54,
+            "median": 0.5,
+            "p25": 0.29,
+            "p75": 0.87
+          },
+          "edge_density": {
+            "n": 41,
+            "mean": 0.09,
+            "median": 0.08,
+            "p25": 0.04,
+            "p75": 0.13
+          },
+          "caption_words": {
+            "n": 41,
+            "mean": 41.32,
+            "median": 30.0,
+            "p25": 12.0,
+            "p75": 60.0
+          },
+          "subfigures": {
+            "n": 41,
+            "mean": 0.15,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 24.4,
+          "comparison_pct": 14.6,
+          "protocol_pct": 14.6
+        }
+      }
+    },
+    "table": {
+      "diagram_or_plot": {
+        "poster": {
+          "count": 2525,
+          "page": {
+            "n": 2525,
+            "mean": 18.25,
+            "median": 18.0,
+            "p25": 9.0,
+            "p75": 23.0
+          },
+          "width_page_fraction": {
+            "n": 2525,
+            "mean": 0.68,
+            "median": 0.5,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 2525,
+            "mean": 23.82,
+            "median": 20.99,
+            "p25": 4.36,
+            "p75": 32.48
+          },
+          "colorfulness": {
+            "n": 2525,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 2525,
+            "mean": 0.89,
+            "median": 0.91,
+            "p25": 0.85,
+            "p75": 0.95
+          },
+          "edge_density": {
+            "n": 2525,
+            "mean": 0.07,
+            "median": 0.05,
+            "p25": 0.03,
+            "p75": 0.11
+          },
+          "caption_words": {
+            "n": 2525,
+            "mean": 20.45,
+            "median": 14.0,
+            "p25": 9.0,
+            "p75": 27.0
+          },
+          "subfigures": {
+            "n": 2525,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 6.9,
+          "comparison_pct": 16.7,
+          "protocol_pct": 8.1
+        },
+        "priority": {
+          "count": 526,
+          "page": {
+            "n": 526,
+            "mean": 19.64,
+            "median": 19.0,
+            "p25": 9.0,
+            "p75": 25.0
+          },
+          "width_page_fraction": {
+            "n": 526,
+            "mean": 0.7,
+            "median": 0.5,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 526,
+            "mean": 24.01,
+            "median": 19.6,
+            "p25": 4.38,
+            "p75": 39.16
+          },
+          "colorfulness": {
+            "n": 526,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 526,
+            "mean": 0.89,
+            "median": 0.91,
+            "p25": 0.84,
+            "p75": 0.95
+          },
+          "edge_density": {
+            "n": 526,
+            "mean": 0.07,
+            "median": 0.05,
+            "p25": 0.03,
+            "p75": 0.11
+          },
+          "caption_words": {
+            "n": 526,
+            "mean": 21.79,
+            "median": 15.0,
+            "p25": 10.0,
+            "p75": 27.0
+          },
+          "subfigures": {
+            "n": 526,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 6.7,
+          "comparison_pct": 15.4,
+          "protocol_pct": 9.3
+        }
+      },
+      "other": {
+        "poster": {
+          "count": 10249,
+          "page": {
+            "n": 10249,
+            "mean": 19.89,
+            "median": 19.0,
+            "p25": 10.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 10227,
+            "mean": 0.73,
+            "median": 0.52,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 10227,
+            "mean": 23.98,
+            "median": 15.17,
+            "p25": 7.43,
+            "p75": 34.69
+          },
+          "colorfulness": {
+            "n": 10227,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 10227,
+            "mean": 0.95,
+            "median": 1.0,
+            "p25": 1.0,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 10227,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "caption_words": {
+            "n": 10249,
+            "mean": 22.12,
+            "median": 15.0,
+            "p25": 10.0,
+            "p75": 29.0
+          },
+          "subfigures": {
+            "n": 10249,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 7.4,
+          "comparison_pct": 17.1,
+          "protocol_pct": 8.7
+        },
+        "priority": {
+          "count": 1893,
+          "page": {
+            "n": 1893,
+            "mean": 21.49,
+            "median": 20.0,
+            "p25": 10.0,
+            "p75": 26.0
+          },
+          "width_page_fraction": {
+            "n": 1884,
+            "mean": 0.75,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 1884,
+            "mean": 24.39,
+            "median": 14.98,
+            "p25": 7.43,
+            "p75": 35.56
+          },
+          "colorfulness": {
+            "n": 1884,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 1884,
+            "mean": 0.96,
+            "median": 1.0,
+            "p25": 1.0,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 1884,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "caption_words": {
+            "n": 1893,
+            "mean": 24.4,
+            "median": 17.0,
+            "p25": 10.0,
+            "p75": 32.0
+          },
+          "subfigures": {
+            "n": 1893,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 8.5,
+          "comparison_pct": 15.2,
+          "protocol_pct": 9.2
+        }
+      },
+      "visual_examples": {
+        "poster": {
+          "count": 361,
+          "page": {
+            "n": 361,
+            "mean": 16.17,
+            "median": 16.0,
+            "p25": 9.0,
+            "p75": 21.0
+          },
+          "width_page_fraction": {
+            "n": 361,
+            "mean": 0.46,
+            "median": 0.52,
+            "p25": 0.31,
+            "p75": 0.62
+          },
+          "aspect_ratio": {
+            "n": 361,
+            "mean": 2.56,
+            "median": 1.98,
+            "p25": 1.32,
+            "p75": 3.05
+          },
+          "colorfulness": {
+            "n": 361,
+            "mean": 0.22,
+            "median": 0.19,
+            "p25": 0.15,
+            "p75": 0.26
+          },
+          "white_fraction": {
+            "n": 361,
+            "mean": 0.18,
+            "median": 0.12,
+            "p25": 0.05,
+            "p75": 0.3
+          },
+          "edge_density": {
+            "n": 361,
+            "mean": 0.11,
+            "median": 0.11,
+            "p25": 0.07,
+            "p75": 0.15
+          },
+          "caption_words": {
+            "n": 361,
+            "mean": 22.19,
+            "median": 17.0,
+            "p25": 10.0,
+            "p75": 29.0
+          },
+          "subfigures": {
+            "n": 361,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 9.4,
+          "comparison_pct": 30.2,
+          "protocol_pct": 10.5
+        },
+        "priority": {
+          "count": 84,
+          "page": {
+            "n": 84,
+            "mean": 18.21,
+            "median": 16.5,
+            "p25": 9.0,
+            "p75": 26.0
+          },
+          "width_page_fraction": {
+            "n": 84,
+            "mean": 0.47,
+            "median": 0.57,
+            "p25": 0.3,
+            "p75": 0.64
+          },
+          "aspect_ratio": {
+            "n": 84,
+            "mean": 2.85,
+            "median": 1.97,
+            "p25": 1.37,
+            "p75": 2.89
+          },
+          "colorfulness": {
+            "n": 84,
+            "mean": 0.24,
+            "median": 0.2,
+            "p25": 0.16,
+            "p75": 0.29
+          },
+          "white_fraction": {
+            "n": 84,
+            "mean": 0.17,
+            "median": 0.13,
+            "p25": 0.04,
+            "p75": 0.29
+          },
+          "edge_density": {
+            "n": 84,
+            "mean": 0.11,
+            "median": 0.11,
+            "p25": 0.08,
+            "p75": 0.13
+          },
+          "caption_words": {
+            "n": 84,
+            "mean": 23.85,
+            "median": 16.5,
+            "p25": 12.0,
+            "p75": 31.5
+          },
+          "subfigures": {
+            "n": 84,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 9.5,
+          "comparison_pct": 21.4,
+          "protocol_pct": 7.1
+        }
+      },
+      "dataset_examples": {
+        "poster": {
+          "count": 3094,
+          "page": {
+            "n": 3094,
+            "mean": 19.66,
+            "median": 19.0,
+            "p25": 10.0,
+            "p75": 25.0
+          },
+          "width_page_fraction": {
+            "n": 3090,
+            "mean": 0.78,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 3090,
+            "mean": 23.41,
+            "median": 14.86,
+            "p25": 5.52,
+            "p75": 34.4
+          },
+          "colorfulness": {
+            "n": 3090,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 3090,
+            "mean": 0.91,
+            "median": 1.0,
+            "p25": 0.94,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 3090,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "caption_words": {
+            "n": 3094,
+            "mean": 30.68,
+            "median": 23.0,
+            "p25": 13.0,
+            "p75": 41.0
+          },
+          "subfigures": {
+            "n": 3094,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 10.7,
+          "comparison_pct": 16.0,
+          "protocol_pct": 67.4
+        },
+        "priority": {
+          "count": 554,
+          "page": {
+            "n": 554,
+            "mean": 21.73,
+            "median": 20.0,
+            "p25": 10.0,
+            "p75": 27.0
+          },
+          "width_page_fraction": {
+            "n": 553,
+            "mean": 0.79,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 553,
+            "mean": 23.84,
+            "median": 14.88,
+            "p25": 6.56,
+            "p75": 36.35
+          },
+          "colorfulness": {
+            "n": 553,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 553,
+            "mean": 0.93,
+            "median": 1.0,
+            "p25": 0.96,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 553,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "caption_words": {
+            "n": 554,
+            "mean": 31.96,
+            "median": 23.0,
+            "p25": 13.0,
+            "p75": 43.0
+          },
+          "subfigures": {
+            "n": 554,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 14.4,
+          "comparison_pct": 9.9,
+          "protocol_pct": 63.4
+        }
+      },
+      "ablation_sensitivity": {
+        "poster": {
+          "count": 2403,
+          "page": {
+            "n": 2403,
+            "mean": 15.98,
+            "median": 15.0,
+            "p25": 9.0,
+            "p75": 21.0
+          },
+          "width_page_fraction": {
+            "n": 2402,
+            "mean": 0.72,
+            "median": 0.63,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 2402,
+            "mean": 23.57,
+            "median": 15.35,
+            "p25": 5.37,
+            "p75": 35.2
+          },
+          "colorfulness": {
+            "n": 2402,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 2402,
+            "mean": 0.88,
+            "median": 1.0,
+            "p25": 0.91,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 2402,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.05
+          },
+          "caption_words": {
+            "n": 2403,
+            "mean": 25.58,
+            "median": 19.0,
+            "p25": 11.0,
+            "p75": 33.0
+          },
+          "subfigures": {
+            "n": 2403,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 11.2,
+          "comparison_pct": 7.9,
+          "protocol_pct": 25.6
+        },
+        "priority": {
+          "count": 352,
+          "page": {
+            "n": 352,
+            "mean": 16.11,
+            "median": 15.0,
+            "p25": 9.0,
+            "p75": 22.0
+          },
+          "width_page_fraction": {
+            "n": 352,
+            "mean": 0.7,
+            "median": 0.5,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 352,
+            "mean": 21.23,
+            "median": 14.85,
+            "p25": 4.33,
+            "p75": 31.26
+          },
+          "colorfulness": {
+            "n": 352,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 352,
+            "mean": 0.87,
+            "median": 1.0,
+            "p25": 0.9,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 352,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.05
+          },
+          "caption_words": {
+            "n": 352,
+            "mean": 28.11,
+            "median": 21.0,
+            "p25": 11.0,
+            "p75": 37.0
+          },
+          "subfigures": {
+            "n": 352,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 9.1,
+          "comparison_pct": 8.5,
+          "protocol_pct": 24.4
+        }
+      },
+      "quantitative_plot": {
+        "poster": {
+          "count": 6856,
+          "page": {
+            "n": 6856,
+            "mean": 17.38,
+            "median": 17.0,
+            "p25": 9.0,
+            "p75": 23.0
+          },
+          "width_page_fraction": {
+            "n": 6847,
+            "mean": 0.84,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 6847,
+            "mean": 27.91,
+            "median": 16.09,
+            "p25": 11.47,
+            "p75": 44.61
+          },
+          "colorfulness": {
+            "n": 6847,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 6847,
+            "mean": 0.92,
+            "median": 1.0,
+            "p25": 0.95,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 6847,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.02
+          },
+          "caption_words": {
+            "n": 6856,
+            "mean": 34.08,
+            "median": 28.0,
+            "p25": 16.0,
+            "p75": 45.0
+          },
+          "subfigures": {
+            "n": 6856,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 19.1,
+          "comparison_pct": 29.2,
+          "protocol_pct": 49.7
+        },
+        "priority": {
+          "count": 1135,
+          "page": {
+            "n": 1135,
+            "mean": 18.42,
+            "median": 18.0,
+            "p25": 9.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 1134,
+            "mean": 0.84,
+            "median": 1.0,
+            "p25": 0.52,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 1134,
+            "mean": 27.65,
+            "median": 16.57,
+            "p25": 11.96,
+            "p75": 44.46
+          },
+          "colorfulness": {
+            "n": 1134,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 1134,
+            "mean": 0.93,
+            "median": 1.0,
+            "p25": 0.95,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 1134,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "caption_words": {
+            "n": 1135,
+            "mean": 35.48,
+            "median": 29.0,
+            "p25": 17.0,
+            "p75": 46.0
+          },
+          "subfigures": {
+            "n": 1135,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 16.6,
+          "comparison_pct": 28.5,
+          "protocol_pct": 45.6
+        }
+      },
+      "qualitative_comparison": {
+        "priority": {
+          "count": 71,
+          "page": {
+            "n": 71,
+            "mean": 14.61,
+            "median": 10.0,
+            "p25": 8.0,
+            "p75": 20.0
+          },
+          "width_page_fraction": {
+            "n": 70,
+            "mean": 0.78,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 70,
+            "mean": 24.63,
+            "median": 14.87,
+            "p25": 6.24,
+            "p75": 36.49
+          },
+          "colorfulness": {
+            "n": 70,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 70,
+            "mean": 0.85,
+            "median": 1.0,
+            "p25": 0.93,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 70,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.05
+          },
+          "caption_words": {
+            "n": 71,
+            "mean": 39.07,
+            "median": 27.0,
+            "p25": 14.0,
+            "p75": 49.0
+          },
+          "subfigures": {
+            "n": 71,
+            "mean": 0.06,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 12.7,
+          "comparison_pct": 74.6,
+          "protocol_pct": 35.2
+        },
+        "poster": {
+          "count": 582,
+          "page": {
+            "n": 582,
+            "mean": 15.46,
+            "median": 15.0,
+            "p25": 8.0,
+            "p75": 21.0
+          },
+          "width_page_fraction": {
+            "n": 582,
+            "mean": 0.81,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 582,
+            "mean": 23.17,
+            "median": 14.88,
+            "p25": 6.75,
+            "p75": 34.2
+          },
+          "colorfulness": {
+            "n": 582,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 582,
+            "mean": 0.88,
+            "median": 1.0,
+            "p25": 0.93,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 582,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.04
+          },
+          "caption_words": {
+            "n": 582,
+            "mean": 32.34,
+            "median": 27.0,
+            "p25": 14.0,
+            "p75": 43.0
+          },
+          "subfigures": {
+            "n": 582,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 12.9,
+          "comparison_pct": 78.9,
+          "protocol_pct": 30.2
+        }
+      },
+      "representation_visualization": {
+        "priority": {
+          "count": 62,
+          "page": {
+            "n": 62,
+            "mean": 17.08,
+            "median": 18.0,
+            "p25": 9.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 62,
+            "mean": 0.85,
+            "median": 1.0,
+            "p25": 0.63,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 62,
+            "mean": 33.03,
+            "median": 24.05,
+            "p25": 14.85,
+            "p75": 58.34
+          },
+          "colorfulness": {
+            "n": 62,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 62,
+            "mean": 0.9,
+            "median": 1.0,
+            "p25": 0.93,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 62,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "caption_words": {
+            "n": 62,
+            "mean": 39.08,
+            "median": 30.5,
+            "p25": 19.0,
+            "p75": 42.5
+          },
+          "subfigures": {
+            "n": 62,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 16.1,
+          "comparison_pct": 19.4,
+          "protocol_pct": 16.1
+        },
+        "poster": {
+          "count": 288,
+          "page": {
+            "n": 288,
+            "mean": 18.53,
+            "median": 18.0,
+            "p25": 9.0,
+            "p75": 25.0
+          },
+          "width_page_fraction": {
+            "n": 287,
+            "mean": 0.84,
+            "median": 1.0,
+            "p25": 0.53,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 287,
+            "mean": 27.51,
+            "median": 15.77,
+            "p25": 7.76,
+            "p75": 43.69
+          },
+          "colorfulness": {
+            "n": 287,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 287,
+            "mean": 0.93,
+            "median": 1.0,
+            "p25": 0.96,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 287,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.02
+          },
+          "caption_words": {
+            "n": 288,
+            "mean": 34.3,
+            "median": 28.5,
+            "p25": 15.0,
+            "p75": 45.0
+          },
+          "subfigures": {
+            "n": 288,
+            "mean": 0.05,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 12.8,
+          "comparison_pct": 20.8,
+          "protocol_pct": 13.2
+        }
+      },
+      "architecture_pipeline": {
+        "poster": {
+          "count": 499,
+          "page": {
+            "n": 499,
+            "mean": 17.77,
+            "median": 18.0,
+            "p25": 9.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 499,
+            "mean": 0.8,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 499,
+            "mean": 26.58,
+            "median": 15.38,
+            "p25": 8.47,
+            "p75": 37.77
+          },
+          "colorfulness": {
+            "n": 499,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 499,
+            "mean": 0.93,
+            "median": 1.0,
+            "p25": 0.95,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 499,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.03
+          },
+          "caption_words": {
+            "n": 499,
+            "mean": 33.65,
+            "median": 26.0,
+            "p25": 13.0,
+            "p75": 48.0
+          },
+          "subfigures": {
+            "n": 499,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 12.8,
+          "comparison_pct": 19.4,
+          "protocol_pct": 24.8
+        },
+        "priority": {
+          "count": 108,
+          "page": {
+            "n": 108,
+            "mean": 17.79,
+            "median": 18.0,
+            "p25": 8.0,
+            "p75": 25.0
+          },
+          "width_page_fraction": {
+            "n": 108,
+            "mean": 0.77,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 108,
+            "mean": 24.45,
+            "median": 15.06,
+            "p25": 7.98,
+            "p75": 34.47
+          },
+          "colorfulness": {
+            "n": 108,
+            "mean": 0.01,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 108,
+            "mean": 0.93,
+            "median": 1.0,
+            "p25": 0.94,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 108,
+            "mean": 0.03,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.05
+          },
+          "caption_words": {
+            "n": 108,
+            "mean": 32.2,
+            "median": 23.0,
+            "p25": 10.0,
+            "p75": 47.25
+          },
+          "subfigures": {
+            "n": 108,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 3.7,
+          "comparison_pct": 15.7,
+          "protocol_pct": 19.4
+        }
+      },
+      "failure_case": {
+        "poster": {
+          "count": 65,
+          "page": {
+            "n": 65,
+            "mean": 18.34,
+            "median": 19.0,
+            "p25": 9.0,
+            "p75": 24.0
+          },
+          "width_page_fraction": {
+            "n": 65,
+            "mean": 0.76,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 65,
+            "mean": 18.33,
+            "median": 14.07,
+            "p25": 5.06,
+            "p75": 22.45
+          },
+          "colorfulness": {
+            "n": 65,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 65,
+            "mean": 0.82,
+            "median": 1.0,
+            "p25": 0.77,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 65,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.08
+          },
+          "caption_words": {
+            "n": 65,
+            "mean": 48.45,
+            "median": 32.0,
+            "p25": 20.0,
+            "p75": 63.0
+          },
+          "subfigures": {
+            "n": 65,
+            "mean": 0.14,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 36.9,
+          "comparison_pct": 16.9,
+          "protocol_pct": 20.0
+        },
+        "priority": {
+          "count": 13,
+          "page": {
+            "n": 13,
+            "mean": 29.62,
+            "median": 37.0,
+            "p25": 27.0,
+            "p75": 39.0
+          },
+          "width_page_fraction": {
+            "n": 13,
+            "mean": 0.96,
+            "median": 1.0,
+            "p25": 1.0,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 13,
+            "mean": 49.8,
+            "median": 57.58,
+            "p25": 51.19,
+            "p75": 58.19
+          },
+          "colorfulness": {
+            "n": 13,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 13,
+            "mean": 0.94,
+            "median": 0.95,
+            "p25": 0.9,
+            "p75": 0.95
+          },
+          "edge_density": {
+            "n": 13,
+            "mean": 0.03,
+            "median": 0.03,
+            "p25": 0.03,
+            "p75": 0.03
+          },
+          "caption_words": {
+            "n": 13,
+            "mean": 35.62,
+            "median": 16.0,
+            "p25": 13.0,
+            "p75": 36.0
+          },
+          "subfigures": {
+            "n": 13,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 15.4,
+          "comparison_pct": 7.7,
+          "protocol_pct": 0.0
+        }
+      },
+      "motivation_teaser": {
+        "poster": {
+          "count": 62,
+          "page": {
+            "n": 62,
+            "mean": 16.32,
+            "median": 16.5,
+            "p25": 8.25,
+            "p75": 21.0
+          },
+          "width_page_fraction": {
+            "n": 62,
+            "mean": 0.68,
+            "median": 0.5,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 62,
+            "mean": 22.85,
+            "median": 16.6,
+            "p25": 3.88,
+            "p75": 31.33
+          },
+          "colorfulness": {
+            "n": 62,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 62,
+            "mean": 0.87,
+            "median": 1.0,
+            "p25": 0.9,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 62,
+            "mean": 0.04,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.07
+          },
+          "caption_words": {
+            "n": 62,
+            "mean": 22.31,
+            "median": 15.0,
+            "p25": 10.0,
+            "p75": 28.0
+          },
+          "subfigures": {
+            "n": 62,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 9.7,
+          "comparison_pct": 14.5,
+          "protocol_pct": 1.6
+        },
+        "priority": {
+          "count": 18,
+          "page": {
+            "n": 18,
+            "mean": 22.72,
+            "median": 20.5,
+            "p25": 9.25,
+            "p75": 31.25
+          },
+          "width_page_fraction": {
+            "n": 18,
+            "mean": 0.78,
+            "median": 1.0,
+            "p25": 0.5,
+            "p75": 1.0
+          },
+          "aspect_ratio": {
+            "n": 18,
+            "mean": 21.29,
+            "median": 14.9,
+            "p25": 8.02,
+            "p75": 34.95
+          },
+          "colorfulness": {
+            "n": 18,
+            "mean": 0.0,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "white_fraction": {
+            "n": 18,
+            "mean": 0.95,
+            "median": 1.0,
+            "p25": 0.95,
+            "p75": 1.0
+          },
+          "edge_density": {
+            "n": 18,
+            "mean": 0.02,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.04
+          },
+          "caption_words": {
+            "n": 18,
+            "mean": 39.0,
+            "median": 27.5,
+            "p25": 14.25,
+            "p75": 60.25
+          },
+          "subfigures": {
+            "n": 18,
+            "mean": 0.17,
+            "median": 0.0,
+            "p25": 0.0,
+            "p75": 0.0
+          },
+          "takeaway_pct": 11.1,
+          "comparison_pct": 11.1,
+          "protocol_pct": 5.6
+        }
+      }
+    }
+  },
+  "first_figure_types": [
+    [
+      "architecture_pipeline",
+      791
+    ],
+    [
+      "quantitative_plot",
+      628
+    ],
+    [
+      "other",
+      614
+    ],
+    [
+      "dataset_examples",
+      548
+    ],
+    [
+      "motivation_teaser",
+      423
+    ],
+    [
+      "diagram_or_plot",
+      272
+    ],
+    [
+      "representation_visualization",
+      151
+    ],
+    [
+      "visual_examples",
+      105
+    ],
+    [
+      "ablation_sensitivity",
+      56
+    ],
+    [
+      "qualitative_comparison",
+      44
+    ],
+    [
+      "failure_case",
+      21
+    ]
+  ],
+  "first_figure_pages": {
+    "n": 3653,
+    "mean": 3.11,
+    "median": 2.0,
+    "p25": 2.0,
+    "p75": 4.0
+  }
+}

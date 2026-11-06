@@ -17,17 +17,21 @@
 
 案例只在相关任务中使用。样本比例与视觉密度由实际方法、素材和版面决定；不能把模板布局解释为作者未公开的画图过程。
 
-## 两条兼容的可编辑生产路线
+## 可编辑生产路线
 
 **结构化图：** 使用本技能根目录的 `scripts/render_diagram_svg.py` 校验和渲染 JSON spec；需要原生 PPTX 时使用 `scripts/render_diagram_pptx.mjs`。同一套节点／边 ID 可对应不同 paper/slides 坐标，不要强行共用长宽比。脚本细节见 [figure-production](figure-production.md) 与 [ppt-diagrams](ppt-diagrams.md)。修改 spec 再生成，避免只改派生图。
 
 **作者风格构图：** `modules/mayue/scripts/generate_templates.py` 生成四张原创 SVG scaffold，适合定制面板。可以直接编辑其分组 SVG，再从该源导出；这些自由 SVG 不是上述 JSON renderer 的输入，不声称可自动无损转换成原生 PPTX。指定 PPTX 时以同样语义重建原生形状并检查。作者研究图摘录在 `modules/mayue/assets/study-figures/`，保留归属，仅用于学习。
+
+**程序化组件图：** 新增的 `modules/share-tools/scripts/figkit.py` 可组合叠帧、编码器、网络条、状态图例与连线，输出 HTML/SVG/PDF/PNG 和 `labels.json`。按 [工具指南](../modules/share-tools/references/guide.md) 将名称与示意说明交接给正文；保留 Python 源与真实素材索引。使用实际栏宽检查字号。这些组件与样式可按任务改用，不能把 UNet、固定颜色或真实输入图强加给所有研究；SVG 不自动变成原生 PPTX。
 
 图表的通用信息层级见 [top-ML figure playbook](../modules/top-ml/references/figure-playbook.md)；Mayue 的具体案例、配色、分区与元数据证据见 [author figure playbook](../modules/mayue/references/figure-playbook.md) 和 [execution](../modules/mayue/references/figure-execution.md)。先按需要选一份，不同时加载所有图表资料。
 
 ## 图注与正文
 
 根据真实图写：主题／任务→panel 或行列读法→符号、线型、状态或实验协议→图实际支持的认识。架构图解释计算路径，结果图给出比较条件与证据边界。不能在图注补出未运行的相同算力、统计显著性或不存在的去除分支。
+
+图注和图中文字同样执行 [anti-defensive 编辑](anti-defensive-writing.md)：直接说明图展示了什么，删去重复辩解，保留决定比较含义的条件、训练／推理状态和样本性质。定性示例、概念示意或诊断结果不能因压缩标签变成总体胜出或泛化证据。
 
 贡献、模块、图标签与消融名称保持一致。把正文首引放在需要这张图的论证处；最终栏宽、单双栏跨度和浮动顺序使用论文版面计划。
 

@@ -1,0 +1,4127 @@
+{
+  "2024": {
+    "oral_not_in_proceedings": [],
+    "accepted_not_in_proceedings": [
+      {
+        "title": "REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning",
+        "highlight": false
+      }
+    ],
+    "proceedings_not_in_accepted": [
+      "Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement"
+    ]
+  },
+  "2025": {
+    "oral_not_in_proceedings": [],
+    "accepted_not_in_proceedings": [
+      {
+        "title": "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression",
+        "highlight": false
+      },
+      {
+        "title": "Any6D: Model-free 6D Pose Estimation of Novel Object",
+        "highlight": false
+      },
+      {
+        "title": "POMP: Physics-constrainable Motion Generative Model through Phase Manifolds",
+        "highlight": false
+      }
+    ],
+    "proceedings_not_in_accepted": [
+      "Any6D: Model-free 6D Pose Estimation of Novel Objects",
+      "Random Conditioning for Diffusion Model Compression with Distillation",
+      "POMP: Physics-consistent Motion Generative Model through Phase Manifolds"
+    ]
+  },
+  "2026": {
+    "oral_not_in_proceedings": [],
+    "accepted_not_in_proceedings": [
+      {
+        "title": "Similarity-as-Evidence: Calibrating Overconfident VLMs for Interpretable and Label-Efficient Medical Active Learning",
+        "highlight": true
+      },
+      {
+        "title": "SToRe3D: Sparse Token Relevance in ViTs for Efficient Multi-View 3D Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "Source Models Leak What They Shouldn’t: Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization",
+        "highlight": false
+      },
+      {
+        "title": "SIGMA: A Physics-Based Benchmark for Gas Chimney Understanding in Seismic Images",
+        "highlight": false
+      },
+      {
+        "title": "Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting",
+        "highlight": false
+      },
+      {
+        "title": "Align While Search: Belief-Guided Exploratory Inference for World-Grounded Embodied Agents",
+        "highlight": false
+      },
+      {
+        "title": "TrajTok: Learning Trajectory Tokens Enhances Video Understanding",
+        "highlight": false
+      },
+      {
+        "title": "Composite-Attribute Person Re-Identification via Pose-Guided Disentanglement",
+        "highlight": false
+      },
+      {
+        "title": "WorldStereo: Bridging Controllable Video Generation and Scene Reconstruction via 3D Geometric Memories",
+        "highlight": false
+      },
+      {
+        "title": "FLOW: Feature-Level Optimal Warping for Generalized Remote Physiological Measurement",
+        "highlight": false
+      },
+      {
+        "title": "Protect to Adapt: Subspace-Constrained Adaptation with Ranked Negative Prompt Feedback for Few-Shot Action Recognition",
+        "highlight": false
+      },
+      {
+        "title": "RECS4R: Bridging Semantics and Geometry for Referring Remote Sensing Interpretation",
+        "highlight": false
+      },
+      {
+        "title": "Scaling Spatial and Temporal Context for Robotic Imitation Learning Policies With Scene Graphs",
+        "highlight": false
+      },
+      {
+        "title": "CaT-GS: Efficient 3DGS Rendering for Large Scale Scenes via Inter-frame Caching and Tile Scheduling",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Endpoints: Path-Centric Reasoning for Vectorized Off-Road Network Extraction",
+        "highlight": false
+      },
+      {
+        "title": "Factorize, Reconstruct, Enhance: A Unified Framework for Multimodal Sentiment Analysis",
+        "highlight": false
+      },
+      {
+        "title": "Roots Beneath the Cut: Uncovering the Risk of Concept Recovery in Pruning-Based Unlearning for Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Sensing",
+        "highlight": false
+      },
+      {
+        "title": "WRIVINDER: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery",
+        "highlight": false
+      },
+      {
+        "title": "BLMT-Stereo: Breaking the Local Minima Trap of Iterative Stereo Matching",
+        "highlight": false
+      },
+      {
+        "title": "SwiftNDC: Fast Neural Depth Correction for High-Fidelity 3D Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "ProDiG: Progressive Diffusion-Guided Gaussian Splatting for Aerial to Ground Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "GauSDF: Signed Distance Embedded Gaussian Surfels for 3D Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "4D E-SloMo: 4D Reconstruction for High Speed Scene using a Hybrid RGB-Event Multi-View System",
+        "highlight": false
+      },
+      {
+        "title": "MADrive: Memory-Augmented Driving Scene Modeling",
+        "highlight": false
+      },
+      {
+        "title": "OnlineX: Unified Online 3D Reconstruction and Understanding with Active-to-Stable State Evolution",
+        "highlight": false
+      },
+      {
+        "title": "SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization with Multi-Video 4D Gaussian Splatting",
+        "highlight": false
+      },
+      {
+        "title": "AR4D: Autoregressive 4D Generation from Monocular Videos",
+        "highlight": false
+      },
+      {
+        "title": "CLLAP: Contrastive Learning-based LiDAR-Augmented Pretraining for Enhanced Radar-Camera Fusion",
+        "highlight": false
+      },
+      {
+        "title": "Point2Gaussian: Point-Cloud-to-Gaussian Conversion for Efficient 3D Scene Rendering",
+        "highlight": false
+      },
+      {
+        "title": "Speed3R: Sparse Feed-forward 3D Reconstruction Models",
+        "highlight": false
+      },
+      {
+        "title": "FF3R: Feedforward Feature 3D Reconstruction from Unconstrained views",
+        "highlight": false
+      },
+      {
+        "title": "Generalizable Human Gaussian Splatting via Multi-view Semantic Consistency",
+        "highlight": false
+      },
+      {
+        "title": "HEDA: Hyperbolic-Euclidean Dual Adaptation for Robust Real-World Point Cloud Completion",
+        "highlight": false
+      },
+      {
+        "title": "WildAni4D: Towards 4D Animal Mesh Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "Instant Colorization of Gaussian Splats",
+        "highlight": false
+      },
+      {
+        "title": "Dynamic Scene Decomposition Beyond Moving Objects for High-Fidelity 3D Reconstruction in Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images",
+        "highlight": false
+      },
+      {
+        "title": "FACT-GS: Frequency-Aligned Complexity-Aware Texture Reparameterization for 2D Gaussian Splatting",
+        "highlight": false
+      },
+      {
+        "title": "Affine Bases for Affine Spaces",
+        "highlight": false
+      },
+      {
+        "title": "Improving Densification in 3D Gaussian Splatting for High-Fidelity Rendering",
+        "highlight": false
+      },
+      {
+        "title": "OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "GeoFusion-CAD: Structure-Aware Diffusion with Geometric State Space for Parametric 3D Design",
+        "highlight": false
+      },
+      {
+        "title": "SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration",
+        "highlight": false
+      },
+      {
+        "title": "GEAR: GEometry-Motion Alternating Refinement for Articulated Object Modeling with Gaussian Splatting",
+        "highlight": false
+      },
+      {
+        "title": "GlowGS: Generative Semantic Feature Learning for 3D Gaussian Splatting in Nighttime Glow Scenes",
+        "highlight": false
+      },
+      {
+        "title": "2D Triangle Splatting for Direct Differentiable Mesh Training",
+        "highlight": false
+      },
+      {
+        "title": "ForgeDreamer: Industrial Text-to-3D Generation with Multi-Expert LoRA and Cross-View Hypergraph",
+        "highlight": false
+      },
+      {
+        "title": "3D Gaussian Splatting for Annular Dark Field Scanning Transmission Electron Microscopy Tomography Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes",
+        "highlight": false
+      },
+      {
+        "title": "Stream3D: Streaming Zero-Shot 3D Instance Segmentation with Multi-View Noise Mask Filtering and Manifold Refining",
+        "highlight": false
+      },
+      {
+        "title": "Active Exploration for Sparse Visual Localization",
+        "highlight": false
+      },
+      {
+        "title": "GRVS: a Generalizable and Recurrent Approach to Monocular Dynamic View Synthesis",
+        "highlight": false
+      },
+      {
+        "title": "3DFA: Aligning the Features Between Point Cloud and Query Image for Scene-Specific Visual Localization",
+        "highlight": false
+      },
+      {
+        "title": "Long-LRM++: Preserving Fine Details in Feed-Forward Wide-Coverage Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "Native3D: End-to-End 3D Scene Generation via Unified Mesh-Texture Modeling and Semantic Alignment",
+        "highlight": false
+      },
+      {
+        "title": "From Orbit to Ground: Generative City Photogrammetry from Extreme Off-Nadir Satellite Images",
+        "highlight": false
+      },
+      {
+        "title": "NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks",
+        "highlight": false
+      },
+      {
+        "title": "VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "AvatarMix: Identity-Preserving Cross-Avatar Composition for Outfit Personalization",
+        "highlight": false
+      },
+      {
+        "title": "Object Pose Transformer: Unifying Unseen Object Pose Estimation",
+        "highlight": false
+      },
+      {
+        "title": "SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes",
+        "highlight": false
+      },
+      {
+        "title": "CATRF: Codec-Adaptive TriPlane Radiance Fields for Volumetric Content Delivery",
+        "highlight": false
+      },
+      {
+        "title": "PDF-GS: Progressive Distractor Filtering for Robust 3D Gaussian Splatting",
+        "highlight": false
+      },
+      {
+        "title": "Three-Step Conditional Diffusion 3D Reconstruction for Light-Field Microscopy",
+        "highlight": false
+      },
+      {
+        "title": "LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates",
+        "highlight": false
+      },
+      {
+        "title": "Learning a Particle Dynamics Model with Real-World Videos",
+        "highlight": false
+      },
+      {
+        "title": "Softmax-GS: Generalized Gaussians Learning When to Blend or Bound",
+        "highlight": false
+      },
+      {
+        "title": "G2I: Transitioning a Generalized Monocular Depth Estimation Model to In-Domain Metric Depth Prediction",
+        "highlight": false
+      },
+      {
+        "title": "3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework",
+        "highlight": false
+      },
+      {
+        "title": "HiDiGen: Hierarchical Diffusion for B-Rep Generation with Explicit Topological Constraints",
+        "highlight": false
+      },
+      {
+        "title": "RiGS: Rigid-aware 4D Gaussian Splatting from a Single Monocular Video",
+        "highlight": false
+      },
+      {
+        "title": "RAD: Retrieval-Augmented Monocular Metric Depth Estimation for Underrepresented Classes",
+        "highlight": false
+      },
+      {
+        "title": "WGS: Watertight Geometry Standardization for Scalable 3D Generation",
+        "highlight": false
+      },
+      {
+        "title": "Self-Evolving 3D Scene Generation from a Single Image",
+        "highlight": false
+      },
+      {
+        "title": "Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator",
+        "highlight": false
+      },
+      {
+        "title": "Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting",
+        "highlight": false
+      },
+      {
+        "title": "UniVerse3D: Emerging Properties of Unified Multimodal Models in 3D Understanding and Generation",
+        "highlight": false
+      },
+      {
+        "title": "HumanOrbit: 3D Human Reconstruction as 360° Orbit Generation",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Voxel 3D Editing : Learning from 3D Masks and Self-Constructed Data",
+        "highlight": false
+      },
+      {
+        "title": "Adversarial Agents: Black-Box Evasion Attacks with Reinforcement Learning",
+        "highlight": false
+      },
+      {
+        "title": "Defending CLIP via Noise-Induced Feature Dynamics for Training-Free, Zero-shot Adversarial Robustness",
+        "highlight": false
+      },
+      {
+        "title": "Jailbreaking Frontier Foundation Models Through Intention Deception",
+        "highlight": false
+      },
+      {
+        "title": "NSGuard: Null-Space Guided Robust Watermarking for Data Copyright Protection in Customized Generation",
+        "highlight": false
+      },
+      {
+        "title": "A Robust Out-of-Distribution Detection Framework via Synergistic Smoothing",
+        "highlight": false
+      },
+      {
+        "title": "Phantasia: Context-Adaptive Backdoors in Vision Language Models",
+        "highlight": false
+      },
+      {
+        "title": "BadRSSD: Backdoor Attacks on Regularized Self-Supervised Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion",
+        "highlight": false
+      },
+      {
+        "title": "BadVLM: Towards Efficient and Resilient Backdoor Attacks on Large Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models",
+        "highlight": false
+      },
+      {
+        "title": "Breaking the Illusion: Consensus-Based Generative Mitigation of Adversarial Illusions in Multi-Modal Embeddings",
+        "highlight": false
+      },
+      {
+        "title": "When Data is Scarce, Learn to Adapt: Robust Federated Learning via Adversarial Meta-Optimization",
+        "highlight": false
+      },
+      {
+        "title": "Robust Alignment: Harmonizing Clean Accuracy and Adversarial Robustness in Adversarial Training",
+        "highlight": false
+      },
+      {
+        "title": "DRA: Structure-Preserving Backdoor Erasure via Diagnosing, Recalibrating, and Adapting",
+        "highlight": false
+      },
+      {
+        "title": "APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Cognitive Attack Detection in Augmented Reality (CADAR): A Neuro-Symbolic Approach with Particle Filtering on Perception Graphs",
+        "highlight": false
+      },
+      {
+        "title": "On Evaluating Stateful Defence Models against Query-Based Black-Box Attacks",
+        "highlight": false
+      },
+      {
+        "title": "Optimizing Certified Radius of Zero-shot Composed Image Retrieval via Text Guidance",
+        "highlight": false
+      },
+      {
+        "title": "When Interpretability Becomes a Liability: Adversarial Attacks on CBM Concept Layers",
+        "highlight": false
+      },
+      {
+        "title": "Red-teaming the Multimodal Reasoning: Jailbreaking Vision-Language Models via Cross-modal Entanglement Attacks",
+        "highlight": false
+      },
+      {
+        "title": "Phantom: A Unified Face-Swap Deepfake Protection Framework with Latent and Spatial Constraints",
+        "highlight": false
+      },
+      {
+        "title": "Tap, Scan, Exploit: The Hidden Vulnerabilities of Everyday QR Codes",
+        "highlight": false
+      },
+      {
+        "title": "DeepFakeShield: A Proactive Defense Against Malicious Face Swapping",
+        "highlight": false
+      },
+      {
+        "title": "MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments",
+        "highlight": false
+      },
+      {
+        "title": "LiDAR-to-4D Radar Synthesis for Building Large-Scale Tensor Datasets",
+        "highlight": false
+      },
+      {
+        "title": "SurfaceGS: Dynamic Surface Gaussian Splatting for Urban Driving Scenes",
+        "highlight": false
+      },
+      {
+        "title": "JACoP: Joint Alignment for Compliant Multi-Agent Prediction",
+        "highlight": false
+      },
+      {
+        "title": "Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "What Matters for Scalable and Robust Learning in End-to-End Driving Planners?",
+        "highlight": false
+      },
+      {
+        "title": "Physics-Informed Reward Framework for Vision-Language Driven Safe Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "HorizonWeaver: Generalizable Multi-Level Semantic Editing for Driving Scenes",
+        "highlight": false
+      },
+      {
+        "title": "VESPA: Open-World Auto-Labeling for 3D Object Detection in Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "IRL-VLA: Vision-Language-Action Training via Reward World Model",
+        "highlight": false
+      },
+      {
+        "title": "KnowMTP: A Knowledge-Guided Framework for Multi-Agent Trajectory Prediction in Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "MapGPT: A Vision-Language Model for Large-Scale High-Definition Map Generation",
+        "highlight": false
+      },
+      {
+        "title": "RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies",
+        "highlight": false
+      },
+      {
+        "title": "PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation",
+        "highlight": false
+      },
+      {
+        "title": "RoadTones: Tone Controllable Text Generation from Road Event Videos",
+        "highlight": false
+      },
+      {
+        "title": "GRADE: Guiding Realistic Autonomous Driving with Adaptive Trajectory Evolution",
+        "highlight": false
+      },
+      {
+        "title": "SurfelOcc: Self-supervised Occupancy Prediction via 2D Surfel Splatting",
+        "highlight": false
+      },
+      {
+        "title": "dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Devil is in Narrow Policy: Unleashing Exploration in Driving VLA Models",
+        "highlight": false
+      },
+      {
+        "title": "Learning Vision-Language-Action World Models for Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models",
+        "highlight": false
+      },
+      {
+        "title": "Pseudo-Expert Regularized Offline RL for End-to-End Autonomous Driving in Photorealistic Closed-Loop Environments",
+        "highlight": false
+      },
+      {
+        "title": "OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "CoRT-Predictor: Chain of Risk Thought Autoregressive Trajectory Predictor for Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "C^2T: Captioning-Structure and LLM-Aligned Common-Sense Reward Learning for Traffic–Vehicle Coordination",
+        "highlight": false
+      },
+      {
+        "title": "PEARL: A Lightweight Prompt-based Feature Interpreter Framework for Real-Time, Anonymous, and Heterogeneous Collaborative Perception",
+        "highlight": false
+      },
+      {
+        "title": "Variable-View Diffusion with Geometric Uncertainty Unlocks LiDAR Upsampling",
+        "highlight": false
+      },
+      {
+        "title": "RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection",
+        "highlight": false
+      },
+      {
+        "title": "On the Feasibility and Opportunity of Autoregressive 3D Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "Boundary-Responsive Differentiable Gating for Superpixel-Based Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "See Tomorrow, Act Today: Foresight-Driven Autonomous Driving",
+        "highlight": false
+      },
+      {
+        "title": "Spatial Transcriptomics as Images for Large-Scale Pretraining",
+        "highlight": false
+      },
+      {
+        "title": "DiffGradCAM: A Class Activation Map Using the Full Model Decision to Solve Unaddressed Adversarial Attacks",
+        "highlight": false
+      },
+      {
+        "title": "Modality-Aware and Anatomical Vector-Quantized Autoencoding for Multimodal Brain MRI",
+        "highlight": false
+      },
+      {
+        "title": "Fingerprint Fragment Expansion using Image Outpainting Approach based on Spectral Normalization PatchGAN",
+        "highlight": false
+      },
+      {
+        "title": "Improving Autoregressive Image Generation Through Coarse-to-Fine Token Prediction",
+        "highlight": false
+      },
+      {
+        "title": "Intelligent Photo Retouching with Language Model-Based Artist Agents",
+        "highlight": false
+      },
+      {
+        "title": "Guided Lensless Polarization Imaging",
+        "highlight": false
+      },
+      {
+        "title": "Blockwise Divide-and-Aggregate for Image Restoration using Diffusion Priors",
+        "highlight": false
+      },
+      {
+        "title": "Towards Imperceptible Watermarking Via Environment Illumination for Consumer Cameras",
+        "highlight": false
+      },
+      {
+        "title": "Adaptive Continuous Kernel Networks for Image Reconstruction from Non-Uniform Sampling",
+        "highlight": false
+      },
+      {
+        "title": "FreqAdapt: Frequency-Adaptive Processing for RAW Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "Stability and Non-Local Modeling in Hybrid Convolution–Transformer Networks for Snapshot Hyperspectral Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "Breaking Degradation Coupling: A Structural Entropy–Guided Decoupled Framework and Benchmark for Infrared Enhancement",
+        "highlight": false
+      },
+      {
+        "title": "Fast Generative DeOcclusion for Visual Geometry and Robotics",
+        "highlight": false
+      },
+      {
+        "title": "FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation",
+        "highlight": false
+      },
+      {
+        "title": "Unlocking Single-View Constraints for Efficient Camera Relocalization with Keypoint-Level Multi-View Geometric Consistency in Training",
+        "highlight": false
+      },
+      {
+        "title": "Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use",
+        "highlight": false
+      },
+      {
+        "title": "Retrieval-VLA: Training-Free In-Context Adaptation for Vision-Language-Action Models",
+        "highlight": false
+      },
+      {
+        "title": "Revisiting Articulated Parts Perception in Robot Manipulation",
+        "highlight": false
+      },
+      {
+        "title": "Re^2MoGen: Open-Vocabulary Motion Generation via LLM Reasoning and Physics-Aware Refinement",
+        "highlight": false
+      },
+      {
+        "title": "Teleoperation, Simulation, or Human Video? Data Utilization Law for Robot Manipulation",
+        "highlight": false
+      },
+      {
+        "title": "ShelfGaussian: Shelf-Supervised Open-Vocabulary Gaussian-Based 3D Scene Understanding",
+        "highlight": false
+      },
+      {
+        "title": "RoboTransfer: Controllable Geometry-Consistent Video Diffusion for Manipulation Policy Transfer",
+        "highlight": false
+      },
+      {
+        "title": "Switch-JustDance: Benchmarking Whole-Body Motion Tracking Controllers Using a Commercial Console Game",
+        "highlight": false
+      },
+      {
+        "title": "OminiMAG-SLAM : Unified Online Dual Graph Optimization for Multi-Agent Gaussian SLAM",
+        "highlight": false
+      },
+      {
+        "title": "ReaAct: Bridging Robotic Reasoning and Action Generation Toward Real-World Spatial Generalization",
+        "highlight": false
+      },
+      {
+        "title": "Learning Multi-Task Robot Trajectory Segmentation from Visual and Kinematic Streams",
+        "highlight": false
+      },
+      {
+        "title": "LP3: LLM-based Potential Prediction Policy for Object Navigation using a Scene-Object Semantic Map",
+        "highlight": false
+      },
+      {
+        "title": "RoboScape-R: Unified Reward-Observation World Models for Generalizable Robotics Training via RL",
+        "highlight": false
+      },
+      {
+        "title": "CoTFly: Making UAVs Think Where to Fly Next Through Visual Chain-of-Thought Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "RU4D-SLAM: Reweighting Uncertainty in Gaussian Splatting SLAM for 4D Scene Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "A1: Adaptive Truncated Vision-Language-Action Model from Affordance to Action",
+        "highlight": false
+      },
+      {
+        "title": "Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data",
+        "highlight": false
+      },
+      {
+        "title": "RACE-6D: Real-time Accurate Coarse-to-finE Object 6D Pose Transformer",
+        "highlight": false
+      },
+      {
+        "title": "MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training",
+        "highlight": false
+      },
+      {
+        "title": "Riemannian Score-Based Diffusion for Language-Conditioned Grasp and Affordance Detection",
+        "highlight": false
+      },
+      {
+        "title": "DINO-VO: Learning Where to Focus for Enhanced State Estimation",
+        "highlight": false
+      },
+      {
+        "title": "Temporally-Smooth Global Bundle Adjustment for Real-Time Dense Visual SLAM",
+        "highlight": false
+      },
+      {
+        "title": "Masked Next-Scale Prediction For Self-Supervised Scene Text Recognition",
+        "highlight": false
+      },
+      {
+        "title": "iTCTSL: Interpretable Tropical Cyclone Track and Intensity Forecasting via Task Sensitive Learning",
+        "highlight": false
+      },
+      {
+        "title": "Machine Vision-Oriented Appearance Design: Generate Natural And Robust Textures For 3D Meshes",
+        "highlight": false
+      },
+      {
+        "title": "Bridge Your Fields: MeteoNet for Efficient Non-Uniform Meteorological Field Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "Catalyst: Out-of-Distribution Detection via Elastic Scaling",
+        "highlight": false
+      },
+      {
+        "title": "LUMINA: Learning and Understanding of Multimodal Information for Narrative and Affect-based Virality Prediction",
+        "highlight": false
+      },
+      {
+        "title": "LOOPE: Learnable Optimal Patch Order for Positional Encoders in Vision Transformers",
+        "highlight": false
+      },
+      {
+        "title": "Watermarking Matters for Deepfake Detection: A Proactive Method for Detecting Forgeries under Conventional Attacks",
+        "highlight": false
+      },
+      {
+        "title": "CTFS : Collaborative Teacher Framework for Forward-Looking Sonar Image Semantic Segmentation with Extremely Limited Labels",
+        "highlight": false
+      },
+      {
+        "title": "TPTransformer: Tensor–Tensor Product Transformer for Hyperspectral Image Super-Resolution",
+        "highlight": false
+      },
+      {
+        "title": "Co-Adaptive Graph Learning Through Coupled Spectral Refinement for 3D Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "The Mechanics of CNN Filtering with Rectification",
+        "highlight": false
+      },
+      {
+        "title": "AndroidLong: LLM-based Android Agents Struggle with Long Looping Tasks",
+        "highlight": false
+      },
+      {
+        "title": "Multimodal Large Language Models as Image Classifiers",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Recognition: Evaluating Visual Perspective Taking in Vision Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark",
+        "highlight": false
+      },
+      {
+        "title": "Benchmarking Layout-Guided Diffusion Models through Unified Semantic-Spatial Evaluation in Closed and Open Settings",
+        "highlight": false
+      },
+      {
+        "title": "RefDrone: A Challenging Benchmark for Referring Expression Comprehension in Drone Scenes",
+        "highlight": false
+      },
+      {
+        "title": "Vision Language Models are Confused Tourists",
+        "highlight": false
+      },
+      {
+        "title": "LenghuSky-8: An 8-Year All-Sky Cloud Dataset with Star-Aware Masks and Alt-Az Calibration for Segmentation and Nowcasting",
+        "highlight": false
+      },
+      {
+        "title": "Through the PRISM: Principle-Aware, Interpretable, and Multi-Scale Evaluation of Visual Designs",
+        "highlight": false
+      },
+      {
+        "title": "AEGIS: Exploring the Limit of World Knowledge Capabilities for Unified Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "Name That Part: 3D Part Segmentation and Naming",
+        "highlight": false
+      },
+      {
+        "title": "Do MLLMs Exhibit Human-like Perceptual Behaviors? HVSBench: A Benchmark for MLLM Alignment with Human Perceptual Behavior",
+        "highlight": false
+      },
+      {
+        "title": "Memorization in 3D Shape Generation: An Empirical Study",
+        "highlight": false
+      },
+      {
+        "title": "Shape and Texture Recognition in Large Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "U-SEG: Uncertainty in SEGmentation - A systematic multi-variable exploration",
+        "highlight": false
+      },
+      {
+        "title": "UDVideoQA: A Traffic Video Question Answering Dataset for Multi-Object Spatio-Temporal Reasoning in Urban Dynamics",
+        "highlight": false
+      },
+      {
+        "title": "GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking",
+        "highlight": false
+      },
+      {
+        "title": "Towards Text-Guided Attribute-Disentangled Multimodal Representation Learning",
+        "highlight": false
+      },
+      {
+        "title": "The DeepSpeak Dataset",
+        "highlight": false
+      },
+      {
+        "title": "AndroidLens: Long-latency Evaluation with Nested Sub-targets for Android GUI Agents",
+        "highlight": false
+      },
+      {
+        "title": "A2Z-10M+: Geometric Deep Learning with A-to-Z BRep Annotations for AI-Assisted CAD Modeling and Reverse Engineering",
+        "highlight": false
+      },
+      {
+        "title": "MolRecBench-Wild: A Real-World Benchmark for Optical Chemical Structure Recognition",
+        "highlight": false
+      },
+      {
+        "title": "FinChart-Multimodal: A Dataset for Context-Injected Financial Chart Understanding with Aligned OHLCV Time Series",
+        "highlight": false
+      },
+      {
+        "title": "THEval. Evaluation Framework for Talking Head Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "PolyReal: A Benchmark for Real-World Polymer Science Workflows",
+        "highlight": false
+      },
+      {
+        "title": "OutSafe-Bench: A Benchmark for Multimodal Offensive Content Detection in Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "PureSpace: A Benchmark for Abstract Spatial Reasoning in Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Native Visual Understanding: Resolving Resolution Dilemmas in Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Beyond 3D Geometry: M3FD, a Large-Scale Dataset and Benchmark for Multimodal 3D Perceptual Understanding",
+        "highlight": false
+      },
+      {
+        "title": "Paper2SysArch: Structure‑Constrained System Architecture Generation from Scientific Papers",
+        "highlight": false
+      },
+      {
+        "title": "WildRelight: A Real-World Dataset and Benchmark for Single-Image Relighting",
+        "highlight": false
+      },
+      {
+        "title": "EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks",
+        "highlight": false
+      },
+      {
+        "title": "VibraVerse: A Large-Scale Geometry–Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning",
+        "highlight": false
+      },
+      {
+        "title": "When Harmful Content Goes Invisible: Unveiling Perception Failure of LVLMs with CAMOUHARMTI",
+        "highlight": false
+      },
+      {
+        "title": "Step-CoT: Stepwise Visual Chain-of-Thought for Medical Visual Question Answering",
+        "highlight": false
+      },
+      {
+        "title": "Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Unifying Scientific Communication: Fine-Grained Correspondence Across Scientific Media",
+        "highlight": false
+      },
+      {
+        "title": "MathAll: A Real-World Benchmark for Mathematical Reasoning and Cross-Modal Understanding Evaluation in Omni-MLLMs",
+        "highlight": false
+      },
+      {
+        "title": "Safe-LLaVA: A Privacy-Preserving Vision Language Dataset and Benchmark for Biometric Safety",
+        "highlight": false
+      },
+      {
+        "title": "DR-DPO: Dual-Regularized DPO for Efficient Dataset Condensation",
+        "highlight": false
+      },
+      {
+        "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual–Textual Reasoning on Construction Drawings",
+        "highlight": false
+      },
+      {
+        "title": "SciPostGen: Bridging the Gap between Scientific Papers and Poster Layouts",
+        "highlight": false
+      },
+      {
+        "title": "Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs",
+        "highlight": false
+      },
+      {
+        "title": "Towards Reliable Human Evaluations in Gesture Generation: Insights from a Community-Driven State-of-the-Art Benchmark",
+        "highlight": false
+      },
+      {
+        "title": "SuperGlasses: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses",
+        "highlight": false
+      },
+      {
+        "title": "InEdit-Bench: Benchmarking Intermediate Logical Pathways for Intelligent Image Editing Models",
+        "highlight": false
+      },
+      {
+        "title": "VEBench: Benchmarking Large Multimodal Models for Real-world Video Editing",
+        "highlight": false
+      },
+      {
+        "title": "CrowdVerse: A Bidirectional Reality-Calibrated Benchmark for Crowd Understanding and Simulation",
+        "highlight": false
+      },
+      {
+        "title": "Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding",
+        "highlight": false
+      },
+      {
+        "title": "From Static Snapshots to Dynamic Trajectories: Evaluating and Enhancing the Learning Pathways of Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Evaluating Dataset Watermarking for Fine-Tuning Traceability of Customized Diffusion Models: A Comprehensive Benchmark and Removal Approach",
+        "highlight": false
+      },
+      {
+        "title": "BMD-45: A Large-Scale CCTV Vehicle Detection Dataset for Urban Traffic in Developing Cities",
+        "highlight": false
+      },
+      {
+        "title": "SciGA: A Comprehensive Dataset for Designing Graphical Abstracts in Academic Papers",
+        "highlight": false
+      },
+      {
+        "title": "Splatwizard: A Benchmark Toolkit for 3D Gaussian Splatting Compression",
+        "highlight": false
+      },
+      {
+        "title": "See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Unlocking ImageNet’s Multi-Object Nature: Automated Large-Scale Multilabel Annotation",
+        "highlight": false
+      },
+      {
+        "title": "CATS-V2V: A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios",
+        "highlight": false
+      },
+      {
+        "title": "Seeing the Abstract: A Benchmark for Visual-Only Metaphor Understanding in Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Cross-Dimensional Forgery Pattern Extraction for Generalizable Forgery Localization Framework",
+        "highlight": false
+      },
+      {
+        "title": "Reliable Test-time Adaptation Via Evidential Uncertainty Modeling in Vision–Language Models",
+        "highlight": false
+      },
+      {
+        "title": "SPOT: Sparsification with Attention Dynamics via Token Relevance in Vision Transformers",
+        "highlight": false
+      },
+      {
+        "title": "Do LLMs and VLMs Share Reasoning Neurons? Evidence and Mechanisms of Cross-Modal Transfer",
+        "highlight": false
+      },
+      {
+        "title": "Debiased One-Shot NAS Via Density-Aware Sampling",
+        "highlight": false
+      },
+      {
+        "title": "PSLIF: A Primary-Supplementary LIF Neuron for Spiking Neural Networks",
+        "highlight": false
+      },
+      {
+        "title": "SHIELD: Secure Hypernetworks for Incremental Expansion Learning Defense",
+        "highlight": false
+      },
+      {
+        "title": "Eigen-Value: Efficient Domain-Robust Data Valuation Via Eigenvalue-Based Approach",
+        "highlight": false
+      },
+      {
+        "title": "In2CLR: Joint Intra-Inter Curriculum Learning with Review for Degraded Fake Image Detection",
+        "highlight": false
+      },
+      {
+        "title": "HAMSA: Scanning-Free Vision State Space Models via SpectralPulseNet",
+        "highlight": false
+      },
+      {
+        "title": "Latent Domain Modeling Improves Robustness to Geographic Shifts",
+        "highlight": false
+      },
+      {
+        "title": "Any-Class Presence Likelihood for Robust Multi-Label Classification with Abundant Negative Data",
+        "highlight": false
+      },
+      {
+        "title": "VideoMatGen: PBR Materials through Joint Generative Modeling",
+        "highlight": false
+      },
+      {
+        "title": "TransKV: A Data-Driven Pruning Method for Large Foundation Models",
+        "highlight": false
+      },
+      {
+        "title": "Rich Feature Learning via Diversification",
+        "highlight": false
+      },
+      {
+        "title": "Image Classification Using CNN-QNN Hybrid Model with Optimized Correlated Features",
+        "highlight": false
+      },
+      {
+        "title": "Dual Strategies for Test-Time Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "CPUBone: Efficient Vision Backbone Design for Devices with Low Parallelization Capabilities",
+        "highlight": false
+      },
+      {
+        "title": "FLToM: Robust Federated Learning with Theory-of-Mind Structure",
+        "highlight": false
+      },
+      {
+        "title": "FedCVC: Federated Primal-Dual Learning with Client-Driven Virtual Compensation for Mitigating Dual Drift",
+        "highlight": false
+      },
+      {
+        "title": "Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration",
+        "highlight": false
+      },
+      {
+        "title": "PHATE-Net: Differentiable Pseudotime Learning for Trustworthy Disease Trajectories in PET",
+        "highlight": false
+      },
+      {
+        "title": "PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer",
+        "highlight": false
+      },
+      {
+        "title": "ORCA: Orchestrated Reasoning with Collaborative Agents for Document Visual Question Answering",
+        "highlight": false
+      },
+      {
+        "title": "Qinling-GFFE: A Novel Station-based Benchmark and Graph-Frequency Fusion Enhancer for Precipitation Forecasting",
+        "highlight": false
+      },
+      {
+        "title": "Deep Feedback ConvNets by Embedding the Working Memory Module for Image Classification",
+        "highlight": false
+      },
+      {
+        "title": "Channel Correlation Loss for Binary Neural Networks",
+        "highlight": false
+      },
+      {
+        "title": "MegAD: An Expert in Meta-Learning Guided Few-Shot Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction",
+        "highlight": false
+      },
+      {
+        "title": "From Drops to Grid: Noise-Aware Spatio-Temporal Neural Process for Rainfall Estimation",
+        "highlight": false
+      },
+      {
+        "title": "AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens",
+        "highlight": false
+      },
+      {
+        "title": "Texture-Guided Multiscale Cross-Modal Fusion for AI-Generated Image Quality Assessment",
+        "highlight": false
+      },
+      {
+        "title": "Res2SPDNet: Multi-Granularity SPD Matrix Residual Learning for Signal Classification",
+        "highlight": false
+      },
+      {
+        "title": "From Navigation to Refinement: Revealing the Two-Stage Nature of Flow-based Diffusion Models through Oracle Velocity",
+        "highlight": false
+      },
+      {
+        "title": "MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing",
+        "highlight": false
+      },
+      {
+        "title": "Spectral-Aware Adaptive Convolution for Fine-Grained Cross-View Visual Localization",
+        "highlight": false
+      },
+      {
+        "title": "Context-Aware Semantic Segmentation via Stage-Wise Attention",
+        "highlight": false
+      },
+      {
+        "title": "MFI-ResNet: Efficient ResNet Architecture Optimization via MeanFlow Compression and Selective Incubation",
+        "highlight": false
+      },
+      {
+        "title": "AlphaMerging: Orthogonal Subspace Projection of Task Vectors to Reduce Task Interference for Multi-Task Model Merging",
+        "highlight": false
+      },
+      {
+        "title": "Rethinking Compact (<1M) Vision Models: Balancing Accuracy and Speed through Multi-Path Atrous Convolutions",
+        "highlight": false
+      },
+      {
+        "title": "Hi3Doc: Hierarchical Tri-Level Representations for Multimodal Long-Document Understanding",
+        "highlight": false
+      },
+      {
+        "title": "LongDocSpan: Extending LVLMs for Long Document Understanding",
+        "highlight": false
+      },
+      {
+        "title": "M-DocSum: Do LVLMs Genuinely Comprehend Interleaved Image-Text in Document Summarization?",
+        "highlight": false
+      },
+      {
+        "title": "InstructTable: Improving Table Structure Recognition Through Instruction",
+        "highlight": false
+      },
+      {
+        "title": "SciPostLayoutTree: A Dataset for Structural Analysis of Scientific Posters",
+        "highlight": false
+      },
+      {
+        "title": "Efficient Document Parsing via Parallel Token Prediction",
+        "highlight": false
+      },
+      {
+        "title": "ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning",
+        "highlight": false
+      },
+      {
+        "title": "FREE-Switch: Frequency-Based Dynamic LoRA Switch for Style Transfer",
+        "highlight": false
+      },
+      {
+        "title": "FedVG: Gradient-Guided Aggregation for Enhanced Federated Learning",
+        "highlight": false
+      },
+      {
+        "title": "What and Where to Adapt: Structure–Semantics Co-Tuning for Machine Vision Compression via Synergistic Adapters",
+        "highlight": false
+      },
+      {
+        "title": "A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "GM-Skip: Metric-Guided Transformer Block Skipping for Efficient Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Dyna-ViT: Parameter-Free Pre-Encoder Token Pruning for Efficient Vision Transformers",
+        "highlight": false
+      },
+      {
+        "title": "Efficient Long-Context Modeling in Diffusion Language Models via Block Approximate Sparse Attention",
+        "highlight": false
+      },
+      {
+        "title": "MaMe: Matrix-Based Token Merging",
+        "highlight": false
+      },
+      {
+        "title": "Tiny Inference-Time Scaling with Latent Verifiers",
+        "highlight": false
+      },
+      {
+        "title": "DaMN: Deleting and Migrating Normalization Layers from Transformers",
+        "highlight": false
+      },
+      {
+        "title": "Enriching Knowledge Distillation with Cross-Modal Teacher Fusion",
+        "highlight": false
+      },
+      {
+        "title": "UNIFORM: Unifying Knowledge from Large-scale and Diverse Pre-trained Models",
+        "highlight": false
+      },
+      {
+        "title": "ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization",
+        "highlight": false
+      },
+      {
+        "title": "MipKV: A Sparsify-then-Recover Paradigm for Accelerating Large Vision-Language Model Pre-Filling",
+        "highlight": false
+      },
+      {
+        "title": "Mix-to-Max: Optimizing Data Mixtures for Peak Vision-Language Efficiency",
+        "highlight": false
+      },
+      {
+        "title": "INTERLACE: Interleaved Layer Pruning and Efficient Adaptation in Large Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "JetViT: Efficient High-Resolution Vision Transformer with Post-Training Attention Search",
+        "highlight": false
+      },
+      {
+        "title": "SLAD : Shared LoRA Adapters for Task Specific Distillation",
+        "highlight": false
+      },
+      {
+        "title": "D4C: Data-Free Quantization for Contrastive Language-Image Pre-Training Models",
+        "highlight": false
+      },
+      {
+        "title": "ELSA: Exact Linear-Scan Attention for Fast and Memory-Light Vision Transformers",
+        "highlight": false
+      },
+      {
+        "title": "MPM: Mutual Pair Merging for Efficient Vision Transformers",
+        "highlight": false
+      },
+      {
+        "title": "Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light",
+        "highlight": false
+      },
+      {
+        "title": "AlignFL: Adaptive Learning and Intelligent Generation of Networks for Federated Learning",
+        "highlight": false
+      },
+      {
+        "title": "A Polarized Reflection and Material Dataset of Real World Objects",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Loss Values: Robust Dynamic Pruning via Loss Trajectory Alignment",
+        "highlight": false
+      },
+      {
+        "title": "Positive Divide and Negative Discrepancy: A New Perspective on Multi-Label Logit Distillation",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Accuracy: An Empirical Study of Perception Stability in Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Event-VStream: Event-Driven Real-Time Understanding for Long Video Streams",
+        "highlight": false
+      },
+      {
+        "title": "M^3A Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering",
+        "highlight": false
+      },
+      {
+        "title": "AOMGen: Photoreal, Physics-Consistent Demonstration Generation for Articulated Object Manipulation",
+        "highlight": false
+      },
+      {
+        "title": "Environmental Understanding Vision-language Model for Embodied Agent",
+        "highlight": false
+      },
+      {
+        "title": "DEGround: An Effective Baseline for Ego-centric 3D Visual Grounding With a Homogeneous Framework",
+        "highlight": false
+      },
+      {
+        "title": "Prune-Then-Plan: Step-Level Calibration for Stable Frontier Exploration in Embodied Question Answering",
+        "highlight": false
+      },
+      {
+        "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+        "highlight": false
+      },
+      {
+        "title": "Plug-and-Think: Structured Reasoning for Vision–Language–Action Models",
+        "highlight": false
+      },
+      {
+        "title": "World Model Robustness via Surprise Recognition",
+        "highlight": false
+      },
+      {
+        "title": "PlanGS: Active 3D Gaussian Reconstruction with Real-Time Planning",
+        "highlight": false
+      },
+      {
+        "title": "A Simple Framework for Visual Navigation",
+        "highlight": false
+      },
+      {
+        "title": "Event-Based Optical Flow Leveraging Precise Event Timing",
+        "highlight": false
+      },
+      {
+        "title": "Generative Event Pretraining with Foundation Model Alignment",
+        "highlight": false
+      },
+      {
+        "title": "HelixTrack: Event‑Based Tracking and RPM Estimation of Propeller-like Objects",
+        "highlight": false
+      },
+      {
+        "title": "PEPR: Privileged Event-based Predictive Regularization for Domain Generalization",
+        "highlight": false
+      },
+      {
+        "title": "Unleashing the Potential of Event-Based Stereo Via Coarse-to-Fine Bio-Inspired Regression",
+        "highlight": false
+      },
+      {
+        "title": "Metric-Guided Feature Fusion of Visual Foundation Models for Segmentation Tasks",
+        "highlight": false
+      },
+      {
+        "title": "An Interpretable Alzheimer's Disease Diagnosis Model via Gray Matter Attention Guided Counterfactual Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Semantics: Disentangling Information Scope in Sparse Autoencoders for CLIP",
+        "highlight": false
+      },
+      {
+        "title": "CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Top-1: Forensic Analysis of Full Prediction Distributions Reveals Hidden Model Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Zero-Shot Textual Explanations via Translating Decision-Critical Features",
+        "highlight": false
+      },
+      {
+        "title": "DMin: Scalable Training Data Influence Estimation for Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "A Framework for Evaluating Zero-Shot Image Generation in Concept-Based Explainability",
+        "highlight": false
+      },
+      {
+        "title": "Self-Guided Integrated Gradient Method for Attribution",
+        "highlight": false
+      },
+      {
+        "title": "Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking",
+        "highlight": false
+      },
+      {
+        "title": "Discovering Attention Head Interactions in Vision Transformers",
+        "highlight": false
+      },
+      {
+        "title": "Value bounds and Convergence Analysis for Averages of LRP attributions",
+        "highlight": false
+      },
+      {
+        "title": "MReactor: Offline Multiple Appropriate Facial Reaction Generation with Hierarchical Cognitive Disentanglement",
+        "highlight": false
+      },
+      {
+        "title": "B-MoE: A Body-Part-Aware Mixture-of-Experts “All Parts Matter” Approach to Micro-Action Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Learning by Neighbor-Aware Semantics, Deciding by Open-Form Flows: Towards Robust Zero-Shot Skeleton Action Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Actionable Human Motion Generation via Latent Imitation and Fine-Grained Text Completion",
+        "highlight": false
+      },
+      {
+        "title": "GHOST: Fast Category-Agnostic Hand-Object Interaction Reconstruction from RGB Videos Using Gaussian Splatting",
+        "highlight": false
+      },
+      {
+        "title": "Hoi3DGen: Generating High-Quality Human-Object-Interactions in 3D",
+        "highlight": false
+      },
+      {
+        "title": "CoherentHand: Temporally Consistent 3D Hand Trajectory Synthesis with Semantic Motion Priors",
+        "highlight": false
+      },
+      {
+        "title": "Weakly Supervised Micro-Expression Spotting based on Boundary Refinement Mechanism and Cross-subject Learning Representation",
+        "highlight": false
+      },
+      {
+        "title": "FUSION: Full-body Unified Motion Prior for Body and Hands Via Diffusion",
+        "highlight": false
+      },
+      {
+        "title": "BridgeDiffusion: Latent Space Optimization for Independent Body-Part Generation with Motion Consistency Bridges in Interactive Dance",
+        "highlight": false
+      },
+      {
+        "title": "MARIO: Motion-Augmented Real-Time Multi-Sensor Inertial Odometry",
+        "highlight": false
+      },
+      {
+        "title": "BitTP: The Lightweight Trajectory Prediction Model with BitLLM for Edge-Devices",
+        "highlight": false
+      },
+      {
+        "title": "WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos",
+        "highlight": false
+      },
+      {
+        "title": "TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis",
+        "highlight": false
+      },
+      {
+        "title": "How2Sign-Synth3D: Markerless Holistic Sign Language Performance Capture and Synthetic Data for Dense Landmark Tracking",
+        "highlight": false
+      },
+      {
+        "title": "SocialMirror: Reconstructing 3D Human Interaction Behaviors from Monocular Videos with Semantic and Geometric Guidance",
+        "highlight": false
+      },
+      {
+        "title": "EggHand: A Multimodal Foundation Model for Egocentric Hand Pose Forecasting",
+        "highlight": false
+      },
+      {
+        "title": "Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space",
+        "highlight": false
+      },
+      {
+        "title": "VoxFace: Streaming Audio-Visual Synthesis via Relay-Style Multi-Token Prediction for Interactive Conversation",
+        "highlight": false
+      },
+      {
+        "title": "OmniHead: A Unified Model for Dynamic Nonverbal Facial Behaviors",
+        "highlight": false
+      },
+      {
+        "title": "Detecting Precise Hand Touch Moments in Egocentric Video",
+        "highlight": false
+      },
+      {
+        "title": "Less is More: Multimodal Human Pose Estimation with Selective Fusion",
+        "highlight": false
+      },
+      {
+        "title": "PHYLOMAN: Generative Behavior Control via Fusing LLM Planning and Physics-based Control",
+        "highlight": false
+      },
+      {
+        "title": "Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling",
+        "highlight": false
+      },
+      {
+        "title": "Learning Predictive Visuomotor Coordination",
+        "highlight": false
+      },
+      {
+        "title": "FSMC-Pose: Frequency and Spatial Fusion with Multiscale Self-Calibration for Cattle Mounting Pose Estimation",
+        "highlight": false
+      },
+      {
+        "title": "Bootstrapping Sign Language Annotations with Sign Language Models",
+        "highlight": false
+      },
+      {
+        "title": "OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation",
+        "highlight": false
+      },
+      {
+        "title": "THOM: Generating Physically Plausible Hand-Object Meshes From Text",
+        "highlight": false
+      },
+      {
+        "title": "ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors",
+        "highlight": false
+      },
+      {
+        "title": "All-Age Human Mesh Recovery",
+        "highlight": false
+      },
+      {
+        "title": "GeneFlow: Modeling Heredity and Variation via Flow Matching Transformers for Kinship Verification",
+        "highlight": false
+      },
+      {
+        "title": "Dynamic Full-body Motion Agent with Object Interaction via Blending Pre-trained Modular Controllers",
+        "highlight": false
+      },
+      {
+        "title": "MotionDuet: Dual-Conditioned 3D Human Motion Generation with Video-Regularized Text Learning",
+        "highlight": false
+      },
+      {
+        "title": "Fast-HOI: Fast Human-Object Interaction Synthesis via Distilled Interaction Prior and Physical Constrains",
+        "highlight": false
+      },
+      {
+        "title": "HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis",
+        "highlight": false
+      },
+      {
+        "title": "GeoHOI: Geometry-Enhanced Human-Object Interaction Video Generation via Hierarchical Multi-Modal Injection",
+        "highlight": false
+      },
+      {
+        "title": "TAUE: Training-free Noise Transplant and Cultivation Diffusion Model",
+        "highlight": false
+      },
+      {
+        "title": "GR-Diffusion: Graph-Guided Relational-Aware Diffusion via Attention Alignment",
+        "highlight": false
+      },
+      {
+        "title": "V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think",
+        "highlight": false
+      },
+      {
+        "title": "FREESTYLE: An Anchor-Free Mechanism for Training-Free Style-Aligned Image Generation",
+        "highlight": false
+      },
+      {
+        "title": "Is Your Text-to-Image Model Robust to Caption Noise?",
+        "highlight": false
+      },
+      {
+        "title": "Decomposing Subject-Driven Image Generation via Intermediate Structural Prediction",
+        "highlight": false
+      },
+      {
+        "title": "RectifiedHR: Enable Efficient High-Resolution Synthesis via Energy Rectification",
+        "highlight": false
+      },
+      {
+        "title": "ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding",
+        "highlight": false
+      },
+      {
+        "title": "Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don’t Know Galileo’s Principle...for now",
+        "highlight": false
+      },
+      {
+        "title": "Group Relative Attention Guidance for Image Editing",
+        "highlight": false
+      },
+      {
+        "title": "ControlPose: High-Fidelity Pose-Controlled Image Generation with Multi-Faceted Pose Disentanglement",
+        "highlight": false
+      },
+      {
+        "title": "FlowC2S: Flowing from Current to Succeeding Frames for Fast and Memory-Efficient Video Continuation",
+        "highlight": false
+      },
+      {
+        "title": "Latent-Compressed Variational Autoencoder for Video Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "Deep Parameter Interpolation for Scalar Conditioning",
+        "highlight": false
+      },
+      {
+        "title": "Mining Real-World Image Relations for Large-Scale Controllable Generation and Editing",
+        "highlight": false
+      },
+      {
+        "title": "Disentangle Once, Control All: A Unified and Efficient Framework for Disentangling Multi-Condition Control in Human Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "Gaussian Shannon: High-Precision Diffusion Model Watermarking Based on Communication",
+        "highlight": false
+      },
+      {
+        "title": "Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "Text-Driven Reasoning Video Editing via Reinforcement Learning on Digital Twin Representations",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Optimal Transport: Model-Aligned Coupling for Flow Matching",
+        "highlight": false
+      },
+      {
+        "title": "Stochastic Perturbations Improve Distribution-to-Distribution Generative Models",
+        "highlight": false
+      },
+      {
+        "title": "StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space",
+        "highlight": false
+      },
+      {
+        "title": "FA-MoE: Improving Medical Image Generation Through Frequency-Aware Mixture of Experts",
+        "highlight": false
+      },
+      {
+        "title": "Generated Reality: Human-Centric World Simulation Using Interactive Video Generation with Hand and Camera Control",
+        "highlight": false
+      },
+      {
+        "title": "VHOI: Controllable Video Generation of Human–Object Interactions from Sparse Trajectories via Motion Densification",
+        "highlight": false
+      },
+      {
+        "title": "LoViC: Efficient Long Video Generation with Context Compression",
+        "highlight": false
+      },
+      {
+        "title": "FedErase: Personalized Federated Unlearning for Text-to-Image Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "Earthquake-Bench: Video Generation Benchmark for Earthquake Simulation",
+        "highlight": false
+      },
+      {
+        "title": "OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models",
+        "highlight": false
+      },
+      {
+        "title": "Block Cascading: Training Free Acceleration of Block-Causal Video Models",
+        "highlight": false
+      },
+      {
+        "title": "Activation-Norm Maximization to Accelerate Training in Flow-Matching Transformers",
+        "highlight": false
+      },
+      {
+        "title": "FREE: Uncertainty-Aware Autoregression for Parallel Diffusion Transformers",
+        "highlight": false
+      },
+      {
+        "title": "No Cache Left Idle: Accelerating diffusion model via Extreme-Slimming Caching",
+        "highlight": false
+      },
+      {
+        "title": "Inference-Time Alignment of Diffusion Models with Evolutionary Algorithms",
+        "highlight": false
+      },
+      {
+        "title": "TokenErase: Robust Concept Erasure via Visual-Injected Token Optimization",
+        "highlight": false
+      },
+      {
+        "title": "VisionCreator: A Native Visual-Generation Agentic Model with Understanding, Thinking, Planning and Creation",
+        "highlight": false
+      },
+      {
+        "title": "Animated-ART: Multi-Layer Transparent Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "Rethinking Conditioning in Diffusion Models: Dynamic Token Scheduling for Efficient and Aligned Text-to-Image Generation",
+        "highlight": false
+      },
+      {
+        "title": "Attention-Guided Energy Optimization for Label-Aligned Anomaly Generation",
+        "highlight": false
+      },
+      {
+        "title": "USV: Uniﬁed Sparsiﬁcation for Accelerating Video Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "OminPSD: Layered PSD Generation with Diffusion Transformer",
+        "highlight": false
+      },
+      {
+        "title": "Video2LoRA: Unified Semantic-Controlled Video Generation via Per-Reference-Video LoRA",
+        "highlight": false
+      },
+      {
+        "title": "Depth Adaptive Efficient Visual Autoregressive Modeling",
+        "highlight": false
+      },
+      {
+        "title": "Cross-Resolution Diffusion Models Via Network Pruning",
+        "highlight": false
+      },
+      {
+        "title": "FrameDiT: Diffusion Transformer with Matrix Attention for Efficient Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "Understanding Reward Hacking in Text-to-Image Reinforcement Learning",
+        "highlight": false
+      },
+      {
+        "title": "OminiControl2: Efficient Conditioning for Diffusion Transformers",
+        "highlight": false
+      },
+      {
+        "title": "Seen-to-Scene: Keep the Seen, Generate the Unseen for Video Outpainting",
+        "highlight": false
+      },
+      {
+        "title": "AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "MoVieDrive: Urban Scene Synthesis with Multi-Modal Multi-View Video Diffusion Transformer",
+        "highlight": false
+      },
+      {
+        "title": "InstaDA: Augmenting Instance Segmentation Data with Dual-Agent System",
+        "highlight": false
+      },
+      {
+        "title": "One Model for All: Unified Try-On and Try-Off in Any Pose via LLM-Inspired Bidirectional Tweedie Diffusion",
+        "highlight": false
+      },
+      {
+        "title": "Adversarial Concept Distillation for One-Step Diffusion Personalization",
+        "highlight": false
+      },
+      {
+        "title": "DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "Anomaly Agent: Unified Anomaly Retrieval and Synthesis Before Manufacturing",
+        "highlight": false
+      },
+      {
+        "title": "S^2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "UniLat3D: Geometry-Appearance Unified Latents for Single-Stage 3D Generation",
+        "highlight": false
+      },
+      {
+        "title": "ColorMam: Color-Aware State Space Model for Image Color Style Transfer",
+        "highlight": false
+      },
+      {
+        "title": "NumeriKontrol: Adding Numeric Control to Diffusion Transformers for Instruction-based Image Editing",
+        "highlight": false
+      },
+      {
+        "title": "Towards Source-Aware Object Swapping with Initial Noise Perturbation",
+        "highlight": false
+      },
+      {
+        "title": "SyntheticManga: Training-Free Manga Generation with Phased Diffusion",
+        "highlight": false
+      },
+      {
+        "title": "Fast Autoregressive Video Generation with Diagonal Decoding",
+        "highlight": false
+      },
+      {
+        "title": "E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models",
+        "highlight": false
+      },
+      {
+        "title": "Bind-Your-Avatar: Multi-Character-Talking Video Generation with Dynamic 3D-mask-based Embedding Router",
+        "highlight": false
+      },
+      {
+        "title": "SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations",
+        "highlight": false
+      },
+      {
+        "title": "PEDRA: Evaluating the Realism of Pedestrian Dynamics in Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning",
+        "highlight": false
+      },
+      {
+        "title": "Jano: Adaptive Diffusion Generation with Early-Stage Convergence Awareness",
+        "highlight": false
+      },
+      {
+        "title": "Low-Bitrate Video Compression through Semantic-Conditioned Diffusion",
+        "highlight": false
+      },
+      {
+        "title": "Decoupled Scale-wise Autoregressive Modeling for Visual Generation",
+        "highlight": false
+      },
+      {
+        "title": "TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "Future Optical Flow Prediction Improves Robot Control and Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "Stepper: Stepwise Immersive Scene Generation with Multiview Panoramas",
+        "highlight": false
+      },
+      {
+        "title": "Drive-Cascade: Autoregressive Occupancy to LiDAR and Video Synthesis",
+        "highlight": false
+      },
+      {
+        "title": "ADAPT: Attention Driven Adaptive Prompt Scheduling and InTerpolating Orthogonal Complements for Rare Concepts Generation",
+        "highlight": false
+      },
+      {
+        "title": "Concept Erasure via Attention Redirection",
+        "highlight": false
+      },
+      {
+        "title": "Loom: Diffusion-Transformer for Interleaved Generation",
+        "highlight": false
+      },
+      {
+        "title": "Rethinking Training Dynamics in Scale-Wise Autoregressive Generation",
+        "highlight": false
+      },
+      {
+        "title": "HiStream: Efficient High-Resolution Video Generation via Redundancy Eliminated Streaming",
+        "highlight": false
+      },
+      {
+        "title": "Eevee: Towards Close-up High-resolution Video-based Virtual Try-on",
+        "highlight": false
+      },
+      {
+        "title": "Consistent Video Editing as Flow-Driven Image-to-Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "IM-Animation: An Implicit Motion Representation for Identity-Decoupled Character Animation",
+        "highlight": false
+      },
+      {
+        "title": "UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation",
+        "highlight": false
+      },
+      {
+        "title": "Generative Visual Chain-of-Thought for Image Editing",
+        "highlight": false
+      },
+      {
+        "title": "UniLayDiff: A Unified Diffusion Transformer for Content-Aware Layout Generation",
+        "highlight": false
+      },
+      {
+        "title": "Blend-Aware Latent Diffusion: Mitigating Stitched Seams in Image Inpainting",
+        "highlight": false
+      },
+      {
+        "title": "One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation",
+        "highlight": false
+      },
+      {
+        "title": "RealDiffusion: Physics-informed Attention for Multi-character Storybook Generation",
+        "highlight": false
+      },
+      {
+        "title": "SwiftPie: Lightning-fast Subject-driven Image Personalization via One step Diffusion",
+        "highlight": false
+      },
+      {
+        "title": "Video Generation Models are Good Latent Reward Models",
+        "highlight": false
+      },
+      {
+        "title": "Harnessing Layered Graphic Designs with Real Intentions for Text-to-Design Generation",
+        "highlight": false
+      },
+      {
+        "title": "VeCoR — Velocity Contrastive Regularization for Flow Matching",
+        "highlight": false
+      },
+      {
+        "title": "CETCam: Camera-Controllable Video Generation via Consistent and Extensible Tokenization",
+        "highlight": false
+      },
+      {
+        "title": "SafetyBPO: Bidirectional Preference Optimization for Safe Text-to-Image Generation",
+        "highlight": false
+      },
+      {
+        "title": "Fashion130K: An E-commerce Fashion Dataset for Outfit Generation with Unified Multi-modal Condition",
+        "highlight": false
+      },
+      {
+        "title": "PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "DebFilter: Eradicating Biases Stashed in Value",
+        "highlight": false
+      },
+      {
+        "title": "PEdit: Pareto-Guided Image Editing via Dynamic Latent Trajectory Control",
+        "highlight": false
+      },
+      {
+        "title": "Prompt-Guided Image Editing with Masked Logit Nudging in Visual Autoregressive Models",
+        "highlight": false
+      },
+      {
+        "title": "Pioneering Perceptual Video Fluency Assessment: A Novel Task with Benchmark Dataset and Baseline",
+        "highlight": false
+      },
+      {
+        "title": "Adapting Large VLMs with Iterative and Manual Instructions for Generative Low-light Enhancement",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Pixel Loss: Video-INRs Prefer Perceptual Optimization",
+        "highlight": false
+      },
+      {
+        "title": "MVSSM: Motion-aware Visual State Space Model for Efficient Video Deblurring",
+        "highlight": false
+      },
+      {
+        "title": "PrismNet: Semantic-Aware Image Enhancement via Vision Transformer and Zero-Cost Gating",
+        "highlight": false
+      },
+      {
+        "title": "FLAIR: Frequency- and Locality-Aware Implicit Neural Representations",
+        "highlight": false
+      },
+      {
+        "title": "CtrlISP: Rescuing Low-Light RAW Images via Controllable Neural ISP",
+        "highlight": false
+      },
+      {
+        "title": "Deepfake-Agent: Aggregating Semantic Forgery Clues for Generalizable Detection",
+        "highlight": false
+      },
+      {
+        "title": "How far have we gone in Generative Image Restoration? A study on its capability, limitations and evaluation practices",
+        "highlight": false
+      },
+      {
+        "title": "PCSTracker: Long-term Scene Flow Estimation for Point Cloud Sequences",
+        "highlight": false
+      },
+      {
+        "title": "POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP",
+        "highlight": false
+      },
+      {
+        "title": "Semantic-Aware Spectral Reconstruction: A Spectral Library-Aided Unsupervised Method Based on the Diffusion Model",
+        "highlight": false
+      },
+      {
+        "title": "Linear Recurrent Unit with Semantic Modulation for Image Super-Resolution",
+        "highlight": false
+      },
+      {
+        "title": "RodNet: Visual Pathway-Inspired Adaptive Sparse Network for Efficient Low-Light Image Enhancement",
+        "highlight": false
+      },
+      {
+        "title": "LWTformer: A Detail-Aware, Learnable Wavelet-Transformer for Ancient Chinese Character Image Restoration",
+        "highlight": false
+      },
+      {
+        "title": "SAT: Selective Aggregation Transformer for Image Super-Resolution",
+        "highlight": false
+      },
+      {
+        "title": "PhyFusion: Physics-Aware Infrared and Visible Image Fusion via Modality-Specific Physical Priors",
+        "highlight": false
+      },
+      {
+        "title": "UnfoldIR: Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration",
+        "highlight": false
+      },
+      {
+        "title": "Evaluating Low-Light Image Enhancement Across Multiple Intensity Levels",
+        "highlight": false
+      },
+      {
+        "title": "FALCON: Fast Adaptive Lightweight Computation of Intensities and Events for Depth Estimation",
+        "highlight": false
+      },
+      {
+        "title": "Learning to Translate Noise for Robust Image Denoising",
+        "highlight": false
+      },
+      {
+        "title": "QDM: Quadtree-Based Region-Adaptive Sparse Diffusion Models for Efficient Image Super-Resolution",
+        "highlight": false
+      },
+      {
+        "title": "AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution",
+        "highlight": false
+      },
+      {
+        "title": "Optical Tolerance-Compensated Diffusion Model for Image Restoration",
+        "highlight": false
+      },
+      {
+        "title": "TinySR: Shallow Diffusion Transformers for Real-World Image Super-Resolution",
+        "highlight": false
+      },
+      {
+        "title": "Inf-Dehaze: Beyond GPU Memory Constraints for Ultra-High-Resolution Image Dehazing",
+        "highlight": false
+      },
+      {
+        "title": "DenoiseGS: Gaussian Reconstruction Model for Burst Denoising",
+        "highlight": false
+      },
+      {
+        "title": "FlowSteer: Conditioning Flow Field for Consistent Image Restoration",
+        "highlight": false
+      },
+      {
+        "title": "P^2CS: Parallel Point Cloud Pre-Training with Semantic Consistency",
+        "highlight": false
+      },
+      {
+        "title": "Towards Calibrated Gradient-based Multi-Task Learning",
+        "highlight": false
+      },
+      {
+        "title": "Brain-Inspired Multimodal Spike Neural Network for Image-Text Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "Conformal Cross-Modal Active Learning",
+        "highlight": false
+      },
+      {
+        "title": "Deep-to-Shallow Knowledge Transfer:Multi-Scale Self-Distillation with Bidirectional Aware for 3D Brain Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "MedSAD-CLIP: Supervised CLIP with Token-Patch Cross-Attention for Medical Anomaly Detection and Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Rethinking Whole-Body CT Image Interpretation: An Abnormality-Centric Approach",
+        "highlight": false
+      },
+      {
+        "title": "Generative Vision-Language Multiple Instance Learning for Weakly Supervised Neonatal Fundus Screening and Reporting",
+        "highlight": false
+      },
+      {
+        "title": "Mitigating Batch Effects in Histopathology via Language-Mediated Robust Embedding Generation",
+        "highlight": false
+      },
+      {
+        "title": "PTF-CT: Polar-Aware Temporal-Frequential Iterative Reconstruction for Sparse-View CT",
+        "highlight": false
+      },
+      {
+        "title": "Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM",
+        "highlight": false
+      },
+      {
+        "title": "Towards Noise-Robust Medical Segmentation via Chebyshev-Attention-Based Asymmetric UNet",
+        "highlight": false
+      },
+      {
+        "title": "Two-Stage 3D Pulmonary Vessel Reconstruction via Trunk--Expansion Coupled Point Cloud Generation",
+        "highlight": false
+      },
+      {
+        "title": "A Simple yet Effective Data Scaling Strategy for Semi-Supervised Medical Image Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "DepthScopy: Decoupling Frequency for Endoscopic Depth Estimation in Sparsely-Textured Regions",
+        "highlight": false
+      },
+      {
+        "title": "ReCliFF: Adaptive Orthogonal Decoupling for Federated Fine-tuning of Medical MLLMs",
+        "highlight": false
+      },
+      {
+        "title": "Volumetrically Consistent Implicit Atlas Learning via Neural Diffeomorphic Flow for Placenta MRI",
+        "highlight": false
+      },
+      {
+        "title": "Vision-Language Models for Automated 3D PET/CT Report Generation",
+        "highlight": false
+      },
+      {
+        "title": "PaM-MIL: Proliferation and Metastasis Enhanced Localization for Multiple Instance Learning on Pathology Images",
+        "highlight": false
+      },
+      {
+        "title": "Surgical Procedural Planning as 3D World Modelling: Towards Automated Pulmonary Resection",
+        "highlight": false
+      },
+      {
+        "title": "From Adaptation to Generalization: Adaptive Visual Prompting for Medical Image Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "AceMIL: Ordinal-Aware Multiple Instance Learning for Pathological Progression Analysis",
+        "highlight": false
+      },
+      {
+        "title": "PhySe-RPO: Physics and Semantics Guided Relative Policy Optimization for Diffusion-Based Surgical Smoke Removal",
+        "highlight": false
+      },
+      {
+        "title": "Anatomy-CoT: Teaching MLLMs to Reason in Radiology",
+        "highlight": false
+      },
+      {
+        "title": "DELRER: Disease Evolution-Informed Longitudinal Radiology Report Generation",
+        "highlight": false
+      },
+      {
+        "title": "M^4Fuse: Lightweight State-Space MoE with a Cross-Scale Gating Bridge for Brain Tumor Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "DynaMind: Reconstructing Dynamic Visual Scenes from EEG by Aligning Temporal Dynamics and Multimodal Semantics to Guided Diffusion",
+        "highlight": false
+      },
+      {
+        "title": "MAE-XNT: A Foundation Model for Segmenting Neuronal Tissue Volumes Generated with X-Ray Nanotomography",
+        "highlight": false
+      },
+      {
+        "title": "NAKUL-Med: Spectral-Graph State Space Models with Dynamics Kernels for Medical Signals",
+        "highlight": false
+      },
+      {
+        "title": "Gaze into the Details: Locality-Sensitive Enhancement for OCTA Retinal Vessel Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "M^3D-BFS: a Multi-Stage Dynamic Fusion Strategy for Sample-Adaptive Multi-Modal Brain Network Analysis",
+        "highlight": false
+      },
+      {
+        "title": "Multimodal Decoupled Dynamic Graph Learning for Brain Disease Diagnosis",
+        "highlight": false
+      },
+      {
+        "title": "TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning",
+        "highlight": false
+      },
+      {
+        "title": "TP-Seg: Task-Prototype Framework for Unified Medical Lesion Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "C3-Diff: Super-resolving Spatial Transcriptomics via Cross-modal Cross-content Contrastive Diffusion Modelling",
+        "highlight": false
+      },
+      {
+        "title": "MeMix: Multi-Encoder Mixture Framework for Medical Report Generation",
+        "highlight": false
+      },
+      {
+        "title": "Learning Spatial-Preserving Hierarchical Representations for Digital Pathology",
+        "highlight": false
+      },
+      {
+        "title": "Open-Set Spatial Gene Expression Prediction from Histological Images via Retrieval-Augmented Generation",
+        "highlight": false
+      },
+      {
+        "title": "Personalized Functional Brain Network Modeling with Adaptive Auto-Weighted Learning for Automatic Brain Disorder Diagnosis",
+        "highlight": false
+      },
+      {
+        "title": "Do Vision Models Perceive Illusory Motion in Static Images Like Humans?",
+        "highlight": false
+      },
+      {
+        "title": "Meta-CDMTransNet: Cross-Domain Multi-Scale Transformer Meta-Learning Framework for Few-Shot Breast Histopathological Image Classification",
+        "highlight": false
+      },
+      {
+        "title": "PLCReg: Correlation-Aware Polar-Linear Attention for Guiding Medical Image Registration",
+        "highlight": false
+      },
+      {
+        "title": "A Denoising-Enhanced Multimodal Learning Framework for Robust Nasal Endoscopy Report Generation",
+        "highlight": false
+      },
+      {
+        "title": "When Models Learn to Ask Why: Adaptive Causal Reasoning for Trustworthy Medical Vision–Language Models",
+        "highlight": false
+      },
+      {
+        "title": "PBSBench: A Multi-Level Vision-Language Framework and Benchmark for Hematopathology Whole Slide Image Interpretation",
+        "highlight": false
+      },
+      {
+        "title": "Gated Differential Linear Attention: A Linear-Time Decoder for High-Fidelity Medical Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "PGDM: Physics-Guided Noise-Free Diffusion Model Based on Point Spread Function for Light-Scattering Removal in Unpaired Biomedical Images",
+        "highlight": false
+      },
+      {
+        "title": "Elicit and Enhance: Advancing Multimodal Reasoning in Medical Scenarios",
+        "highlight": false
+      },
+      {
+        "title": "Anatomy-Aware Adaptive Feature Perturbation Framework for Semi-Supervised MRI Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "EI: Early Intervention for Multimodal Imaging Based Disease Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Rethinking Medical High-Modality Learning Under Missingness — A Long-Tailed Distribution Perspective",
+        "highlight": false
+      },
+      {
+        "title": "HazeMatching: Dehazing Light Microscopy Images with Guided Conditional Flow Matching",
+        "highlight": false
+      },
+      {
+        "title": "Learning Priors via Hybrid Visual Autoregressive Modeling for Medical Image to Image Translation",
+        "highlight": false
+      },
+      {
+        "title": "BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis",
+        "highlight": false
+      },
+      {
+        "title": "RelativeFlow: Taming Medical Image Denoising Learning with Noisy Reference",
+        "highlight": false
+      },
+      {
+        "title": "UGLMM: Towards Unified Vision Grounding with Large Multimodal Model",
+        "highlight": false
+      },
+      {
+        "title": "FIRE-CIR: Fine-grained Reasoning for Composed Fashion Image Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "Training-Free Cross-Modal Alignment via Anchor Profiles with Statistical Significance Testing",
+        "highlight": false
+      },
+      {
+        "title": "CREM: Compression-Driven Representation Enhancement for Multimodal Retrieval and Comprehension",
+        "highlight": false
+      },
+      {
+        "title": "LLM Guided Multi Style Typography and Layout Generation via Dynamic Direct Preference Optimization",
+        "highlight": false
+      },
+      {
+        "title": "FusionBridge: An Efficient Fusion Via Feature Disentanglement for Multi-Modal Object Re-Identification",
+        "highlight": false
+      },
+      {
+        "title": "LlamaRG: A Multi-View Large Language Model for Radiology Report Generation",
+        "highlight": false
+      },
+      {
+        "title": "Mitigating Information Forgetting via Entropy-Driven Progressive Retrospection for Multimodal Long Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression",
+        "highlight": false
+      },
+      {
+        "title": "R²MoE: Representation and Expert Selection Dual-Regularized Mixture-of-Experts for Multimodal Clinical Data",
+        "highlight": false
+      },
+      {
+        "title": "DUALVISION: RGB–Infrared Multimodal Large Language Models for Robust Visual Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Parallel In-context Learning for Large Vision Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning",
+        "highlight": false
+      },
+      {
+        "title": "Prototype and Sample Level Semantic Alignment for Incomplete Multi-View Clustering",
+        "highlight": false
+      },
+      {
+        "title": "Rethinking VLMs for Image Forgery Detection and Localization",
+        "highlight": false
+      },
+      {
+        "title": "DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization",
+        "highlight": false
+      },
+      {
+        "title": "OTPrune: Distribution-Aligned Visual Token Pruning Via Optimal Transport",
+        "highlight": false
+      },
+      {
+        "title": "Causal Chain-Guided Reasoning for Modular and Explainable Causal-Why Video Question Answering",
+        "highlight": false
+      },
+      {
+        "title": "Materialistic RIR: Material Conditioned Realistic RIR Generation",
+        "highlight": false
+      },
+      {
+        "title": "From Coarse to Precise: Rethinking and Bridging Localization in Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Do Audio-Visual Large Language Models Really See and Hear?",
+        "highlight": false
+      },
+      {
+        "title": "DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation",
+        "highlight": false
+      },
+      {
+        "title": "FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning",
+        "highlight": false
+      },
+      {
+        "title": "Anticipatory Planning for Multimodal AI Agents",
+        "highlight": false
+      },
+      {
+        "title": "Quantifying the Gap between Understanding and Generation within Unified Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "VideoScaffold: Elastic-Scale Visual Hierarchies for Streaming Video Understanding in MLLMs",
+        "highlight": false
+      },
+      {
+        "title": "Concise Geometric Description as a Bridge: Unleashing the Potential of LLM for Plane Geometric Problem Solving",
+        "highlight": false
+      },
+      {
+        "title": "HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding",
+        "highlight": false
+      },
+      {
+        "title": "A Diagnostic Study of Region-Based Representations in Multimodal LLMs",
+        "highlight": false
+      },
+      {
+        "title": "HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model",
+        "highlight": false
+      },
+      {
+        "title": "UMI-HOI: Unifying Multimodal Information with Semantic Multi-Head Attention for Human–Object Interaction Detection",
+        "highlight": false
+      },
+      {
+        "title": "AnatomiX, an Anatomy-Aware Grounded Multimodal Large Language Model for Chest X-Ray Interpretation",
+        "highlight": false
+      },
+      {
+        "title": "Visual2Echo Compositional Contrastive Learning (V2E-CCL): Binaural Knowledge Distilled Network for Depth Prediction",
+        "highlight": false
+      },
+      {
+        "title": "TextBind: Your Vision-Language Models are Naturally Unified Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "Learning to Walk the Right Paths: Task-Responsive Graph Reasoning for Multimodal Inference",
+        "highlight": false
+      },
+      {
+        "title": "CLASH: A Benchmark for Cross-Modal Contradiction Detection",
+        "highlight": false
+      },
+      {
+        "title": "DA-CLIP: Mitigating Granularity Mismatch in Zero-Shot Anomaly Detection via Decoupled Text-Visual Alignment",
+        "highlight": false
+      },
+      {
+        "title": "HAIT: Hybrid Adversarial Iterative Training for Mitigating Object Hallucination in Large Vision–Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Cross-Modal-Domain Generalization Through Semantically Aligned Discrete Representations",
+        "highlight": false
+      },
+      {
+        "title": "CP-IMoE: Collaborative Prompt-Guided Interactive Mixture-of-Experts for Incomplete Multimodal Learning",
+        "highlight": false
+      },
+      {
+        "title": "Vision Inference Former: Sustaining Visual Consistency in Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "PaLMR: Towards Faithful Visual Reasoning via Multimodal Process Alignment",
+        "highlight": false
+      },
+      {
+        "title": "If you can describe it, they can see it: Cross-Modal Learning of Visual Concepts from Textual Descriptions",
+        "highlight": false
+      },
+      {
+        "title": "LiteEmbed: Adapting CLIP to Rare Classes",
+        "highlight": false
+      },
+      {
+        "title": "CADReasoner: Iterative Program Editing for CAD Reverse Engineering",
+        "highlight": false
+      },
+      {
+        "title": "COSTA: Collaborative Open-Set Test-Time Adaptation Through Robust Prototype Learning",
+        "highlight": false
+      },
+      {
+        "title": "Perturb and Recover: Fine-Tuning for Effective Backdoor Removal from CLIP",
+        "highlight": false
+      },
+      {
+        "title": "PrismPrune: Decoupling Saliency and Diversity in Attention for Efficient Visual Token Pruning in VLMs",
+        "highlight": false
+      },
+      {
+        "title": "Scaling Pre-training to One Hundred Billion Data for Vision Language Models",
+        "highlight": false
+      },
+      {
+        "title": "HAFM: A Post-Fusion Gating Module for Haze-Aware RGB–Thermal Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "CaptAin: Caption-driven Alignment for Bridging Modality Gaps in Partially Relevant Video Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "HeartcareGPT: A Unified Multimodal ECG Suite for Dual Signal–Image Modeling and Understanding",
+        "highlight": false
+      },
+      {
+        "title": "Unbiased Dynamic Multimodal Fusion",
+        "highlight": false
+      },
+      {
+        "title": "Video Reasoning Without Training",
+        "highlight": false
+      },
+      {
+        "title": "Efficient Discrete Diffusion Model for Scalable Multi-Objective Traveling Salesman Problem",
+        "highlight": false
+      },
+      {
+        "title": "EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching",
+        "highlight": false
+      },
+      {
+        "title": "S³O: Selective Spatial-Spectral Operator for Cross-Scale Fusion",
+        "highlight": false
+      },
+      {
+        "title": "Fast Kernel-Space Diffusion for Remote Sensing Pansharpening",
+        "highlight": false
+      },
+      {
+        "title": "Unified Urban Tuning: Co-Enhancing Satellite and Street View Reasoning with a Progressive Tuning Framework",
+        "highlight": false
+      },
+      {
+        "title": "GReD-RSITR: A Generative Re-Examined Discriminative Framework for Remote Sensing Image-Text Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "ZODS-RS — Zero-Training Oriented Detection & Segmentation for Remote Sensing",
+        "highlight": false
+      },
+      {
+        "title": "Turning Generators into Retrievers: Unlocking MLLMs for Natural Language-Guided Geo-Localization",
+        "highlight": false
+      },
+      {
+        "title": "Optimal-Transport-based Feature Alignment for Multimodal Change Detection",
+        "highlight": false
+      },
+      {
+        "title": "HarmoniDiff-RS: Training-Free Diffusion Harmonization for Satellite Image Composition",
+        "highlight": false
+      },
+      {
+        "title": "CrossWeaver: Towards Efficient Cross-Modal Interweaving and Decoupling for Weakly-Aligned Multispectral Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "ProSM: Progressive Soft Masking for Fine-Grained Remote Image Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Shared–Private Multimodal Decomposition",
+        "highlight": false
+      },
+      {
+        "title": "OffNadirLoc: Benchmark and Framework for Challenging UAV-to-Satellite Geo-Localization under Large Off-Nadir Views",
+        "highlight": false
+      },
+      {
+        "title": "M-PhyGs: Multi-Material Object Dynamics from Video",
+        "highlight": false
+      },
+      {
+        "title": "Diffusion^2: Turning 3D Environments into Radio Frequency Heatmaps",
+        "highlight": false
+      },
+      {
+        "title": "Controllable Radar Simulation with Waveform Parameter Embedding",
+        "highlight": false
+      },
+      {
+        "title": "mmDiff: A Noise-Robust Differentiable Ray-Tracing Framework for mmWave Scene Calibration and Channel Prediction",
+        "highlight": false
+      },
+      {
+        "title": "GLOW: Global Illumination-Aware Inverse Rendering of Indoor Scenes Captured with Dynamic Co-Located Light & Camera",
+        "highlight": false
+      },
+      {
+        "title": "Scene-Level Heterogeneous Physics Simulation with 3D Gaussian Splats",
+        "highlight": false
+      },
+      {
+        "title": "How to Achieve Prototypical Birth and Death for OOD Detection?",
+        "highlight": false
+      },
+      {
+        "title": "Uncertainty-Aware Cross-Modal Opinion Interaction: A General Frameworkfor Visible-Infrared Vehicle and Person Re-Identification",
+        "highlight": false
+      },
+      {
+        "title": "EIRES:Training-free AI-Generated Image Detection via Edit-Induced Reconstruction Error Shift",
+        "highlight": false
+      },
+      {
+        "title": "Vote-in-Context: VLMs as Explainable Zero-Shot Rank Fusers",
+        "highlight": false
+      },
+      {
+        "title": "PRADA: Probability-Ratio-Based Attribution and Detection of Autoregressive-Generated Images",
+        "highlight": false
+      },
+      {
+        "title": "HypHOI: Exploring Hierarchical Hyperbolic Embeddings for Human-Object Interaction Detection",
+        "highlight": false
+      },
+      {
+        "title": "A Low-Rank Learning Framework Integrating Detection, Masking, and Recovery for Occluded Facial Expression Recognition",
+        "highlight": false
+      },
+      {
+        "title": "DSAA: Dual-Stage Attribute Activation for Fine-Grained Open Vocabulary Detection",
+        "highlight": false
+      },
+      {
+        "title": "ConSel: Concept-Aware Self-supervised Learning for Regression Beyond Ordinal Tasks",
+        "highlight": false
+      },
+      {
+        "title": "Rolling and Denoising: Rethinking Dynamic Modal Fusion for Multi-Modal Object Re-Identification",
+        "highlight": false
+      },
+      {
+        "title": "Adapting with an Open Mind: Leveraging Open-Vocabulary Detectors for Closed Set Source-Free Domain Adaptive Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "SFS-DETR: Spatial-Frequency Selection for UAV Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "ForenDeX: Unlocking Forensic Insights for Explainable AI-Generated Image Detection",
+        "highlight": false
+      },
+      {
+        "title": "Long-Tailed Out-of-Distribution Detection with Refined Separate Class Learning",
+        "highlight": false
+      },
+      {
+        "title": "Bridging Day and Night: Unsupervised Cross-Domain Re-Identification with Synergistic Prompt and Prototype Learning",
+        "highlight": false
+      },
+      {
+        "title": "Advancing Open-Set Detection and Segmentation via Disentangled Representations",
+        "highlight": false
+      },
+      {
+        "title": "Disrupting Positional Encoding for Effective Open Set Recognition",
+        "highlight": false
+      },
+      {
+        "title": "ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "Leave No Stone Unturned: Uncovering Holistic Audio-Visual Intrinsic Coherence for Deepfake Detection",
+        "highlight": false
+      },
+      {
+        "title": "Region-Aware Hierarchical Sub-Feature Alignment for Robust EEG-Based Visual Decoding",
+        "highlight": false
+      },
+      {
+        "title": "Super Sparse DETR：YOLO-Competitive Convergence and Acceleration",
+        "highlight": false
+      },
+      {
+        "title": "Bi-Level Optimization for Single Domain Generalization",
+        "highlight": false
+      },
+      {
+        "title": "SA-Matching DETR: A Lightweight Transformer Detector with Enhanced Scale Adaptive Matching",
+        "highlight": false
+      },
+      {
+        "title": "Asymmetric Collaborative Distillation for Asymmetric Image Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "OKGraph: Online Knowledge Graph Probing for Open-vocabulary Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Large Multimodal Models as General In-Context Classifiers",
+        "highlight": false
+      },
+      {
+        "title": "Indexing Multimodal Language Models for Large-scale Image Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "EvoPrompt-ReID: A Bilevel Optimization Framework for Prompt-Encoder Co-evolution in Image Re-Identification",
+        "highlight": false
+      },
+      {
+        "title": "Leveraging Arbitrary Data Sources for AI-Generated Image Detection Without Sacrificing Generalization",
+        "highlight": false
+      },
+      {
+        "title": "OmniGCD: Abstracting Generalized Category Discovery for Modality Agnosticism",
+        "highlight": false
+      },
+      {
+        "title": "PTAD: Pose and Texture Agnostic Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "Mitigating the ID–OOD Tradeoff in Open-Set Test-Time Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "Towards Universal Open-Set Visual Font Recognition Via Augmented Synthetic Similarity",
+        "highlight": false
+      },
+      {
+        "title": "VR-CLIP: Visual Refinement of CLIP for Zero-Shot Semantic Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Exploring Hierarchical Consistency and Unbiased Objectness for Open-Vocabulary Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "Once for All: An End-to-End Paradigm for VLM-Based Domain-Generalized Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "SoREL: Soft-Label Refurbishment with Ensemble Learning for Noisy Long-Tailed Classification",
+        "highlight": false
+      },
+      {
+        "title": "Unsupervised Graph Partitioning Framework for Background Suppression in Multi-Query Vehicle Re-Identification",
+        "highlight": false
+      },
+      {
+        "title": "Revisiting Real-Time Detection Transformer with Efficient Encoder Design",
+        "highlight": false
+      },
+      {
+        "title": "PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views",
+        "highlight": false
+      },
+      {
+        "title": "Ninja Codes: Neurally Generated Fiducial Markers for Stealthy 6-DoF Tracking",
+        "highlight": false
+      },
+      {
+        "title": "DetRefiner: Model-Agnostic Detection Refinement with Feature Fusion Transformer",
+        "highlight": false
+      },
+      {
+        "title": "SpHOR: A Representation Learning Perspective on Open-set Recognition for Identifying Unknown Classes in Deep Neural Networks",
+        "highlight": false
+      },
+      {
+        "title": "Complexity of Linear Regions in Self-supervised Deep ReLU Networks",
+        "highlight": false
+      },
+      {
+        "title": "Decoupled Sub-Feature Uncertainty Modeling for Robust Multimodal Representation Learning",
+        "highlight": false
+      },
+      {
+        "title": "Pre-trained Models Can Count (Almost): Exploring Quantitative Structure in Visual Representations",
+        "highlight": false
+      },
+      {
+        "title": "A-SelecT: Automatic Timestep Selection for Diffusion Transformer Representation Learning",
+        "highlight": false
+      },
+      {
+        "title": "HyperFM: A Efficient Hyperspectral Foundation Model with Spectral Grouping",
+        "highlight": false
+      },
+      {
+        "title": "Seeing Through Fog: Towards Fog-Invariant Action Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Reversing the Flow: Generation-to-Understanding Synergy in Large Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "FedAR: Attribute-Guided Representation Learning for Heterogeneous Federated Learning",
+        "highlight": false
+      },
+      {
+        "title": "ZeroDiff++: Balancing Semantic Diffusion Dynamics for Robust Zero-Shot Learning",
+        "highlight": false
+      },
+      {
+        "title": "Equivariant Unsupervised Object Detection with Learnable Riesz Transform and Composite Spatial Transformers",
+        "highlight": false
+      },
+      {
+        "title": "MART: Mechanism-disentanglement Anchor-Routed Training for Learning with Open-World Noisy Data",
+        "highlight": false
+      },
+      {
+        "title": "Online Interpretable Matrix Decomposition for Large-Scale Streaming Data",
+        "highlight": false
+      },
+      {
+        "title": "Object-Centric Vision Token Pruning for Vision Language Models",
+        "highlight": false
+      },
+      {
+        "title": "BrainStack: Neuro-MoE with Functionally Guided Expert Routing for EEG-Based Language Decoding",
+        "highlight": false
+      },
+      {
+        "title": "BiomedHELIX : HiErarchical-Local Interaction eXploration for Biomedical Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "From Fewer Samples to Fewer Bits: Reframing Dataset Distillation as Joint Optimization of Precision and Compactness",
+        "highlight": false
+      },
+      {
+        "title": "Seeing Helps Reasoning in Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Layer Embedding Deep Fusion Graph Neural Network",
+        "highlight": false
+      },
+      {
+        "title": "From Horizontal to Rotated: Cross-View Object Geo-Localization with Orientation Awareness",
+        "highlight": false
+      },
+      {
+        "title": "LinkedOut: Linking World Knowledge Representation Out of Video LLM for Next-Generation Video Recommendation",
+        "highlight": false
+      },
+      {
+        "title": "Learning to Reason: Targeted Knowledge Discovery and Fuzzy Logic Update for Robust Image Recognition",
+        "highlight": false
+      },
+      {
+        "title": "GaussFiller: Unleashing VLM-Expert Guidance for 3D Scene Completion with 3D Gaussian Splatting",
+        "highlight": false
+      },
+      {
+        "title": "GEODE: Geometry-Guided Discrete Diffusion for Open-Vocabulary 3D Scene Graph Generation",
+        "highlight": false
+      },
+      {
+        "title": "Map2Thought: Explicit 3D Spatial Reasoning via Metric Cognitive Maps",
+        "highlight": false
+      },
+      {
+        "title": "SCP: Spatial Causal Prediction in Video",
+        "highlight": false
+      },
+      {
+        "title": "SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery",
+        "highlight": false
+      },
+      {
+        "title": "Entropy-Constrained Information Optimal Transport for Multi-View Geo-Localization",
+        "highlight": false
+      },
+      {
+        "title": "Revisiting Image Manipulation Localization under Realistic Manipulation Scenarios",
+        "highlight": false
+      },
+      {
+        "title": "Learning to Wander: Improving the Global Image Geolocation Ability of LMMs via Actionable Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "CADRNet: Cognitively-Inspired Active Vision for 3D Reasoning Segmentation via Differentiable Rendering",
+        "highlight": false
+      },
+      {
+        "title": "Direct Language Embedding Enables Gaussian Splatting for Large Scenes",
+        "highlight": false
+      },
+      {
+        "title": "CogNet: Multi-Agent Collaborative Reasoning and Verification for Salient Object Ranking",
+        "highlight": false
+      },
+      {
+        "title": "MPerS: Dynamic MLLM MixExperts Perception-Guided Remote Sensing Scene Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Towards Generalization of Scene Text Tampering Localization via Causal Invariance",
+        "highlight": false
+      },
+      {
+        "title": "Background-Compensated Audio-Visual Semantic Modulation Framework for Audio-Visual Event Localization",
+        "highlight": false
+      },
+      {
+        "title": "POMA-3D: The Point Map Way to 3D Scene Understanding",
+        "highlight": false
+      },
+      {
+        "title": "Gazemo: Mimicking Human Saccades via Foveal-Peripheral Feature Modeling for Lightweight Semantic Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "MoonSeg3R: Monocular Online Zero-Shot Segment Anything in 3D with Reconstructive Foundation Priors",
+        "highlight": false
+      },
+      {
+        "title": "AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting",
+        "highlight": false
+      },
+      {
+        "title": "PrAda: Few-Shot Visual Adaptation for Text-Prompted Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Prompt-driven Small Object Instance Segmentation in Earth Observation",
+        "highlight": false
+      },
+      {
+        "title": "OV-Stitcher: A Global Context-Aware Framework for Training-Free Open Vocabulary Semantic Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Towards Complete Activation: Foreground-Background Multi-Perspective Guided Cross-Support for Few-Shot Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "MHMamba: Multi-Head Mamba for 3D Brain Tumor Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "ROSE: Retrieval-Oriented Segmentation Enhancement",
+        "highlight": false
+      },
+      {
+        "title": "ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Unify the Views: View-Consistent Prototype Learning for Few-Shot Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Autoregressive Universal Video Segmentation Model",
+        "highlight": false
+      },
+      {
+        "title": "FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning",
+        "highlight": false
+      },
+      {
+        "title": "Counterfactual Segmentation Reasoning: Diagnosing and Mitigating Pixel-Grounding Hallucination",
+        "highlight": false
+      },
+      {
+        "title": "Weakly-Supervised Referring Video Object Segmentation Through Text Supervision",
+        "highlight": false
+      },
+      {
+        "title": "TALENT: Target-Aware Efficient Tuning for Referring Image Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "DeepDP-TGMM: Amortized Non-Parametric Clustering for Hyperspherical Self-Supervised Representations",
+        "highlight": false
+      },
+      {
+        "title": "Proto-SaGa: Prototype-based 3D Scene Segmentation with Semantic-aware Gaussian Grouping",
+        "highlight": false
+      },
+      {
+        "title": "RecycleLoRA: Rank-Revealing QR-Based Dual-LoRA Subspace Adaptation for Domain Generalized Semantic Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Instruction-Focus-Prompt：Semantics-Driven Structural Prompts for Universal SAM Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning",
+        "highlight": false
+      },
+      {
+        "title": "VirPro: Visual-Referred Probabilistic Prompt Learning for Weakly-Supervised Monocular 3D Detection",
+        "highlight": false
+      },
+      {
+        "title": "A Single Pixel is All You Need: Weakly Supervised Medical Image Segmentation using Discrete Denoising Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "AdaMeta: Adaptive Meta-Learning with Dynamic Task Relational Inference for Few-shot learning",
+        "highlight": false
+      },
+      {
+        "title": "NRFP: A Noise-Robust Feature Plugin for Source-Free Domain Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "Label-Agnostic Category Discovery",
+        "highlight": false
+      },
+      {
+        "title": "Learning from Label Proportion with Dual-Proportion Constraints",
+        "highlight": false
+      },
+      {
+        "title": "Test-Time Distillation for Continual Model Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "Another BRIXEL in the Wall: Towards Cheaper Dense Features",
+        "highlight": false
+      },
+      {
+        "title": "Task-Specific Knowledge Improves Generalization: A Logits-Based Framework for Continual Learning of Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "DARN: Dynamic Adaptive Regularization Networks for Efficient and Robust Foundation Model Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "Training-Free Uncertainty-guided Logit Adjustment for Few-Shot Class-Incremental Learning",
+        "highlight": false
+      },
+      {
+        "title": "Model Merging on Loss Landscapes: A Geometric Perspective",
+        "highlight": false
+      },
+      {
+        "title": "DGD: Density Gradient-guided Diffusion for Long-Tailed Clustering",
+        "highlight": false
+      },
+      {
+        "title": "DGP: Dynamic Gradient Projection for Task-Adaptive Continual Learning",
+        "highlight": false
+      },
+      {
+        "title": "Bootstrap Your Own Classifier: Your Pretrained Vision Models are Secretly Strong Continual Learners",
+        "highlight": false
+      },
+      {
+        "title": "Memory-efficient Continual Learning with Prototypical Exemplar Condensation",
+        "highlight": false
+      },
+      {
+        "title": "Continual Adaptation of Vision Foundational Models for Semantic Segmentation in Adverse Weather",
+        "highlight": false
+      },
+      {
+        "title": "ReMem: A Dynamic Memory Evolution Detector for Zero-Shot Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Class-Aware Drift Compensation for Non-Uniform Semantic Shift in Continual Learning",
+        "highlight": false
+      },
+      {
+        "title": "Onboarding Without Forgetting: Hypernetwork Personalization with Data-Free Replay for Personalized Federated Learning",
+        "highlight": false
+      },
+      {
+        "title": "FedNPC: Stochastic Noise-driven Post-hoc Classifier Calibration Method for Federated Long-tailed Learning",
+        "highlight": false
+      },
+      {
+        "title": "Learning Multi-Modal Prototypes for Cross-Domain Few-Shot Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "MuSCM: Mutual Spatial Correlation Mapping for Class Incremental Detection Transformer",
+        "highlight": false
+      },
+      {
+        "title": "AFCL: Achieving Spatio-Temporal Invariance to Data Heterogeneity in Federated Continual Learning",
+        "highlight": false
+      },
+      {
+        "title": "SAGA: Semantic Anchor-Guided Alignment for Multi-Source Domain Adaptive Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "DEED: Dual-Channel Enhanced Ensemble Distillation for Uncertainty-Aware Recognition",
+        "highlight": false
+      },
+      {
+        "title": "Wake the Sleeping Weights: Sparsely-Activated Continual Test-Time Adaptation for Medical Image Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Dynamic Pseudo-Label Assignment and Consistent Prototypical Learning for Few-Shot Class-Incremental Learning",
+        "highlight": false
+      },
+      {
+        "title": "Hold-One-Shot-Out (HOSO) for Validation-Free Few-Shot CLIP Adapters",
+        "highlight": false
+      },
+      {
+        "title": "Learning through Creation: A Hash-Free Framework for On-the-Fly Category Discovery",
+        "highlight": false
+      },
+      {
+        "title": "Frequency-Guided Iterative Bi-directional Exchange Network for Cross-Domain Few-Shot Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Revisiting Prototype Rehearsal for Exemplar-Free Continual Learning: Manifold-Aware Boundary Sampling with Adaptive Class-Balanced Loss",
+        "highlight": false
+      },
+      {
+        "title": "SCOPE: Spatially Ordered Continual Learning for 3D Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Learning to Propose Pose for Category-Agnostic Objects via Joint Refinement with Co-Matching Supervision",
+        "highlight": false
+      },
+      {
+        "title": "Is Prompt Selection Necessary for Task-Free Online Continual Learning?",
+        "highlight": false
+      },
+      {
+        "title": "ReConText3D: Replay-based Continual Text-to-3D Generation",
+        "highlight": false
+      },
+      {
+        "title": "Now You See It, Now You Don't: Instant Concept Erasure for Safe Text-to-Image and Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "ECOC-IL: Robust and Efficient Label LDP for Imbalanced Learning",
+        "highlight": false
+      },
+      {
+        "title": "Safe Codebook: Token-Level Moderation for Safer Visual Autoregressive Generation",
+        "highlight": false
+      },
+      {
+        "title": "Towards Universal and Lightweight Coverless Image Steganography with Multimodal Large Language Models Assistance",
+        "highlight": false
+      },
+      {
+        "title": "A Visual Semantic Adaptive Watermark Grounded by Prefix-Tuning for Large Vision-Language Model",
+        "highlight": false
+      },
+      {
+        "title": "TriGuard-FL: A User-Centric Trust Triad in Federated Learning via Auditable Data, Verifiable Contributions, and Antidote-Driven Mitigation",
+        "highlight": false
+      },
+      {
+        "title": "Assessing the Reliability of Image Quality Metrics and Mitigating Quality Bias in Generative Models",
+        "highlight": false
+      },
+      {
+        "title": "Efficient Unlearning through Maximizing Relearning Convergence Delay",
+        "highlight": false
+      },
+      {
+        "title": "Robust Continual Unlearning against Knowledge Erosion and Forgetting Reversal",
+        "highlight": false
+      },
+      {
+        "title": "Memorization In Stable Diffusion Is Unexpectedly Driven by CLIP Embeddings",
+        "highlight": false
+      },
+      {
+        "title": "RAZOR: Ratio-Aware Layer Editing for Targeted Unlearning in Vision Transformers and Diffusion Models",
+        "highlight": false
+      },
+      {
+        "title": "FedOrtho: Efficient Federated Unlearning Via Orthogonal Convolution and Adaptive Soft Pruning",
+        "highlight": false
+      },
+      {
+        "title": "Improving Synthesized Image Detection by Disentangling Generator-Shared and Generator-Specific Image Artifacts",
+        "highlight": false
+      },
+      {
+        "title": "PLR-Gate: Real-Time Gradient Privacy Assessment and Gated Transmission for Secure Federated Learning",
+        "highlight": false
+      },
+      {
+        "title": "A Unified Privacy-Utility Framework for Collaborative Inference via Randomized Smoothing",
+        "highlight": false
+      },
+      {
+        "title": "Verify Claimed Text-to-Image Models Via Boundary-Aware Prompt Optimization",
+        "highlight": false
+      },
+      {
+        "title": "Towards Robust Content Watermarking Against Removal and Forgery Attacks",
+        "highlight": false
+      },
+      {
+        "title": "Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment",
+        "highlight": false
+      },
+      {
+        "title": "CBDC: Clean Bias Direction Construction for Unsupervised Debiasing in Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack",
+        "highlight": false
+      },
+      {
+        "title": "Leveraging Unlabeled Data from Unknown Sources via Dual-Path Guidance for Deepfake Face Detection",
+        "highlight": false
+      },
+      {
+        "title": "SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "When Agents Steer Human Perception: How AI-Selected Images Can Convertly Alter Disagreements",
+        "highlight": false
+      },
+      {
+        "title": "UniShield: An Adaptive Multi-Agent Framework for Unified Forgery Image Detection and Localization",
+        "highlight": false
+      },
+      {
+        "title": "On the Group Disparities Arising from Machine Unlearning",
+        "highlight": false
+      },
+      {
+        "title": "Count What Repeats: Period-Adaptive Multi-Scale Consistency for Self-Supervised Repetitive Action Counting",
+        "highlight": false
+      },
+      {
+        "title": "Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "ConfDiff: Confidence-Guided Representation Diffusion for Video Moment Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "Evolutionary Multi-Agent Collaboration for Real-World Video Face Restoration",
+        "highlight": false
+      },
+      {
+        "title": "STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding",
+        "highlight": false
+      },
+      {
+        "title": "HiVid-Narrator: Hierarchical Video Narrative Generation with Scene-Primed ASR-anchored Compression",
+        "highlight": false
+      },
+      {
+        "title": "D^2-STX: Decoupling Spatial-Temporal Cross-Attention for Dual-branch Repetitive Action Counting",
+        "highlight": false
+      },
+      {
+        "title": "Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning",
+        "highlight": false
+      },
+      {
+        "title": "Mamba-VMR: Multimodal Query Augmentation Via Generated Videos for Precise Temporal Grounding",
+        "highlight": false
+      },
+      {
+        "title": "VideoThinker: Building Agentic VideoLLMs with LLM-Guided Tool Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "TP^2-DETR: Unlocking Deformable DETR for Zero-Shot Temporal Action Proposal Generation with Temporal Feature Pyramids",
+        "highlight": false
+      },
+      {
+        "title": "QENN: A Quantum Entanglement-Inspired Neural Network for Interaction and Relationship Prediction in Story Videos",
+        "highlight": false
+      },
+      {
+        "title": "FineGrade: A Rule-Consistent Scoring Framework for Fine‑Grained Action Quality Assessment",
+        "highlight": false
+      },
+      {
+        "title": "One Identity, Many Roles: Multimodal Entity Coreference for Enhanced Video Situation Recognition",
+        "highlight": false
+      },
+      {
+        "title": "REBA: Residual Mixture-of-Experts and Bidirectional Video–Text Alignment for Better Fine-grained Weakly Supervised Video Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding",
+        "highlight": false
+      },
+      {
+        "title": "VIDEOP2R: Video Understanding from Perception to Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Video-R4: Reinforcing Text-Rich Video Reasoning with Visual Rumination",
+        "highlight": false
+      },
+      {
+        "title": "ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models Via Spatial-Temporal Forest Modeling",
+        "highlight": false
+      },
+      {
+        "title": "HARP: Hierarchical Adaptive Ranking with Probabilistic Modeling for Skill Determination",
+        "highlight": false
+      },
+      {
+        "title": "STORM: End-to-End Referring Multi-Object Tracking in Videos",
+        "highlight": false
+      },
+      {
+        "title": "Extending Segment Anything Model 2 to Multi-Object Tracking by Optimizing Hierarchical Trajectory Memory",
+        "highlight": false
+      },
+      {
+        "title": "NCSTR: Node-Centric Decoupled Spatio-Temporal Reasoning for Video-based Human Pose Estimation",
+        "highlight": false
+      },
+      {
+        "title": "MOSSTrack : Modality-Specific Spatio-Temporal Context Learning for RGB-T Tracking",
+        "highlight": false
+      },
+      {
+        "title": "Temporally Consistent Long-Term Memory for 3D Single Object Tracking",
+        "highlight": false
+      },
+      {
+        "title": "DM^3T: Harmonizing Modalities via Diffusion for Multi-Object Tracking",
+        "highlight": false
+      },
+      {
+        "title": "IRDINO: Adapting DINOv3 with Second-Order Motion Awareness for Moving Infrared Small Target Detection",
+        "highlight": false
+      },
+      {
+        "title": "SemanticMoments: Training-Free Motion Similarity via Third Moment Features",
+        "highlight": false
+      },
+      {
+        "title": "TAPNext++: What’s Next for Tracking Any Point (TAP)?",
+        "highlight": false
+      },
+      {
+        "title": "ARGS: Auto-Regressive Gaussian Splatting via Parallel Progressive Next-Scale Prediction",
+        "highlight": false
+      },
+      {
+        "title": "100Editor: 100+ Views per Batch and Minute-Scale View-Consistent 3D Editing",
+        "highlight": false
+      },
+      {
+        "title": "DIAMOND-SSS: Diffusion-Augmented Multi-View Optimization for Data-efficient SubSurface Scattering",
+        "highlight": false
+      },
+      {
+        "title": "Reason-SVG: Enhancing Structured Reasoning for Vector Graphics Generation with Reinforcement Learning",
+        "highlight": false
+      },
+      {
+        "title": "Harmonized Multi-Layer Text-to-Image Generation with Generative Priors",
+        "highlight": false
+      },
+      {
+        "title": "StabiGS: Video Stabilization through Rendering-Aware Trajectory Optimization in 3DGS-Reconstructed Scenes",
+        "highlight": false
+      },
+      {
+        "title": "More Traces Better: Unified Artifact Modeling for Generalizable and Robust AI-generated Image Detection",
+        "highlight": false
+      },
+      {
+        "title": "Predicting Gene Expression in Spatially Resolved Transcriptomics Across Samples Through Probabilistic Fusion of Hierarchical Histology and Spatial Information",
+        "highlight": false
+      },
+      {
+        "title": "Don't Let the Information Slip Away",
+        "highlight": false
+      },
+      {
+        "title": "FraQAT: Quantization Aware Training with Fractional Bits",
+        "highlight": false
+      },
+      {
+        "title": "MAGIC: Few-Shot Mask-Guided Anomaly Inpainting with Prompt Perturbation, Spatially Adaptive Guidance, and Context Awareness",
+        "highlight": false
+      },
+      {
+        "title": "Video Inspector: An Agentic-RL Framework and Benchmark for Human-Aligned Generative Video Evaluation",
+        "highlight": false
+      },
+      {
+        "title": "From Pixels to Nucleotides: End-to-End Token-Based Video Compression for DNA Storage",
+        "highlight": false
+      },
+      {
+        "title": "CoPS: Conditional Prompt Synthesis for Zero-Shot Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "PSIM: Perceptual Similarity Index Measure",
+        "highlight": false
+      },
+      {
+        "title": "UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models",
+        "highlight": false
+      },
+      {
+        "title": "GreenPlanner: Practical Floorplan Layout Generation via an Energy-Aware and Function-Feasible Generative Framework",
+        "highlight": false
+      },
+      {
+        "title": "Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Spatial and Temporal Representation",
+        "highlight": false
+      },
+      {
+        "title": "WideEye: Achieving Wide Field-of-view Traffic Video Analytics With Dynamic Orientation Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback",
+        "highlight": false
+      },
+      {
+        "title": "Pose-dIVE: Pose-Diversified Augmentation for Person Re-Identification",
+        "highlight": false
+      },
+      {
+        "title": "Adaptive Reinforcement for Open-ended Medical Reasoning via Semantic-Guided Reward Collapse Mitigation",
+        "highlight": false
+      },
+      {
+        "title": "BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation",
+        "highlight": false
+      },
+      {
+        "title": "IEA: Amateur-Friendly Conversational Image Editing Agent via Three Stages of Multitask Alignment",
+        "highlight": false
+      },
+      {
+        "title": "QuPAINT: Physics-Aware Instruction Tuning Approach to Quantum Material Discovery",
+        "highlight": false
+      },
+      {
+        "title": "CLIPtone-GO: Geometry‐Aware, Gradient-Orthogonalized Text-Guided Color Tone Adjustment",
+        "highlight": false
+      },
+      {
+        "title": "Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems",
+        "highlight": false
+      },
+      {
+        "title": "Exploiting the Source-Asymmetry Confidence Gap for Generalizable AI-Generated Image Detection",
+        "highlight": false
+      },
+      {
+        "title": "CineMatte: Background Matting for Virtual Production and Beyond",
+        "highlight": false
+      },
+      {
+        "title": "GATE: Gaussian-Attentive Transformer for Uncertainty-Aware Age Estimation",
+        "highlight": false
+      },
+      {
+        "title": "GRAFT: Graph-Based Affordance Transfer via Part Correspondence",
+        "highlight": false
+      },
+      {
+        "title": "Face Time Traveller : Travel Through Ages Without Losing Identity",
+        "highlight": false
+      },
+      {
+        "title": "KGGAT: Knowledge-Guided Graph Attention Network for Multi-Label Image Classification",
+        "highlight": false
+      },
+      {
+        "title": "IntentEdit: Multi-Agent Reasoning for Intent-Driven Complex Image Editing",
+        "highlight": false
+      },
+      {
+        "title": "Gen-n-Val: Agentic Image Data Generation and Validation",
+        "highlight": false
+      },
+      {
+        "title": "SignReasoner: Compositional Reasoning for Complex Traffic Sign Understanding Via Functional Structure Units",
+        "highlight": false
+      },
+      {
+        "title": "DARTS: Distance-Aware Robust Training for Selective Classification",
+        "highlight": false
+      },
+      {
+        "title": "Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "PestVL-Net: Enabling Multimodal Pest Learning Via Fine-grained Vision-Language Interaction",
+        "highlight": false
+      },
+      {
+        "title": "Plug-and-Play Dynamic In-context Learning with Stochastic Regularization for Screen Content Image Super-Resolution",
+        "highlight": false
+      },
+      {
+        "title": "EscherNet++: A Scalable Multi-View Framework for Amodal Completion, Novel View Synthesis and Feed-Forward 3D Reconstruction",
+        "highlight": false
+      },
+      {
+        "title": "Human-Intervention Segmentation via Federated Intent Embedding and Multi-Mask Recommendation",
+        "highlight": false
+      },
+      {
+        "title": "Di3PO - Diptych Diffusion DPO for Targeted Improvements in Image Generation",
+        "highlight": false
+      },
+      {
+        "title": "Robust Image Self-Recovery against Tampering using Watermark Generation with Pixel Shuffling",
+        "highlight": false
+      },
+      {
+        "title": "Learning to Select, Learning to Judge: Active Preference Alignment for Mars Terrain Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "Attention Never Lie: Visual Attention Defocus Reveals and Rectifies Hallucinations in MLLMs",
+        "highlight": false
+      },
+      {
+        "title": "Organizing Unstructured Image Collections using Natural Language",
+        "highlight": false
+      },
+      {
+        "title": "Thinking with Blueprints: Assisting Vision–Language Models in Spatial Reasoning via Structured Object Representation",
+        "highlight": false
+      },
+      {
+        "title": "Mitigating Object Hallucinations in LVLMs via Attention Imbalance Rectification",
+        "highlight": false
+      },
+      {
+        "title": "Efficient3D : A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs",
+        "highlight": false
+      },
+      {
+        "title": "HiViS: Hiding Visual Tokens from the Drafter for Speculative Decoding in Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Visual Funnel: Resolving Contextual Blindness in Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Video Parallel Scaling: Aggregating Diverse Frame Subsets for VideoLLMs",
+        "highlight": false
+      },
+      {
+        "title": "Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach",
+        "highlight": false
+      },
+      {
+        "title": "Visual Reasoning Through Tool-Supervised Reinforcement Learning",
+        "highlight": false
+      },
+      {
+        "title": "VSI: Visual–Subtitle Integration for Keyframe Selection to Enhance Long Video Understanding",
+        "highlight": false
+      },
+      {
+        "title": "ProGAL-VLA: Grounded Alignment through Prospective Reasoning in Vision-Language-Action Models",
+        "highlight": false
+      },
+      {
+        "title": "Myopia Rectification: KV Cache Pruning for MLLMs Via Dynamic Attention Subsidy and Token Reclamation",
+        "highlight": false
+      },
+      {
+        "title": "NaiLIA: Multimodal Nail Design Retrieval Based on Dense Intent Descriptions and Palette Queries",
+        "highlight": false
+      },
+      {
+        "title": "Logical Consistency Optimization for Few-Shot Weakly Supervised Video Anomaly Detection",
+        "highlight": false
+      },
+      {
+        "title": "VEGAS: Mitigating Hallucinations in Large Vision-Language Models via Vision-Encoder Attention Guided Adaptive Steering",
+        "highlight": false
+      },
+      {
+        "title": "COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence",
+        "highlight": false
+      },
+      {
+        "title": "CoVCR: Bridging Visual Narrative Gaps via Context Generation for Robust Commonsense Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling",
+        "highlight": false
+      },
+      {
+        "title": "Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding",
+        "highlight": false
+      },
+      {
+        "title": "VoQA: Visual-only Question Answering",
+        "highlight": false
+      },
+      {
+        "title": "Benchmarking Vision-Language Models under Contradictory Virtual Content Attacks in Augmented Reality",
+        "highlight": false
+      },
+      {
+        "title": "Language-Augmented Semantic Priors for B-Spline Surface Fitting",
+        "highlight": false
+      },
+      {
+        "title": "Flash-Unified: A Training-Free and Task-Aware Acceleration Framework for Native Unified Models",
+        "highlight": false
+      },
+      {
+        "title": "Trajectory-Diversity-Driven Robust Vision-and-Language Navigation",
+        "highlight": false
+      },
+      {
+        "title": "V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Distilling Counterfactual Reasoning from Language to Vision: Causal Graph-Guided Post-Training for Video Understanding",
+        "highlight": false
+      },
+      {
+        "title": "Exploring Physics-aware Video Generation through Reinforcement Learning with Autoregressive Tokens",
+        "highlight": false
+      },
+      {
+        "title": "Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark",
+        "highlight": false
+      },
+      {
+        "title": "Overthinking Causes Hallucination: Tracing Confounder Propagation in Vision Language Models",
+        "highlight": false
+      },
+      {
+        "title": "GDP: Graph-Based Dynamic Personalization for Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "AnyExperts: On-Demand Expert Allocation for Multimodal Language Models with Mixture of Experts",
+        "highlight": false
+      },
+      {
+        "title": "Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis",
+        "highlight": false
+      },
+      {
+        "title": "Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space",
+        "highlight": false
+      },
+      {
+        "title": "RVLF: A Reinforcing Vision–Language Framework for Gloss-Free Sign Language Translation",
+        "highlight": false
+      },
+      {
+        "title": "Weaver: End-to-End Agentic System Training for Video Interleaved Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Grounding Hierarchical Vision-Language-Action Models Through Explicit Language-Action Alignment",
+        "highlight": false
+      },
+      {
+        "title": "Fine-Grained Visual Prompt and Region Self-Distillation for Retrieval-Augmented VQA",
+        "highlight": false
+      },
+      {
+        "title": "RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models",
+        "highlight": false
+      },
+      {
+        "title": "Modality-Aware Bit Allocation for Mixed-Precision Quantization of Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Analyzing and Enhancing Visual Learning in LLM-based Radiology Report Generation",
+        "highlight": false
+      },
+      {
+        "title": "DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding",
+        "highlight": false
+      },
+      {
+        "title": "EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration",
+        "highlight": false
+      },
+      {
+        "title": "Semantic Guided Feature Disentanglement and Reconstruction for Domain Adaptive Object Detection",
+        "highlight": false
+      },
+      {
+        "title": "Dual-Modality Anchor-Guided Filtering for Test-Time Prompt Tuning",
+        "highlight": false
+      },
+      {
+        "title": "Towards Efficient Multimodal Unified Reasoning Model via Model Merging",
+        "highlight": false
+      },
+      {
+        "title": "DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Can Textual Reasoning Improve the Performance of MLLMs on Fine-Grained Visual Classification?",
+        "highlight": false
+      },
+      {
+        "title": "VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack",
+        "highlight": false
+      },
+      {
+        "title": "StreamEQA: Towards Streaming Video Understanding for Embodied Scenarios",
+        "highlight": false
+      },
+      {
+        "title": "MASS: Motion-Aware Spatial–temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Syntax: Action Semantics Learning for App Agents",
+        "highlight": false
+      },
+      {
+        "title": "Learning to Select Visual In-Context Demonstrations",
+        "highlight": false
+      },
+      {
+        "title": "CheXmix: Unified Generative Pretraining for Vision Language Models in Medical Imaging",
+        "highlight": false
+      },
+      {
+        "title": "Mull-Tokens: Modality-Agnostic Latent Thinking",
+        "highlight": false
+      },
+      {
+        "title": "SPHINX: A Synthetic Environment for Visual Perception and Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "It’s Time to Get It Right: Improving Analog Clock Reading and Clock-Hand Spatial Reasoning in Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Uncertainty-Guided Graph Formulation via MWIS for Token Pruning in LVLMs",
+        "highlight": false
+      },
+      {
+        "title": "From Alignment to Reason: Multi-Agent Debate for Tactical Badminton Video Retrieval",
+        "highlight": false
+      },
+      {
+        "title": "Distilling Out-of-Distribution Knowledge from Large Language Models for CLIP Generalization",
+        "highlight": false
+      },
+      {
+        "title": "Multimodal Reasoning with Explicit Reasoning Patterns and Rewards",
+        "highlight": false
+      },
+      {
+        "title": "VRAG-DFD: Verifiable Retrieval-Augmentation for MLLM-based Deepfake Detection",
+        "highlight": false
+      },
+      {
+        "title": "MIRA: Multimodal Iterative Reasoning Agent for Image Editing",
+        "highlight": false
+      },
+      {
+        "title": "Mitigating Visual Context Degradation in Large Multimodal Models: A Training-Free Decoupled Agentic Framework",
+        "highlight": false
+      },
+      {
+        "title": "CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven Images",
+        "highlight": false
+      },
+      {
+        "title": "Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Model",
+        "highlight": false
+      },
+      {
+        "title": "Recursive Think-Answer Process for LLMs and VLMs",
+        "highlight": false
+      },
+      {
+        "title": "GenSRL: Generative Spatiotemporal Representation Learning for Ophthalmic Prognosis Prediction",
+        "highlight": false
+      },
+      {
+        "title": "Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection",
+        "highlight": false
+      },
+      {
+        "title": "LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation",
+        "highlight": false
+      },
+      {
+        "title": "VSAS-Bench: Real-Time Evaluation of Visual Streaming Assistant Models",
+        "highlight": false
+      },
+      {
+        "title": "Mitigating Vision-Text Order Bias in Vision-Language Model",
+        "highlight": false
+      },
+      {
+        "title": "MARS-RL: Enhancing Multi-Agent RAG Systems for Multi-Modal Documents via Strategic Reasoning with Reinforcement Learning",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Single Object: Learning 3D Relations with Large Language Models",
+        "highlight": false
+      },
+      {
+        "title": "CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare",
+        "highlight": false
+      },
+      {
+        "title": "Attention-Space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs",
+        "highlight": false
+      },
+      {
+        "title": "UnrealSpace: Analyzing Spatial Understanding and Reasoning in Controllable Simulation",
+        "highlight": false
+      },
+      {
+        "title": "Frequency-Modulated Visual Restoration for Matryoshka Large Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "Learning When to Look: A Disentangled Curriculum for Strategic Perception in Multimodal Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "Hierarchical Textual Knowledge for Enhanced Image Clustering",
+        "highlight": false
+      },
+      {
+        "title": "Are Multimodal Large Language Models Ready for Omnidirectional Spatial Reasoning?",
+        "highlight": false
+      },
+      {
+        "title": "Entropy-Based Visual Re-perception Inference for Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "VACoT: Rethinking Visual Data Augmentation with VLMs",
+        "highlight": false
+      },
+      {
+        "title": "Open World Image Aesthetic Assessment",
+        "highlight": false
+      },
+      {
+        "title": "coDrawAgents: A Multi-Agent Dialogue Framework for Compositional Image Generation",
+        "highlight": false
+      },
+      {
+        "title": "PosterGen: Aesthetic-Aware Multi-Modal Paper-to-Poster Generation Via Multi-Agent LLMs",
+        "highlight": false
+      },
+      {
+        "title": "Euclid’s Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks",
+        "highlight": false
+      },
+      {
+        "title": "Why MLLMs Struggle to Determine Object Orientations",
+        "highlight": false
+      },
+      {
+        "title": "VADE: Variance-Aware Dynamic Sampling via Online Sample-Level Difficulty Estimation for Multimodal Reinforcement Learning",
+        "highlight": false
+      },
+      {
+        "title": "Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration",
+        "highlight": false
+      },
+      {
+        "title": "Alleviating Hallucinations in Large Vision-Language Models via Decoding-Time Perturbation Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "RISE: Enhancing VLM Image Annotation with Self-Supervised Reasoning",
+        "highlight": false
+      },
+      {
+        "title": "SAM2Text: Towards Prompt-Free and Multi-Resolution Video Scene Text Segmentation",
+        "highlight": false
+      },
+      {
+        "title": "FVBench: Benchmarking Deepfake Video Detection Capability of Large Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs",
+        "highlight": false
+      },
+      {
+        "title": "Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models",
+        "highlight": false
+      },
+      {
+        "title": "EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Frame",
+        "highlight": false
+      },
+      {
+        "title": "αMatte4K & µMatting: Dataset and Model for Ultra-Micro Precision Alpha Video Matting",
+        "highlight": false
+      },
+      {
+        "title": "GeoRelight: Learning Joint Geometrical Reconstruction and Relighting with Flexible Multi-Modal Diffusion Transformers",
+        "highlight": true
+      },
+      {
+        "title": "Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation",
+        "highlight": false
+      },
+      {
+        "title": "RNED: Rotary Number Encoding and Decoding for Quantitative Medical VLM Analysis",
+        "highlight": false
+      },
+      {
+        "title": "Enabling Supervised Learning of Generative Signatures for Generalized Synthetic Image Detection",
+        "highlight": true
+      },
+      {
+        "title": "Evaluating Generative Models via One-Dimensional Code Distributions",
+        "highlight": true
+      },
+      {
+        "title": "MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Driving",
+        "highlight": false
+      },
+      {
+        "title": "Draft and Refine with Visual Experts",
+        "highlight": true
+      },
+      {
+        "title": "μVLM: A Vision Language Model for μNPUs",
+        "highlight": false
+      },
+      {
+        "title": "AMusE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding",
+        "highlight": false
+      },
+      {
+        "title": "Diagram2Structure: Unlocking LLMs' Diagram Comprehension through DiagramDiff, an Offline Diagram Structuring Framework",
+        "highlight": false
+      },
+      {
+        "title": "AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization",
+        "highlight": true
+      },
+      {
+        "title": "ExMesh: EXplicit Mesh Reconstruction with Topology Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "GMT: Effective Global Framework for Multi-Target Multi-Camera Tracking",
+        "highlight": false
+      },
+      {
+        "title": "FoleyDirector: Directing Temporal Controllable Video-to-Audio Generation via Fine-Grained Temporal Scripts",
+        "highlight": true
+      },
+      {
+        "title": "AutoDebias: An Automated Framework for Detecting and Mitigating Backdoor Biases in Text-to-Image Models",
+        "highlight": true
+      },
+      {
+        "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
+        "highlight": false
+      },
+      {
+        "title": "Visual Autoregressive Modeling via Next Focus Prediction",
+        "highlight": false
+      },
+      {
+        "title": "Structural–Semantic Perception for Diffusion-Guided Temporal Forgery Localization",
+        "highlight": false
+      },
+      {
+        "title": "Latent Chain-of-Thought World Modeling for End-to-End Driving",
+        "highlight": false
+      },
+      {
+        "title": "Scene-VLM: Multimodal Video Scene Segmentation via Vision-Language Models",
+        "highlight": false
+      },
+      {
+        "title": "Exploring the Underwater World Segmentation without Extra Training",
+        "highlight": false
+      },
+      {
+        "title": "ϕ-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models",
+        "highlight": false
+      },
+      {
+        "title": "Δynamics: Language-Based Representation for Inferring Rigid-Body Dynamics From Videos",
+        "highlight": false
+      },
+      {
+        "title": "BiPreManip: Learning Affordance-Based Bimanual Pre-Manipulation through Anticipatory Collaboration",
+        "highlight": true
+      },
+      {
+        "title": "Personalized Longitudinal Medical Report Generation via Temporally-Aware Federated Adaptation",
+        "highlight": false
+      },
+      {
+        "title": "Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models",
+        "highlight": true
+      },
+      {
+        "title": "Point Cloud as a Foreign Language for Multi-modal Large Language Model",
+        "highlight": false
+      },
+      {
+        "title": "Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers",
+        "highlight": true
+      },
+      {
+        "title": "FPSBench: A Benchmark for Video Understanding at High Frame Rates",
+        "highlight": false
+      },
+      {
+        "title": "Reinforcing Video Reasoning Segmentation to Think Before It Segments",
+        "highlight": false
+      },
+      {
+        "title": "R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Annealing and Reinforce Learning",
+        "highlight": false
+      }
+    ],
+    "proceedings_not_in_accepted": [
+      "Diagram2Structure: Unlocking LLMs' Diagram Comprehension through DiagramDiff, a Framework for Structuring Offline Diagrams",
+      "I'm a Map! Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers",
+      "FoleyDirector: Fine-Grained Temporal Steering for Video-to-Audio Generation via Structured Scripts",
+      "ICTPolarReal: A Polarized Reflection and Material Dataset of Real World Objects",
+      "mVLM: A Vision Language Model for mNPUs",
+      "Roots Beneath the Cut: Uncovering the Risk of Concept Revival in Pruning-Based Unlearning for Diffusion Models",
+      "RNED: Rotary Number Encoding and Decoding for Medical VLMs",
+      "Reinforcing Video Object Segmentation to Think before it Segments",
+      "$\\alpha$Matte4K & $\\mu$Matting: Dataset and Model for Ultra-Micro Precision Alpha Video Matting",
+      "Think 360deg: Beyond Depth: Evaluating the Width-centric Reasoning Capability of MLLMs",
+      "Dynamics: Language-Based Representation for Inferring Rigid-Body Dynamics From Videos",
+      "GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers",
+      "Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting",
+      "WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories",
+      "MeanFuser: Fast One-Step Multi-Modal Trajectory Generation and Adaptive Reconstruction via MeanFlow for End-to-End Autonomous Driving",
+      "Test-Time Perturbation Tuning with Delayed Feedback for Vision-Language-Action Models",
+      "GMT: Effective Global Framework for Multi-Camera Multi-Target Tracking",
+      "FVAR: Next-Focus Prediction for Visual Autoregressive Modeling",
+      "CaT-GS: Efficient 3DGS Rendering for Large-Scale Scenes with Inter-frame Caching and Tile Scheduling",
+      "$\\phi$-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models",
+      "Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving",
+      "Enabling Supervised Learning of Generative Signatures for Generalized AI-Generated Images Detection",
+      "$\\oslash$ Source Models Leak What They Shouldn't $\\nrightarrow$: Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization",
+      "VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation",
+      "BiPreManip: Learning Affordance-Based Bimanual Preparatory Manipulation through Anticipatory Collaboration",
+      "Expanding Spatial and Temporal Context for Robotic Imitation Learning With Scene Graphs",
+      "EchoVDiff: Cardiac-Cycle Echocardiography Video Generation from Arbitrary Single Frame",
+      "FPS-Bench: A Benchmark for High Frame-Rate Video Understanding",
+      "GrOCE : Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models",
+      "Protect to Adapt: Orthogonal Subspace Control with Ranked Negative-Prompt Curriculum for Few-Shot Action Recognition",
+      "ChangeBridge: Spatiotemporal Image Generation with Multimodal Controls for Remote Senisng",
+      "R-4B: Incentivizing General-Purpose Auto-Thinking in MLLMs via Bi-Mode Annealing and Reinforce Learning"
+    ]
+  }
+}
